@@ -1,0 +1,44 @@
+# 毎朝7時（日本時間）にニュース収集を自動実行する設定ファイル
+name: ニュース自動収集
+
+on:
+  schedule:
+    # GitHubは世界標準時で動くため、日本時間の朝7時 = 22:00（前日）と書きます
+    - cron: "0 22 * * *"
+  # 「Run workflow」ボタンで手動実行もできるようにする設定
+  workflow_dispatch:
+
+# news.json の更新をリポジトリに書き込むための権限
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. リポジトリの中身を作業場所にコピー
+      - name: ファイルを取得
+        uses: actions/checkout@v4
+
+      # 2. Python（収集プログラムを動かす言語）を準備
+      - name: Pythonを準備
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 3. RSS読み取り用の道具をインストール
+      - name: 必要な道具をインストール
+        run: pip install feedparser
+
+      # 4. ニュース収集を実行（data/news.json が更新される）
+      - name: ニュースを収集
+        run: python scripts/collect_news.py
+
+      # 5. 更新された news.json を保存（変更があった場合のみ）
+      - name: 結果を保存
+        run: |
+          git config user.name "news-bot"
+          git config user.email "actions@github.com"
+          git add data/news.json
+          git diff --cached --quiet || git commit -m "ニュース自動更新 $(date -u -d '+9 hours' '+%Y-%m-%d %H:%M JST')"
+          git push

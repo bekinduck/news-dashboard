@@ -1,0 +1,146 @@
+{
+ "generated_at": "2026-07-02T23:57:54.211729+09:00",
+ "days_kept": 14,
+ "articles": [
+  {
+   "title": "棚卸特化型SaaS 「ラクだな」 正式リリース、写真とAIで棚卸業務を支援",
+   "link": "https://ascii.jp/elem/000/004/415/4415532/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-07-02T07:00:00+09:00",
+   "summary": "株式会社ソトバコは6月26日に、写真とAIを活用することで棚卸を完了するという棚卸特化型SaaS「ラクだな」の正式リリースを発表した。"
+  },
+  {
+   "title": "法人向け健康経営支援サービス「Welly Compass」提供開始、健康データの一元管理から施策までを支援",
+   "link": "https://ascii.jp/elem/000/004/415/4415504/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-07-02T07:00:00+09:00",
+   "summary": "issin株式会社は6月29日に、法人向け健康経営支援サービス「Welly Compass」の提供開始を発表した。"
+  },
+  {
+   "title": "OpenAIやグーグルを使い分ける、\"AIのMVNO\"が存在感",
+   "link": "https://ascii.jp/elem/000/004/415/4415274/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-02T07:00:00+09:00",
+   "summary": "AIモデルを自社開発せず、OpenAIやグーグルなどを使い分ける\"AIのMVNO\"型企業が、資料作成需要をつかみ存在感を高めている。"
+  },
+  {
+   "title": "アンソロピックが「Claude Science」、創薬に照準",
+   "link": "https://ascii.jp/elem/000/004/415/4415540/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-02T06:31:09+09:00",
+   "summary": "アンソロピックは6月30日、科学研究を自律的に支援するAI製品「Claude Science」を発表した。理論上はあらゆる分野に使えるが、実際の力点は創薬にある。"
+  },
+  {
+   "title": "How ChatGPT adoption has expanded",
+   "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+   "source": "OpenAI News",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-06-30T18:00:00+09:00",
+   "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and drivin…"
+  },
+  {
+   "title": "Introducing GeneBench-Pro",
+   "link": "https://openai.com/index/introducing-genebench-pro",
+   "source": "OpenAI News",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-06-30T09:00:00+09:00",
+   "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world da…"
+  },
+  {
+   "title": "Mapping Europe's AI Workforce Opportunity",
+   "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+   "source": "OpenAI News",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-06-29T16:00:00+09:00",
+   "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow ch…"
+  },
+  {
+   "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+   "link": "https://openai.com/index/hp-frontier-partnership",
+   "source": "OpenAI News",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-06-29T02:00:00+09:00",
+   "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
+  },
+  {
+   "title": "〈マネジメント 再設計のススメ②〉管理職の仕事の6割が消える？AI発展の先に残る仕事は｢判断のルールブックの言語化｣だ | キャリア・教育 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/949334",
+   "source": "東洋経済オンライン",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-06-28T09:00:00+09:00",
+   "summary": "AIの進化が管理職の仕事に変革をもたらしています。AI活用が進む中で管理職に求められる役割とは。"
+  },
+  {
+   "title": "Previewing GPT-5.6 Sol: a next-generation model",
+   "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+   "source": "OpenAI News",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-06-26T19:00:00+09:00",
+   "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most …"
+  },
+  {
+   "title": "How agents are transforming work",
+   "link": "https://openai.com/index/how-agents-are-transforming-work",
+   "source": "OpenAI News",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-06-25T11:00:00+09:00",
+   "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across…"
+  },
+  {
+   "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+   "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+   "source": "OpenAI News",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-06-24T15:00:00+09:00",
+   "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI sys…"
+  },
+  {
+   "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+   "link": "https://openai.com/index/gpt-5-immunology-mystery",
+   "source": "OpenAI News",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-06-24T02:00:00+09:00",
+   "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and au…"
+  },
+  {
+   "title": "Daybreak: Tools for securing every organization in the world",
+   "link": "https://openai.com/index/daybreak-securing-the-world",
+   "source": "OpenAI News",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-06-22T19:00:00+09:00",
+   "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabil…"
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code のローカル設定（各自の環境用）
+.claude/
