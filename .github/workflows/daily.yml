@@ -40,5 +40,22 @@ jobs:
           git config user.name "news-bot"
           git config user.email "actions@github.com"
           git add data/news.json
-          git diff --cached --quiet || git commit -m "ニュース自動更新 $(date -u -d '+9 hours' '+%Y-%m-%d %H:%M JST')"
-          git push
+          # 変更がなければここで終了（コミットもプッシュもしない）
+          if git diff --cached --quiet; then
+            echo "変更なし。プッシュをスキップします。"
+            exit 0
+          fi
+          git commit -m "ニュース自動更新 $(date -u -d '+9 hours' '+%Y-%m-%d %H:%M JST')"
+          # リモートに新しいコミットがあってもプッシュが弾かれないよう、
+          # 取り込み（rebase）→プッシュを最大5回まで再試行する
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              echo "プッシュ成功（試行 $i 回目）"
+              exit 0
+            fi
+            echo "プッシュ失敗。リモートを取り込んで再試行します（試行 $i 回目）"
+            sleep 3
+          done
+          echo "5回試行してもプッシュできませんでした。" >&2
+          exit 1
