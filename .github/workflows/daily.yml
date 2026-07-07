@@ -19,6 +19,9 @@ jobs:
       # 1. リポジトリの中身を作業場所にコピー
       - name: ファイルを取得
         uses: actions/checkout@v4
+        with:
+          # 全履歴を取得（浅いクローンだと後の pull --rebase が失敗しうるため）
+          fetch-depth: 0
 
       # 2. Python（収集プログラムを動かす言語）を準備
       - name: Pythonを準備
@@ -49,7 +52,7 @@ jobs:
           # リモートに新しいコミットがあってもプッシュが弾かれないよう、
           # 取り込み（rebase）→プッシュを最大5回まで再試行する
           for i in 1 2 3 4 5; do
-            git pull --rebase origin main
+            git pull --rebase --autostash origin main
             if git push origin HEAD:main; then
               echo "プッシュ成功（試行 $i 回目）"
               exit 0
