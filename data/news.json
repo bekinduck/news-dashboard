@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-07-18T14:53:47.829229+09:00",
+ "generated_at": "2026-07-19T16:17:32.597126+09:00",
  "days_kept": 14,
  "articles": [
+  {
+   "title": "ReGACY、北海道の研究シーズの事業化を支援する「HSFC GAPファンド」の2026年度申請・伴走業務を受託",
+   "link": "https://prtimes.jp/main/html/rd/p/000000190.000099287.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-07-19T16:10:03+09:00",
+   "summary": "[ReGACY Innovation Group株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/99287/190/99287-190-cf5b42c5414052e1fa5514bfda3012a4-2128…"
+  },
+  {
+   "title": "【7/29オンラインセミナー開催】次世代ERPで実現する「企業間取引DX」と「AI活用」",
+   "link": "https://prtimes.jp/main/html/rd/p/000000058.000128741.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-19T16:10:03+09:00",
+   "summary": "[インフォコム株式会社] インフォコム株式会社(https://www.infocom.co.jp/)(本社：東京都港区、代表取締役社長：黒田 淳、以下 インフォコム)は、2026年7月29日（水）14:00より、GRANDITコンソーシアム(https://www.grandi…"
+  },
+  {
+   "title": "生成AIはホワイトペーパーを引用する？Optyino.aiがAI回答25,001件を分析、引用率はわずか0.4%",
+   "link": "https://prtimes.jp/main/html/rd/p/000000037.000124655.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-19T15:15:18+09:00",
+   "summary": "[株式会社Wallabee] Optyino.ai（オプティーノエーアイ）は、AI検索時代のブランド露出を可視化・最適化するGEO/AIO/LLMOプラットフォームであり、そこに蓄積されたAI回答ログをもとに、生成AIの回答の中でホワイトペーパー本体がど..."
+  },
+  {
+   "title": "生成AIはホワイトペーパーを引用する？Optyino.aiがAI回答25,001件を分析、引用率はわずか0.4%",
+   "link": "https://ascii.jp/elem/000/004/420/4420730/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-19T15:00:00+09:00",
+   "summary": "生成AIはホワイトペーパーを引用する？Optyino.aiがAI回答25,001件を分析、引用率はわずか0.4%"
+  },
   {
    "title": "「PR TIMESリリースがAIに引用される条件」の調査レポートを公開",
    "link": "https://prtimes.jp/main/html/rd/p/000000011.000163833.html",
@@ -9,8 +49,149 @@
    "genres": [
     "ai"
    ],
-   "published": "2026-07-18T14:40:02+09:00",
+   "published": "2026-07-19T14:40:03+09:00",
    "summary": "[株式会社Tech Knowledge Base] 株式会社Tech Knowledge Base（本社：京都府京都市中京区、代表取締役：永淵翔大）は、AI検索モニタリングプラットフォーム「Sighted」にて、PR TIMESの記事がChatGPTなどのAI検索に引用される条件…"
+  },
+  {
+   "title": "『【再放送】AIエージェント設計・活用の実践力を身に付ける』というテーマのウェビナーを開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000005465.000054842.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-19T14:40:03+09:00",
+   "summary": "[マジセミ株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/54842/5465/54842-5465-a0376df148c9c0d80d4ae755cfdadc39-1280x720.jpg?width=53…"
+  },
+  {
+   "title": "80万社、3,000万件の企業データを検索できるデータマネジメントサービス「DataPark（データパーク）」の提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000019.000058714.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-07-19T14:40:03+09:00",
+   "summary": "[NBS] 日本最大級の企業データ「Beegleデータ」を提供するネットビジネスサポート株式会社(https://www.net-bizs.jp/)（本社：東京都渋谷区、代表取締役社長 池上正夫、略称：NBS）は、この度、CRM、SFAの企業データの..."
+  },
+  {
+   "title": "ChatGPT・Geminiで自社は「どう」扱われているか",
+   "link": "https://prtimes.jp/main/html/rd/p/000000001.000187251.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-19T14:40:03+09:00",
+   "summary": "[株式会社スウィングクルー] 検索エンジンなら、何十ページ分もの候補がヒットする。だが生成AIに同じことを聞くと、答えるのはせいぜい数社--比較の土俵に上がれる企業の数が、桁違いに絞られている。 株式会社スウィングクルー（本社：東京..."
+  },
+  {
+   "title": "エクサベース AI、最新モデル「GPT-5.6（Sol）」を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000468.000030192.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-07-19T14:40:03+09:00",
+   "summary": "[株式会社エクサウィザーズ] 株式会社エクサウィザーズ（東京都港区、代表取締役社長CEO：春田 真、以下エクサウィザーズ）のグループ会社である株式会社Exa Enterprise AI（東京都港区、代表取締役：大植 択真、以下Exa Enterprise AI）は、..."
+  },
+  {
+   "title": "Google検索で繰り返し1位のサイトの65.6%は複数の生成AIにも引用される？Optyino.aiがAI回答1,360件を分析",
+   "link": "https://prtimes.jp/main/html/rd/p/000000036.000124655.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-19T12:45:17+09:00",
+   "summary": "[株式会社Wallabee] Optyino.ai（オプティーノエーアイ）は、AI検索時代のブランド露出を可視化・最適化するGEO/AIO/LLMOプラットフォームであり、そこに蓄積されたAI回答ログをもとに、Google検索で繰り返し1位になるサイトが複数の..."
+  },
+  {
+   "title": "AIの業務活用力を身につける資格『AI業務支援士（7月9日試験開始）』養成研修の申込者が80名を突破",
+   "link": "https://prtimes.jp/main/html/rd/p/000000011.000172808.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-19T12:15:24+09:00",
+   "summary": "[AISEE CONNECT] 生成AIスクールと法人研修事業を展開するAISEE CONNECT株式会社（代表取締役社長：松山 利基、以下「AISEE CONNECT」）は、AIの業務活用力を身につける資格「AI業務支援士（2026年7月9日試験開始）」養成研修につ..."
+  },
+  {
+   "title": "AUTOBOOST、550万件の企業DB×1,000万件超の人物データからAIが最適なターゲットリストを自動生成する「AIリスト作成機能」を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000079.000068842.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-07-19T12:10:03+09:00",
+   "summary": "[株式会社XAION DATA] [画像: https://prcdn.freetls.fastly.net/release_image/68842/79/68842-79-93caecd0dd8d709fcb9847fb80bb59cc-1920x1080.png?width=…"
+  },
+  {
+   "title": "Google検索で繰り返し1位のサイトの65.6%は複数の生成AIにも引用される？Optyino.aiがAI回答1,360件を分析",
+   "link": "https://ascii.jp/elem/000/004/420/4420727/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-19T12:06:02+09:00",
+   "summary": "Google検索で繰り返し1位のサイトの65.6%は複数の生成AIにも引用される？Optyino.aiがAI回答1,360件を分析"
+  },
+  {
+   "title": "AI検索時代のブランド可視化ツール「Optyino.ai」、AIエージェントからダッシュボードデータを直接参照できる「MCP接続」機能を一般公開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000035.000124655.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-19T11:41:00+09:00",
+   "summary": "[株式会社Wallabee] AI検索（生成AI・LLM検索）におけるブランドの可視性を計測・分析するツール「Optyino.ai」（オプティーノエーアイ）において、Claude Code・Codex・Claude Desktop・Cursor・Windsurf・VS Codeな…"
+  },
+  {
+   "title": "『生成AI時代のインフラ自動化、その設計で本番運用まで耐えられますか？』というテーマのウェビナーを開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000005461.000054842.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-19T11:40:03+09:00",
+   "summary": "[マジセミ株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/54842/5461/54842-5461-7501ae47367e8831b35c460bcb9990e7-1280x720.jpg?width=53…"
+  },
+  {
+   "title": "AI検索時代のブランド可視化ツール「Optyino.ai」、AIエージェントからダッシュボードデータを直接参照できる「MCP接続」機能を一般公開",
+   "link": "https://ascii.jp/elem/000/004/420/4420721/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-19T09:45:05+09:00",
+   "summary": "AI検索時代のブランド可視化ツール「Optyino.ai」、AIエージェントからダッシュボードデータを直接参照できる「MCP接続」機能を一般公開"
+  },
+  {
+   "title": "在庫限りの特価で発売中！魔法のようなギミックを持つゲーミングPCがすごい！：マウスコンピューター G-Tune : Garage 大阪店",
+   "link": "https://ascii.jp/elem/000/004/420/4420657/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-19T09:00:00+09:00",
+   "summary": "ボタン1つでガラスパネルの透明度を切り替えられるだと？ 魔法のようなギミック「クリアシフトシステム」を搭載したゲーミングPC「NEXTGEAR EG-A7G6T/EX」が店頭在庫限りの数量限定で販売中。"
+  },
+  {
+   "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-19T08:40:43+09:00",
+   "summary": "27BクラスのモデルをiPhoneで実行可能な容量に収めたとしている。"
+  },
+  {
+   "title": "Kimi: Threat or menace?",
+   "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-07-19T03:51:07+09:00",
+   "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
   },
   {
    "title": "株式会社クリーム、DRM付き動画配信PaaS「Filma」を提供開始",
@@ -23,16 +204,6 @@
    "summary": "[株式会社クリーム] 株式会社クリーム、DRM付き動画配信PaaS「Filma」を提供開始 Widevine・PlayReady・FairPlayに標準対応。動画をアップロー..."
   },
   {
-   "title": "『【再放送】AIエージェント設計・活用の実践力を身に付ける』というテーマのウェビナーを開催",
-   "link": "https://prtimes.jp/main/html/rd/p/000005465.000054842.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-07-18T14:40:02+09:00",
-   "summary": "[マジセミ株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/54842/5465/54842-5465-a0376df148c9c0d80d4ae755cfdadc39-1280x720.jpg?width=53…"
-  },
-  {
    "title": "日本IBM、エンタープライズ向けAI駆動開発を本格展開",
    "link": "https://prtimes.jp/main/html/rd/p/000000726.000046783.html",
    "source": "PR TIMES",
@@ -41,37 +212,6 @@
    ],
    "published": "2026-07-18T14:40:02+09:00",
    "summary": "[日本IBM] - エンタープライズ向けAI駆動開発ソリューション「AI Lifecycle Shared Engineering Artifacts（ALSEA）」を提供開始- 「コンテキスト」と「ハーネス」により、AIが生成する成果物の品質と整合性を確保<br/..."
-  },
-  {
-   "title": "80万社、3,000万件の企業データを検索できるデータマネジメントサービス「DataPark（データパーク）」の提供を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000019.000058714.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-07-18T14:40:02+09:00",
-   "summary": "[NBS] 日本最大級の企業データ「Beegleデータ」を提供するネットビジネスサポート株式会社(https://www.net-bizs.jp/)（本社：東京都渋谷区、代表取締役社長 池上正夫、略称：NBS）は、この度、CRM、SFAの企業データの..."
-  },
-  {
-   "title": "ChatGPT・Geminiで自社は「どう」扱われているか",
-   "link": "https://prtimes.jp/main/html/rd/p/000000001.000187251.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-07-18T14:40:02+09:00",
-   "summary": "[株式会社スウィングクルー] 検索エンジンなら、何十ページ分もの候補がヒットする。だが生成AIに同じことを聞くと、答えるのはせいぜい数社--比較の土俵に上がれる企業の数が、桁違いに絞られている。 株式会社スウィングクルー（本社：東京..."
-  },
-  {
-   "title": "エクサベース AI、最新モデル「GPT-5.6（Sol）」を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000468.000030192.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-07-18T14:40:02+09:00",
-   "summary": "[株式会社エクサウィザーズ] 株式会社エクサウィザーズ（東京都港区、代表取締役社長CEO：春田 真、以下エクサウィザーズ）のグループ会社である株式会社Exa Enterprise AI（東京都港区、代表取締役：大植 択真、以下Exa Enterprise AI）は、..."
   },
   {
    "title": "【オンラインセミナー】音声認識実装LIVE AmiVoiceと生成AIで文字起こしアプリを作ってみた ～バイブコーディング編～【7月28日（火）開催】",
@@ -655,16 +795,6 @@
    ],
    "published": "2026-07-17T11:14:00+09:00",
    "summary": "Metaは、10代のユーザーが「Meta AI」との会話で自殺や自傷をほのめかした場合、Instagramのペアレンタルコントロール機能を利用する保護者に通知する新機能を発表した。米、英、豪、加で提供を開始しており、年内にグローバルに拡大する計画。自殺の差し迫ったリスクがあると判…"
-  },
-  {
-   "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
-   "link": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-07-17T10:59:41+09:00",
-   "summary": "27BクラスのモデルをiPhoneで実行可能な容量に収めたとしている。"
   },
   {
    "title": "顔認証技術を活用した勤怠DX　勤怠管理システム「MOT勤怠管理」において自動退勤機能など5つの新機能",
@@ -7257,56 +7387,6 @@
    ],
    "published": "2026-07-06T02:43:36+09:00",
    "summary": "These may be the last days of Amazon’s Mechanical Turk."
-  },
-  {
-   "title": "マイクロン、AI需要で広島工場増強へ起工式　1.5兆円投資",
-   "link": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-07-05T11:00:00+09:00",
-   "summary": "マイクロンメモリ ジャパンは2026年7月、広島工場の生産能力増強に向けた新クリーンルーム建設の起工式を開催した。AI技術の進展に伴うメモリ需要の増加に対応するもので、2028年後半に製造装置の搬入を開始する予定だ。広島工場には今後、この新クリーンルーム建設を含めて1兆5000億…"
-  },
-  {
-   "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-   "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-07-05T05:55:25+09:00",
-   "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had ac…"
-  },
-  {
-   "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-   "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-07-05T03:00:05+09:00",
-   "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI th…"
-  },
-  {
-   "title": "Alibaba reportedly bans employees from using Claude Code",
-   "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-07-05T01:32:08+09:00",
-   "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
-  },
-  {
-   "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-   "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-07-05T00:51:32+09:00",
-   "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put fr…"
   }
  ]
 }
