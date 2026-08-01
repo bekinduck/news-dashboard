@@ -1,7 +1,460 @@
 {
- "generated_at": "2026-08-01T16:35:32.653513+09:00",
+ "generated_at": "2026-08-02T07:54:00.890639+09:00",
  "days_kept": 14,
  "articles": [
+  {
+   "title": "OpenAI、アクティブユーザー10億人超に　導入企業は200万社超",
+   "link": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T07:21:26+09:00",
+   "summary": "OpenAIは、アクティブユーザーが10億人、導入企業が200万社を突破したと公表した。推論の保持やコンテキスト管理の改善、本番ソフトウェアの最適化によりコスト削減やトークン生成効率の向上を実現。「GPT-5.6」の一部モデルの値下げはこれらの成果を顧客に還元したものであり、再投…"
+  },
+  {
+   "title": "ボディデザイン治療「直角肩フィラー（直角肩ヒアルロン酸）」を湘南美容クリニック新宿本院で2026年7月28日（火）より提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000031.000165112.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T07:10:02+09:00",
+   "summary": "[湘南美容クリニック] 湘南美容クリニック（事業所：東京都新宿区）は、2026年7月28日（火）より、新宿本院にて新メニュー「直角肩フィラー（直角肩ヒアルロン酸）」の提供を開始いたします。本治療は、肩先や鎖骨周囲へヒアルロン酸..."
+  },
+  {
+   "title": "【SIGNATE】初開催「AI・人工知能EXPO NEO」に出展！戦略立案AI『SIGNATE WorkAI』を中心に組織のAXを支援する各種ソリューションを展示",
+   "link": "https://prtimes.jp/main/html/rd/p/000000323.000038674.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T07:10:02+09:00",
+   "summary": "[株式会社SIGNATE] AI活用の戦略策定から実行、人材育成までを一気通貫で支援する株式会社SIGNATE（本社：東京都中央区、代表取締役社長：齊藤 秀、以下「SIGNATE」）は、2026年8月5日（水）・6日（木）に東京国際フォーラムで開催..."
+  },
+  {
+   "title": "秀和システム新社がKDDIの対話型AI「Buffmee(バフミー)」に参画、専門コンテンツを提供開始！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000185.000169048.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T07:10:02+09:00",
+   "summary": "[株式会社秀和システム新社] 株式会社秀和システム新社（本社：東京都千代田区、代表取締役社長：津島 憲豪）は、2026年7月28日（火）、KDDI 株式会社（本社：東京都千代田区、代表取締役社長 CEO：松田 浩路）が同日より提供を開始する、出..."
+  },
+  {
+   "title": "社労士向け規程業務DXサービスの新機能「KiteRa アンテナ」提供開始。関心に応じて法改正情報・省庁ニュースを自動収集。関連法令の横断検索や、法改正スケジュールの一覧確認も可能に",
+   "link": "https://prtimes.jp/main/html/rd/p/000000124.000045846.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T07:10:02+09:00",
+   "summary": "[株式会社KiteRa] 「安心して働ける世界をつくる」をミッションに掲げ、社内規程SaaSの社労士向けサービス「KiteRa Pro（キテラプロ）」と企業向けサービス「KiteRa Biz（キテラビズ）」を提供する株式会社KiteRa（代表取締役 執行..."
+  },
+  {
+   "title": "建設サイト・シリーズの技能者向けアプリ「Myグリーンサイト」、SORABITO社「GENBAx点検」と連携開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000103.000058133.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T07:10:02+09:00",
+   "summary": "[エムシーディースリー株式会社] エムシーディースリー株式会社（東京都渋谷区、代表取締役社長：飯田正生）は、建設現場のDX推進に向けて構築を進める「外部サービス連携基盤」の第一弾として、SORABITO株式会社（東京都中央区、代表取締役社長..."
+  },
+  {
+   "title": "アブダビ・ヤス島の新住宅「The Canopies at Yas Point」の抽選登録を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000048.000138752.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T07:10:02+09:00",
+   "summary": "[BITEX REAL ESTATE BROKERAGE L.L.C] [画像1: https://prcdn.freetls.fastly.net/release_image/138752/48/138752-48-15db79f3cfdc34fc1b3bfc1d24ed374…"
+  },
+  {
+   "title": "Anyflow Embed、AIによるコード生成でAPI連携を構築する「コードソリューション」β版を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000043.000034258.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T07:10:02+09:00",
+   "summary": "[Anyflow] [画像: https://prcdn.freetls.fastly.net/release_image/34258/43/34258-43-13e2ad98d47ef80e0ef6326b39b234de-1280x720.png?width=536&amp;…"
+  },
+  {
+   "title": "2026年の運勢｜Love Me Doが数秘術で占う、2026年の総合運。『2026年上半期人気鑑定ランキングTOP10』を発表！限定鑑定がもらえるキャンペーンを開催。",
+   "link": "https://prtimes.jp/main/html/rd/p/000001314.000074768.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T07:10:02+09:00",
+   "summary": "[株式会社レンサ] 株式会社レンサ（本社：東京都渋谷区、代表取締役：武井哲也）は、2026年7月31日（金）19時より、運営する公式占いサイト「Love Me Do◆数秘術」にて『2026年上半期人気鑑定ランキングキャンペーン』の提供を開始..."
+  },
+  {
+   "title": "聞こえにくい会話を大きな字幕に。iPhone・iPad向けアプリ「じまくん」を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000004.000139126.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T07:10:02+09:00",
+   "summary": "[Tiida Tech] Tiida Tech Ltd.は、目の前の会話をリアルタイムで大きな字幕にするiPhone・iPad向けアプリ「じまくん（Jimakun）」の提供を開始しました。聞こえにくさを感じる方が、家族との食事や病院の受付、外出先などで、..."
+  },
+  {
+   "title": "JPIN株式会社、衛星データマーケットの新機軸を打ち出す。国内外のユーザー様に向けたサービス提供を開始。",
+   "link": "https://prtimes.jp/main/html/rd/p/000000011.000176786.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T07:10:02+09:00",
+   "summary": "[JPIN株式会社] 制作実績：SatelliteData.org（衛星データマーケットプレイス） クライアント：Allweather Limited（香港・関連会社） JPIN株式会社（https://jpin.jp/）は、Allweather Limited（香港法人）からの…"
+  },
+  {
+   "title": "『【中堅・大企業向け】生成AI活用を阻む機密データの壁』というテーマのウェビナーを開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000005505.000054842.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T07:10:02+09:00",
+   "summary": "[マジセミ株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/54842/5505/54842-5505-369eb120434a3166a951d47ef6716a3d-1280x720.jpg?width=53…"
+  },
+  {
+   "title": "「ZETA SEARCH」が「ITreview Grid Award 2026 Summer」のサイト内検索ツール部門で「Leader」を受賞",
+   "link": "https://prtimes.jp/main/html/rd/p/000000640.000038104.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T07:10:02+09:00",
+   "summary": "[ZETA株式会社] CX向上生成AIソリューション「ZETA CXシリーズ」を提供し、顧客体験価値の向上を支援するZETA株式会社(本社：東京都世田谷区、以下ZETA)は、アイティクラウド株式会社が運営するIT製品・SaaSの比較検討ができる国..."
+  },
+  {
+   "title": "マンション居住者向け掲示板アプリ「Rejiport」、全国での管理組合で続々導入",
+   "link": "https://prtimes.jp/main/html/rd/p/000000007.000176717.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T07:10:02+09:00",
+   "summary": "[株式会社NCY] マンション居住者向け掲示板アプリ「Rejiport（レジポート）」は、 このたび、全国のマンション管理組合において導入がサービス提供開始から 利用総数が20棟を突破していることをお知らせします。 マンション管..."
+  },
+  {
+   "title": "介護事業者が自社で使ってきた研修eラーニング「福ひろばラーニング」、2026年8月1日より社外提供を開始 ― 介護から障がい福祉まで15事業種別・全351コース",
+   "link": "https://prtimes.jp/main/html/rd/p/000000004.000170257.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T07:10:02+09:00",
+   "summary": "[株式会社はなひろ] 株式会社はなひろ（福島県須賀川市、代表：塙啓之）は、自社の介護現場で活用してきた事業所向けeラーニング「福ひろばラーニング」（learning.hana-hiro.com/demo）を、2026年8月1日より、社外の介護・障がい福..."
+  },
+  {
+   "title": "半導体を売るために借金したグーグル親会社アルファベットの決算が映す｢AIビジネスの構造変化｣ | 政治・経済・投資 | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/952506?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "source": "東洋経済オンライン",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T07:00:00+09:00",
+   "summary": "アルファベットは自社開発のAIチップ｢TPU｣や基盤モデル｢Gemini｣､検索からYouTubeまでを一手に扱うフルスタック体制でAI競争の最前線に立っています。"
+  },
+  {
+   "title": "企業向けAIプラットフォーム「ADDIX Agent Hub」の提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000319.000012846.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-08-02T06:40:02+09:00",
+   "summary": "[株式会社 ADDIX] 株式会社ADDIX（所在地：東京都港区、代表取締役社長：伊藤雄剛 以下、ADDIX）は、企業のAI活用を支援するAIプラットフォーム「ADDIX Agent Hub（https://addix-agenthub.com/）」の提供を開始しました。 本サー…"
+  },
+  {
+   "title": "「マネーキャリア」を運営する株式会社Wizleapが、株式会社ほけんのぜんぶへ「MCマーケットクラウド（MCMC）」の提供を開始 - 社内案件配信のDXと実績集計の高度化を支援",
+   "link": "https://prtimes.jp/main/html/rd/p/000000281.000052686.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T06:40:02+09:00",
+   "summary": "[株式会社Wizleap] お金の相談プラットフォーム「マネーキャリア（https://money-career.com/）」を運営する株式会社Wizleap（東京都渋谷区、代表取締役 谷川昌平）は、株式会社ほけんのぜんぶへ、共同募集の案件配信システム「MCマ..."
+  },
+  {
+   "title": "SORABITOの「GENBAx点検」がエムシーディースリーの建設業向けクラウドサービス「グリーンサイト」と第二弾の連携を開始。",
+   "link": "https://prtimes.jp/main/html/rd/p/000000176.000015533.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T06:40:02+09:00",
+   "summary": "[SORABITO株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/15533/176/15533-176-e0c98380812f1eee9762550389cb60ca-1200x630.jpg?width=…"
+  },
+  {
+   "title": "マンション機械式駐車場の方針決定を支援する新サービスを提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000130.000002667.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T06:40:02+09:00",
+   "summary": "[さくら事務所] [画像1: https://prcdn.freetls.fastly.net/release_image/2667/130/2667-130-428d2a6293ecbf1873fde51ccd4ac525-1731x909.png?width=536&amp;…"
+  },
+  {
+   "title": "【スマケア】記録業務を「ゼロから書く」から「AIと直す」時代へ！スマケアユーザー限定『スマケアAIオプション』本格提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000072.000032925.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T06:40:02+09:00",
+   "summary": "[ホームネット] ホームネット株式会社（東京都中野区、以下当社）が提供する定期巡回・随時対応型訪問介護看護（以下、定期巡回・随時対応サービス）向け業務支援システム「SmaCare（スマケア）」は、日々の実績データの分析と記..."
+  },
+  {
+   "title": "JOB PALETTE、広告依存からの脱却を支援する企業向け「リファラルナーチャリング設計支援サービス」の提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000021.000137443.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T06:40:02+09:00",
+   "summary": "[ジョブパレット] 株式会社JOB PALETTE（本社：東京都港区三田3-4-3 RIPL9、代表取締役社長：種田和音、以下JOB PALETTE）は、6月に提唱した「リファラルナーチャリング」の考え方について、自社での実践知をもとにした企業向け支..."
+  },
+  {
+   "title": "JOB PALETTE、独自の言葉で差別化を図る企業向け「ゼロベースドブランディング策定支援サービス」の提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000020.000137443.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T06:40:02+09:00",
+   "summary": "[ジョブパレット] 株式会社JOB PALETTE（本社：東京都港区三田3-4-3 RIPL9、代表取締役社長：種田和音、以下JOB PALETTE）は、先日提唱した独自のブランディング手法「ゼロベースドブランディング」について、自社での実践知をもと..."
+  },
+  {
+   "title": "デジタル技術を活用した鉄道助成実証実験（高齢者・障害者）を行います",
+   "link": "https://prtimes.jp/main/html/rd/p/000000479.000073910.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T06:40:02+09:00",
+   "summary": "[姫路市] [画像: https://prcdn.freetls.fastly.net/release_image/73910/479/73910-479-112b4cb9ca1d63a7b4e7cc462cff10fa-1910x2700.jpg?width=536&amp;q…"
+  },
+  {
+   "title": "【事例紹介】株式会社ゆうちょ銀行が「テックキャンプ AI活用支援サービス」を導入。セキュリティ制約の厳しい金融機関において、現場主導でデータ整理を自動化する業務改善ツールの内製化を実現",
+   "link": "https://prtimes.jp/main/html/rd/p/000000109.000059107.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T06:40:02+09:00",
+   "summary": "[株式会社div] AI・IT教育事業を展開する株式会社div（本社：東京都港区、代表取締役社長：石原 圭）は、全国に広がるネットワークを通じて貯金・送金・資産運用などの金融サービスを提供する株式会社ゆうちょ銀行（以下、ゆう..."
+  },
+  {
+   "title": "ケラチンに着目した「KERAGENIC」より高濃度*¹ケラチンPPT*²配合のヘアマスクを８月１日（土）に新発売。",
+   "link": "https://prtimes.jp/main/html/rd/p/000000023.000157744.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T06:40:02+09:00",
+   "summary": "[株式会社bridge] [画像1: https://prcdn.freetls.fastly.net/release_image/157744/23/157744-23-40056b389d2104b1c9254e901be78816-2293x1280.jpg?width=5…"
+  },
+  {
+   "title": "2日でClaude CodeをマスターするホリエモンAI学校のCampに「法人貸切100万円プラン」登場、最大100.1万円の助成金も",
+   "link": "https://prtimes.jp/main/html/rd/p/000000142.000142396.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T06:40:02+09:00",
+   "summary": "[ホリエモンAI学校株式会社] ホリエモンAI学校株式会社（本社：東京都、代表取締役社長：荒木賢二郎）は、本日7月29日より、生成AIを活用した業務改善やシステム開発を2日間で集中的に学ぶ2日Camp Claude Code編に、新たに「法人貸切100万..."
+  },
+  {
+   "title": "DGDV、リチウムの供給網を日本発技術で再構築する\"LiSTie\"に出資",
+   "link": "https://prtimes.jp/main/html/rd/p/000000126.000076641.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T06:10:02+09:00",
+   "summary": "[DGDV] DG Daiwa Ventures（ 以下「DGDV」）は、国立研究開発法人量子科学技術研究開発機構（QST）発のリチウム回収技術「LiSMIC」を開発・事業化するLiSTie株式会社（本社：青森県上北郡六ヶ所村、以下「LiSTie」）に出..."
+  },
+  {
+   "title": "国産半導体メーカーのしるし株式会社、ユニファイジャパンとの業務提携のお知らせ",
+   "link": "https://prtimes.jp/main/html/rd/p/000000015.000110349.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T06:10:02+09:00",
+   "summary": "[しるし株式会社] しるし株式会社（本社：東京都立川市、代表取締役 CEO：櫻田 学、以下：当社）は、株式会社ユニファイジャパン（本社：神奈川県川崎市、代表取締役：寺田 常徳、以下：ユニファイジャパン）と2026年7月7日付で業..."
+  },
+  {
+   "title": "株式会社ミカド、Web統合監視SaaS『SITE RADAR』を2026年8月17日より提供開始～月額1,500円から低価格で4領域を自動監視、「動的サイトシール」でセキュリティをビジネス価値へ変換～",
+   "link": "https://prtimes.jp/main/html/rd/p/000000004.000083357.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T06:10:02+09:00",
+   "summary": "[株式会社ミカド] 株式会社ミカド（本社：東京都千代田区、代表取締役：青柳 恵介）は、Webインフラセキュリティの4領域（Web・SSL・メール・AI）を24時間365日統合監視するSaaS『SITE RADAR（サイトレーダー）』を、2026年8月17日..."
+  },
+  {
+   "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+   "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T05:26:04+09:00",
+   "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
+  },
+  {
+   "title": "【たけたろう】韓国発グローバルコスメブランド「BANILA CO」ブランド初の日本公式アンバサダーに就任",
+   "link": "https://prtimes.jp/main/html/rd/p/000000021.000167469.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T05:10:02+09:00",
+   "summary": "[WOWs] クリエイターの才能を事業化するエージェンシー、株式会社WOWs（本社：東京都渋谷区、代表取締役：李晟在、以下「WOWs」）は、当社所属クリエイター・たけたろうが、韓国発グローバルコスメブランド「BANILA CO（..."
+  },
+  {
+   "title": "1万人絶賛【本音/現実/日付】48星秘術で具体的中◆細密星読師 ミエルのコンテンツが「本格占い｜みのり」で提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000001299.000074768.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T05:10:02+09:00",
+   "summary": "[株式会社レンサ] 株式会社レンサ（本社：東京都渋谷区、代表取締役：武井哲也）とテレシスネットワーク株式会社（本社：東京都港区、代表取締役：鷹石惠充）は、2026年7月30日（木）より、運営する、『みのり～本格占い～』にて「..."
+  },
+  {
+   "title": "HashPort、株式会社モアクトのアプリ「モアクト」のNORMポイントと日本円ステーブルコイン「JPYC」の交換機能を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000183.000046288.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T05:10:02+09:00",
+   "summary": "[株式会社HashPort] 株式会社HashPort（本社：東京都港区、代表取締役CEO：吉田 世博、以下「HashPort」）は、株式会社モアクト（本社：大阪府大阪市、代表取締役社長：小山 陽平、以下「モアクト社」、関西電力株式会社の100%子会社..."
+  },
+  {
+   "title": "「Bitfan」にてアカペラグループ・RAG FAIRのオフィシャルファンクラブをオープン！",
+   "link": "https://prtimes.jp/main/html/rd/p/000001676.000017372.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T05:10:02+09:00",
+   "summary": "[SKIYAKI] クリエイターとファンをつなぐプラットフォームを創造する株式会社SKIYAKI（本社：東京都渋谷区、代表取締役：小久保知洋、以下「SKIYAKI」）は、2026年8月1日（土）にRAG FAIRのオフィシャルファンクラブを公開..."
+  },
+  {
+   "title": "2026年下半期の運勢｜シークエンスはやともが占う仕事運・恋愛運・結婚運。期間中、鑑定チケットがもらえる「サイト開設4周年ありがとうキャンペーン」開催中",
+   "link": "https://prtimes.jp/main/html/rd/p/000001312.000074768.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T05:10:02+09:00",
+   "summary": "[株式会社レンサ] 株式会社レンサ（本社：東京都渋谷区、代表取締役：武井哲也）は、2026年7月31日（金)より、運営する公式占いサイト『シークエンスはやともの占い』にて、「サイト開設4周年ありがとうキャンペーン」の提供を開始..."
+  },
+  {
+   "title": "敷島住宅、Agentforceを導入し住宅業界におけるAI活用を加速",
+   "link": "https://prtimes.jp/main/html/rd/p/000000384.000041550.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T05:10:02+09:00",
+   "summary": "[株式会社セールスフォース・ジャパン] [画像: https://prcdn.freetls.fastly.net/release_image/41550/384/41550-384-c16b67a46bc2a3d7af6057a7e59834a5-451x254.png?wid…"
+  },
+  {
+   "title": "マウザー、Texas Instruments 1.5W絶縁型DC/DCモジュール「UCC33420-Q1」の取り扱いを開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000275.000136133.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T05:10:02+09:00",
+   "summary": "[Mouser Electronics, Inc.] 新製品投入（New Product Introduction: NPI）の業界リーダー(TM)として、イノベーションを推進 するMouser Electronics(https://www.mouser.jp/ja/)（マウザ…"
+  },
+  {
+   "title": "Deel、Microsoft Marketplaceでの提供を開始 Microsoft製品との統合により、企業のDXとイノベーションを支援",
+   "link": "https://prtimes.jp/main/html/rd/p/000000073.000090798.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-02T05:10:02+09:00",
+   "summary": "[Deel Inc.] グローバルチーム向けオールインワン人事・給与プラットフォームを提供するDeel(https://www.deel.com/ja/)（CEO：Alex Bouaziz）は、Microsoft Marketplaceでのサービス提供を開始したことを発表しました…"
+  },
+  {
+   "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+   "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T04:45:45+09:00",
+   "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy …"
+  },
+  {
+   "title": "Sam Altman is still making the case for parenting via ChatGPT",
+   "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T02:07:34+09:00",
+   "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
+  },
+  {
+   "title": "This $9 key physically locks your most addictive apps",
+   "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-02T00:58:17+09:00",
+   "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
+  },
+  {
+   "title": "Core Ultra X7・最大50TOPS搭載。24時間動く16型OLEDノート「Acer Swift 16 AI」",
+   "link": "https://ascii.jp/elem/000/004/423/4423700/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-01T20:00:00+09:00",
+   "summary": "AcerのノートPC「Acer Swift 16 AI」がAmazonタイムセール対象。317,980円で販売中。約24時間駆動と16インチ2.8K OLEDディスプレイを備え、Core Ultra X7 358Hプロセッサーと最大50TOPSのAI性能にも対応したCopilot…"
+  },
+  {
+   "title": "Google EarthのNano Banana画像生成、フェイク対策のため開始1日で停止",
+   "link": "https://www.watch.impress.co.jp/docs/news/2129842.html",
+   "source": "Impress Watch",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-08-01T19:53:10+09:00",
+   "summary": "Googleは31日(米国時間)、Web版の「Google Earth」において30日に提供開始したばかりの画像生成機能を停止した。再開に向けて、より強力なガードレールを導入するなどの対策を進める。"
+  },
+  {
+   "title": "ホテルスタッフがどんどん数字に強くなる。ホテル特化AIエージェント「JOINTPOOL AI」正式ローンチ",
+   "link": "https://ascii.jp/elem/000/004/424/4424141/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-08-01T16:20:00+09:00",
+   "summary": "ホテルスタッフがどんどん数字に強くなる。ホテル特化AIエージェント「JOINTPOOL AI」正式ローンチ"
+  },
   {
    "title": "株式会社Mavericksは、動画生成AI「NoLang」の素材検索を刷新。BGM・フォントなど7種類を「明るい気分になる曲」「上品」といった雰囲気の言葉で検索でき、素材名や分類を知らずに選択可能に",
    "link": "https://prtimes.jp/main/html/rd/p/000000174.000129953.html",
@@ -142,16 +595,6 @@
    ],
    "published": "2026-08-01T11:00:00+09:00",
    "summary": "[株式会社プレナス] この度の地震によりお亡くなりになった方々に謹んで哀悼の意を表しますとともに、被災された皆さまに心よりお見舞い申し上げます。また、被災地域の安全と一日も早い復旧を心よりお祈り申し上げます。 当社は被..."
-  },
-  {
-   "title": "【たけたろう】韓国発グローバルコスメブランド「BANILA CO」ブランド初の日本公式アンバサダーに就任",
-   "link": "https://prtimes.jp/main/html/rd/p/000000021.000167469.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-01T11:00:00+09:00",
-   "summary": "[WOWs] クリエイターの才能を事業化するエージェンシー、株式会社WOWs（本社：東京都渋谷区、代表取締役：李晟在、以下「WOWs」）は、当社所属クリエイター・たけたろうが、韓国発グローバルコスメブランド「BANILA CO（..."
   },
   {
    "title": "Ten advances in mathematics and theoretical computer science",
@@ -403,26 +846,6 @@
    ],
    "published": "2026-07-31T17:16:03+09:00",
    "summary": "キオクシアホールディングス（HD）が7月31日に公開した2027年3月期第1四半期（26年4月1日?6月30日）連結決算は、売上収益が1兆7671億1700万円（前年同期比415.5％増）、営業利益が1兆2700億1700万円（同2728.6％増）、純利益が8421億6500万円…"
-  },
-  {
-   "title": "1万人絶賛【本音/現実/日付】48星秘術で具体的中◆細密星読師 ミエルのコンテンツが「本格占い｜みのり」で提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000001299.000074768.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-07-31T17:10:02+09:00",
-   "summary": "[株式会社レンサ] 株式会社レンサ（本社：東京都渋谷区、代表取締役：武井哲也）とテレシスネットワーク株式会社（本社：東京都港区、代表取締役：鷹石惠充）は、2026年7月30日（木）より、運営する、『みのり～本格占い～』にて「..."
-  },
-  {
-   "title": "HashPort、株式会社モアクトのアプリ「モアクト」のNORMポイントと日本円ステーブルコイン「JPYC」の交換機能を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000183.000046288.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-07-31T17:10:02+09:00",
-   "summary": "[株式会社HashPort] 株式会社HashPort（本社：東京都港区、代表取締役CEO：吉田 世博、以下「HashPort」）は、株式会社モアクト（本社：大阪府大阪市、代表取締役社長：小山 陽平、以下「モアクト社」、関西電力株式会社の100%子会社..."
   },
   {
    "title": "採用AIエージェント「採用一括かんりくん」、『2026年上半期 BOXIL資料請求数ランキング』において製造・ITなど3部門で第1位を獲得！",
@@ -1775,16 +2198,6 @@
    "summary": "[リーガルテック株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/42056/507/42056-507-7041c32b3dc21e772fbe2ae846bd5c85-1672x941.png?width=53…"
   },
   {
-   "title": "ボディデザイン治療「直角肩フィラー（直角肩ヒアルロン酸）」を湘南美容クリニック新宿本院で2026年7月28日（火）より提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000031.000165112.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-07-29T16:40:02+09:00",
-   "summary": "[湘南美容クリニック] 湘南美容クリニック（事業所：東京都新宿区）は、2026年7月28日（火）より、新宿本院にて新メニュー「直角肩フィラー（直角肩ヒアルロン酸）」の提供を開始いたします。本治療は、肩先や鎖骨周囲へヒアルロン酸..."
-  },
-  {
    "title": "貿易DXのShippio、物流コストの分析に使える請求項目のAI自動タグ付け機能を提供開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000209.000025761.html",
    "source": "PR TIMES",
@@ -1793,117 +2206,6 @@
    ],
    "published": "2026-07-29T16:40:02+09:00",
    "summary": "[株式会社Shippio] [画像1: https://prcdn.freetls.fastly.net/release_image/25761/209/25761-209-9e5bc208d78c57268615f16f9adabc6b-3600x1890.png?width=…"
-  },
-  {
-   "title": "【SIGNATE】初開催「AI・人工知能EXPO NEO」に出展！戦略立案AI『SIGNATE WorkAI』を中心に組織のAXを支援する各種ソリューションを展示",
-   "link": "https://prtimes.jp/main/html/rd/p/000000323.000038674.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-07-29T16:40:02+09:00",
-   "summary": "[株式会社SIGNATE] AI活用の戦略策定から実行、人材育成までを一気通貫で支援する株式会社SIGNATE（本社：東京都中央区、代表取締役社長：齊藤 秀、以下「SIGNATE」）は、2026年8月5日（水）・6日（木）に東京国際フォーラムで開催..."
-  },
-  {
-   "title": "企業向けAIプラットフォーム「ADDIX Agent Hub」の提供を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000319.000012846.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-07-29T16:40:02+09:00",
-   "summary": "[株式会社 ADDIX] 株式会社ADDIX（所在地：東京都港区、代表取締役社長：伊藤雄剛 以下、ADDIX）は、企業のAI活用を支援するAIプラットフォーム「ADDIX Agent Hub（https://addix-agenthub.com/）」の提供を開始しました。 本サー…"
-  },
-  {
-   "title": "「マネーキャリア」を運営する株式会社Wizleapが、株式会社ほけんのぜんぶへ「MCマーケットクラウド（MCMC）」の提供を開始 - 社内案件配信のDXと実績集計の高度化を支援",
-   "link": "https://prtimes.jp/main/html/rd/p/000000281.000052686.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-07-29T16:40:02+09:00",
-   "summary": "[株式会社Wizleap] お金の相談プラットフォーム「マネーキャリア（https://money-career.com/）」を運営する株式会社Wizleap（東京都渋谷区、代表取締役 谷川昌平）は、株式会社ほけんのぜんぶへ、共同募集の案件配信システム「MCマ..."
-  },
-  {
-   "title": "秀和システム新社がKDDIの対話型AI「Buffmee(バフミー)」に参画、専門コンテンツを提供開始！",
-   "link": "https://prtimes.jp/main/html/rd/p/000000185.000169048.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-07-29T16:40:02+09:00",
-   "summary": "[株式会社秀和システム新社] 株式会社秀和システム新社（本社：東京都千代田区、代表取締役社長：津島 憲豪）は、2026年7月28日（火）、KDDI 株式会社（本社：東京都千代田区、代表取締役社長 CEO：松田 浩路）が同日より提供を開始する、出..."
-  },
-  {
-   "title": "SORABITOの「GENBAx点検」がエムシーディースリーの建設業向けクラウドサービス「グリーンサイト」と第二弾の連携を開始。",
-   "link": "https://prtimes.jp/main/html/rd/p/000000176.000015533.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-07-29T16:40:02+09:00",
-   "summary": "[SORABITO株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/15533/176/15533-176-e0c98380812f1eee9762550389cb60ca-1200x630.jpg?width=…"
-  },
-  {
-   "title": "マンション機械式駐車場の方針決定を支援する新サービスを提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000130.000002667.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-07-29T16:40:02+09:00",
-   "summary": "[さくら事務所] [画像1: https://prcdn.freetls.fastly.net/release_image/2667/130/2667-130-428d2a6293ecbf1873fde51ccd4ac525-1731x909.png?width=536&amp;…"
-  },
-  {
-   "title": "社労士向け規程業務DXサービスの新機能「KiteRa アンテナ」提供開始。関心に応じて法改正情報・省庁ニュースを自動収集。関連法令の横断検索や、法改正スケジュールの一覧確認も可能に",
-   "link": "https://prtimes.jp/main/html/rd/p/000000124.000045846.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-07-29T16:40:02+09:00",
-   "summary": "[株式会社KiteRa] 「安心して働ける世界をつくる」をミッションに掲げ、社内規程SaaSの社労士向けサービス「KiteRa Pro（キテラプロ）」と企業向けサービス「KiteRa Biz（キテラビズ）」を提供する株式会社KiteRa（代表取締役 執行..."
-  },
-  {
-   "title": "建設サイト・シリーズの技能者向けアプリ「Myグリーンサイト」、SORABITO社「GENBAx点検」と連携開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000103.000058133.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-07-29T16:40:02+09:00",
-   "summary": "[エムシーディースリー株式会社] エムシーディースリー株式会社（東京都渋谷区、代表取締役社長：飯田正生）は、建設現場のDX推進に向けて構築を進める「外部サービス連携基盤」の第一弾として、SORABITO株式会社（東京都中央区、代表取締役社長..."
-  },
-  {
-   "title": "【スマケア】記録業務を「ゼロから書く」から「AIと直す」時代へ！スマケアユーザー限定『スマケアAIオプション』本格提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000072.000032925.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-07-29T16:40:02+09:00",
-   "summary": "[ホームネット] ホームネット株式会社（東京都中野区、以下当社）が提供する定期巡回・随時対応型訪問介護看護（以下、定期巡回・随時対応サービス）向け業務支援システム「SmaCare（スマケア）」は、日々の実績データの分析と記..."
-  },
-  {
-   "title": "アブダビ・ヤス島の新住宅「The Canopies at Yas Point」の抽選登録を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000048.000138752.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-07-29T16:40:02+09:00",
-   "summary": "[BITEX REAL ESTATE BROKERAGE L.L.C] [画像1: https://prcdn.freetls.fastly.net/release_image/138752/48/138752-48-15db79f3cfdc34fc1b3bfc1d24ed374…"
-  },
-  {
-   "title": "Anyflow Embed、AIによるコード生成でAPI連携を構築する「コードソリューション」β版を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000043.000034258.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-07-29T16:40:02+09:00",
-   "summary": "[Anyflow] [画像: https://prcdn.freetls.fastly.net/release_image/34258/43/34258-43-13e2ad98d47ef80e0ef6326b39b234de-1280x720.png?width=536&amp;…"
   },
   {
    "title": "マウザー、イノベーションを加速する次世代モビリティ向け「交通・輸送」テーマをオンラインリソースセンターに公開",
@@ -7302,16 +7604,6 @@
    ],
    "published": "2026-07-19T08:40:43+09:00",
    "summary": "27BクラスのモデルをiPhoneで実行可能な容量に収めたとしている。"
-  },
-  {
-   "title": "Kimi: Threat or menace?",
-   "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-07-19T03:51:07+09:00",
-   "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
   }
  ]
 }
