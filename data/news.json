@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-22T07:22:10.039252+09:00",
+ "generated_at": "2026-08-23T07:19:43.863180+09:00",
  "days_kept": 14,
  "articles": [
+  {
+   "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+   "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-23T06:46:56+09:00",
+   "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+  },
   {
    "title": "1920年創業の総合商社荒井商事、TOKIUM AI明細入力を導入",
    "link": "https://prtimes.jp/main/html/rd/p/000000501.000009888.html",
@@ -9,8 +19,229 @@
    "genres": [
     "ai"
    ],
-   "published": "2026-08-22T07:10:02+09:00",
+   "published": "2026-08-23T06:40:02+09:00",
    "summary": "[株式会社TOKIUM] 経理AIエージェントを提供する株式会社TOKIUM（本社：東京都中央区、代表取締役：黒崎 賢一、以下「TOKIUM」）は、荒井商事株式会社（神奈川県平塚市、代表取締役社長：荒井 亮三）が「TOKIUM AI明細入力」を導入..."
+  },
+  {
+   "title": "新しい出会いを届けるマッチングアプリ「ヨイトキ（Yoitoki）」、公式マスコットキャラクター「ヨイ（Yoi） 」を正式リリース",
+   "link": "https://prtimes.jp/main/html/rd/p/000000114.000175846.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-23T06:10:02+09:00",
+   "summary": "[OLA PARTY JAPAN株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/175846/114/175846-114-5dded08c1dabbe6232880174ca512ad4-1200x628.p…"
+  },
+  {
+   "title": "相手を探す前に、自分の恋のクセを知る。 ヨイトキ、無料・登録不要の「AI恋愛タイプ診断」を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000112.000175846.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-23T05:10:02+09:00",
+   "summary": "[OLA PARTY JAPAN株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/175846/112/175846-112-219d29806e158378fd7488a416acd839-1200x628.pn…"
+  },
+  {
+   "title": "ホテルシステム「PREVAIL」の「シンプル画面」を提供開始　~操作に不慣れなスタッフでも使いやすい画面でホテル現場の業務負荷軽減に貢献~",
+   "link": "https://prtimes.jp/main/html/rd/p/000001048.000001375.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-23T05:10:02+09:00",
+   "summary": "[キヤノンITソリューションズ株式会社] キヤノンマーケティングジャパングループのキヤノンITソリューションズ株式会社（本社：東京都港区、代表取締役社長：須山寛、以下キヤノンITS）は、ホテルシステム（PMS）「PREVAIL」において、直感的な操作性を..."
+  },
+  {
+   "title": "【企業の27・28卒採用活動に関する実態調査】5年前比で27卒の最終面談・内定／内々定時期を前倒した企業は約7割　一方で28卒の採用施策時期は3割超が「前倒し予定なし」",
+   "link": "https://prtimes.jp/main/html/rd/p/000001082.000022215.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-23T04:40:02+09:00",
+   "summary": "[パーソルキャリア株式会社] 株式会社ベネッセコーポレーションとパーソルキャリア株式会社の合弁会社：株式会社ベネッセ i-キャリア（本社：東京都新宿区、代表取締役社長：風間 直樹）が運営する、doda発の新卒オファーサービス「dodaキャ..."
+  },
+  {
+   "title": "ITエンジニア向けウェビナー～開発業務のレポーティングにも「Claude Code」が活用できる!?～『「Claude Code」を用いた“AI臭くない”スライド作成術』",
+   "link": "https://prtimes.jp/main/html/rd/p/000000425.000012015.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-23T04:40:02+09:00",
+   "summary": "[株式会社PEーBANK] 株式会社MCEAホールディングス（東京都港区／代表取締役社長 齋藤 武育）のグループ会社で、 ITエンジニアの新しい働き方を提案する株式会社PE-BANK（東京都港区／代表取締役社長 高田 幹也）は、2026年8月27日（..."
+  },
+  {
+   "title": "【新サービス】企業が求めるAI活用は”業務への実装”フェーズへ。AIの使い方から業務の任せ方まで、演習を通じて身に付ける「実装型AI研修」を提供開始。",
+   "link": "https://prtimes.jp/main/html/rd/p/000000245.000041581.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-08-23T04:40:02+09:00",
+   "summary": "[株式会社ＥＸＩＤＥＡ] 市場の”第一想起”を実現するカテゴリーブランディングを提供する株式会社EXIDEA（本社：東京都中央区、代表取締役：小川 卓真）は、2026年8月20日より、企業向け生成AI実務研修「実装型AI研修」の提供を開始しま..."
+  },
+  {
+   "title": "業界初、POSメーカーを問わず媒体別ROIを算出「FLAROマーケティング」提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000004.000166995.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-23T04:40:02+09:00",
+   "summary": "[株式会社flaro] [画像1: https://prcdn.freetls.fastly.net/release_image/166995/4/166995-4-25eb70c10833491b694ff6bb397c9019-1398x772.png?width=536&a…"
+  },
+  {
+   "title": "「セキュリティ対策診断サービス セキュリティ対策評価制度対応版」のメニューを拡充　~「診断」に加え「実行計画策定」・「実装支援」を順次提供開始~",
+   "link": "https://prtimes.jp/main/html/rd/p/000001045.000001375.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-23T04:40:02+09:00",
+   "summary": "[キヤノンITソリューションズ株式会社] キヤノンマーケティングジャパングループのキヤノンITソリューションズ株式会社（本社：東京都港区、代表取締役社長：須山寛、以下キヤノンITS）は、経済産業省および内閣官房国家サイバー統括室が推進する「サプ..."
+  },
+  {
+   "title": "『WOVN Language Detection 機能』によりN 対 N 翻訳を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000422.000010446.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-23T04:40:02+09:00",
+   "summary": "[Wovn Technologies株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/10446/422/10446-422-b4a34c0d9288a32f64cb283632a320bf-1200x630.p…"
+  },
+  {
+   "title": "恋愛マッチングサービス「ワクワク」が新機能「今夜ごはん」を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000029.000044869.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-23T04:40:02+09:00",
+   "summary": "[株式会社ワクワクコミュニケーションズ] 株式会社ワクワクコミュニケーションズ（本社：東京都港区、代表取締役社長：大林 正広）は、同社が運営するマッチングサービス「ワクワク（ワクワクメール）」において、新機能「今夜ごはん」の提供を開始しまし..."
+  },
+  {
+   "title": "情報漏洩の最大要因「メール誤送信」に終止符を。ネクストリードが、データ・AI が組織に寄り添う「生きている」誤送信防止サービスを提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000011.000068948.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-23T04:40:02+09:00",
+   "summary": "[ネクストリード株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/68948/11/68948-11-ebf4da47d622eb91c79ef88fb1d6bdff-3900x2194.png?width=536…"
+  },
+  {
+   "title": "【日経ウーマン掲載】累計1,500社・7,000名を支援した独自メソッド。DO株式会社、経営と現場をつなぐ「社外CHRO」および「タイムノート(R)」事業を本格展開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000004.000179399.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-23T04:40:02+09:00",
+   "summary": "[DO株式会社] 人的資本経営・組織変革およびキャリア教育を展開するDO株式会社（本社：東京都中央区、代表取締役：吉本明加）は、代表・吉本のインタビューおよび独自メソッド「タイムノート(R)︎」の取り組みが、ビジネス誌『..."
+  },
+  {
+   "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+   "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-23T04:00:00+09:00",
+   "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a step…"
+  },
+  {
+   "title": "経理・人事・労務の実務AI活用を学べるeラーニング「バックオフィスAIの教科書」を無料公開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000009.000149324.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-23T03:40:02+09:00",
+   "summary": "[株式会社管理のプロ] [画像1: https://prcdn.freetls.fastly.net/release_image/149324/9/149324-9-fd84b295b7b8134a9ecb3ec8b594e29d-1440x810.png?width=536&a…"
+  },
+  {
+   "title": "【新製品発売・特許出願】宿泊施設の洗濯待ちをなくす。コインランドリーの常識を再設計。最短16分、1台で2台分の回転率。次世代型モデル「完洗(R)KAN-SEN16（イチロク）」を発表",
+   "link": "https://prtimes.jp/main/html/rd/p/000000002.000178387.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-23T03:40:02+09:00",
+   "summary": "[ファミリーレンタリース株式会社] コインランドリー専門会社のファミリーレンタリース株式会社（本社：東京都八王子市、代表取締役社長 鈴木 康夫）は、洗剤・洗濯工程・機械を再設計した次世代型コイン式全自動洗濯機「完洗(R)KAN-SEN16」（以下..."
+  },
+  {
+   "title": "株式会社エイチビーラボジャパン、システム移行の新ソリューション「Modernization Solution（Migurei AI Inside）」を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000027.000052777.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-23T01:40:02+09:00",
+   "summary": "[HBLAB JAPAN] 株式会社エイチビーラボジャパン（以下、エイチビーラボジャパン。代表：グエン・フイ・タン）は、2026年8月19日、システム移行を支援する新サービス「エイチビーラボジャパン Modernization Solution（Migurei A..."
+  },
+  {
+   "title": "OpenAI says California should strengthen its AI safety bill",
+   "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-23T01:30:34+09:00",
+   "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+  },
+  {
+   "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+   "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-23T01:00:00+09:00",
+   "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI…"
+  },
+  {
+   "title": "旅行アプリ『NEWT（ニュート）』、ゲームに参加して旅行につかえるポイントがもらえるアプリ限定機能の提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000359.000077082.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-22T14:15:18+09:00",
+   "summary": "[株式会社令和トラベル] 株式会社令和トラベル（本社：東京都渋谷区、代表取締役：篠塚 孝哉）が運営する、かしこい、おトク、旅行アプリ『NEWT（ニュート）』は、NEWTアプリ限定で、チケットをためて旅行予約につかえるNEWTポイントがも..."
+  },
+  {
+   "title": "旅行アプリ『NEWT（ニュート）』、ゲームに参加して旅行につかえるポイントがもらえるアプリ限定機能の提供開始",
+   "link": "https://ascii.jp/elem/000/004/428/4428631/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-22T12:00:00+09:00",
+   "summary": "旅行アプリ『NEWT（ニュート）』、ゲームに参加して旅行につかえるポイントがもらえるアプリ限定機能の提供開始"
+  },
+  {
+   "title": "Anthropic’s Opus 4.6 is a smut-machine",
+   "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-22T08:07:25+09:00",
+   "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it d…"
+  },
+  {
+   "title": "Nvidia partners with data center developer Cloverleaf",
+   "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-22T07:37:38+09:00",
+   "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
   },
   {
    "title": "primeNumber、クラウドETL「TROCCO」を、Snowflakeマーケットプレイス 新カテゴリ「Integrated SaaS Applications」の国内1社目として提供開始",
@@ -21,6 +252,16 @@
    ],
    "published": "2026-08-22T07:10:02+09:00",
    "summary": "[株式会社primeNumber] データとAIを企業の成長エンジンへと進化させるデータテクノロジーカンパニーの株式会社primeNumber（本社：東京都品川区、代表取締役CEO：田邊 雄樹）は、Snowflake Inc.（ニューヨーク証券取引所：SNOW）が提供..."
+  },
+  {
+   "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-22T07:09:30+09:00",
+   "summary": "Anthropicは、最上位モデル「Claude Mythos 5」をセキュリティサービス「Claude Security」の脆弱性検出に導入したと発表した。モデル本体への直接アクセスは開放せず、パッチ提案などの出力のみに限定して提供する。オープンソース保護に向けた総額3500万…"
   },
   {
    "title": "FANZA、成人向けAIコンテンツを作成→公開できる新サービス「スタジオ」24日から先行体験",
@@ -123,26 +364,6 @@
    "summary": "[株式会社HandsOn AI] [画像1: https://prcdn.freetls.fastly.net/release_image/188944/2/188944-2-1959cb20700b501d0c70b357e16fb727-2400x1260.png?width…"
   },
   {
-   "title": "相手を探す前に、自分の恋のクセを知る。 ヨイトキ、無料・登録不要の「AI恋愛タイプ診断」を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000112.000175846.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-22T05:10:02+09:00",
-   "summary": "[OLA PARTY JAPAN株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/175846/112/175846-112-219d29806e158378fd7488a416acd839-1200x628.pn…"
-  },
-  {
-   "title": "ホテルシステム「PREVAIL」の「シンプル画面」を提供開始　~操作に不慣れなスタッフでも使いやすい画面でホテル現場の業務負荷軽減に貢献~",
-   "link": "https://prtimes.jp/main/html/rd/p/000001048.000001375.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-22T05:10:02+09:00",
-   "summary": "[キヤノンITソリューションズ株式会社] キヤノンマーケティングジャパングループのキヤノンITソリューションズ株式会社（本社：東京都港区、代表取締役社長：須山寛、以下キヤノンITS）は、ホテルシステム（PMS）「PREVAIL」において、直感的な操作性を..."
-  },
-  {
    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
    "source": "TechCrunch AI",
@@ -151,37 +372,6 @@
    ],
    "published": "2026-08-22T04:43:39+09:00",
    "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that gre…"
-  },
-  {
-   "title": "【企業の27・28卒採用活動に関する実態調査】5年前比で27卒の最終面談・内定／内々定時期を前倒した企業は約7割　一方で28卒の採用施策時期は3割超が「前倒し予定なし」",
-   "link": "https://prtimes.jp/main/html/rd/p/000001082.000022215.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-22T04:40:02+09:00",
-   "summary": "[パーソルキャリア株式会社] 株式会社ベネッセコーポレーションとパーソルキャリア株式会社の合弁会社：株式会社ベネッセ i-キャリア（本社：東京都新宿区、代表取締役社長：風間 直樹）が運営する、doda発の新卒オファーサービス「dodaキャ..."
-  },
-  {
-   "title": "ITエンジニア向けウェビナー～開発業務のレポーティングにも「Claude Code」が活用できる!?～『「Claude Code」を用いた“AI臭くない”スライド作成術』",
-   "link": "https://prtimes.jp/main/html/rd/p/000000425.000012015.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-22T04:40:02+09:00",
-   "summary": "[株式会社PEーBANK] 株式会社MCEAホールディングス（東京都港区／代表取締役社長 齋藤 武育）のグループ会社で、 ITエンジニアの新しい働き方を提案する株式会社PE-BANK（東京都港区／代表取締役社長 高田 幹也）は、2026年8月27日（..."
-  },
-  {
-   "title": "【新サービス】企業が求めるAI活用は”業務への実装”フェーズへ。AIの使い方から業務の任せ方まで、演習を通じて身に付ける「実装型AI研修」を提供開始。",
-   "link": "https://prtimes.jp/main/html/rd/p/000000245.000041581.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-08-22T04:40:02+09:00",
-   "summary": "[株式会社ＥＸＩＤＥＡ] 市場の”第一想起”を実現するカテゴリーブランディングを提供する株式会社EXIDEA（本社：東京都中央区、代表取締役：小川 卓真）は、2026年8月20日より、企業向け生成AI実務研修「実装型AI研修」の提供を開始しま..."
   },
   {
    "title": "中国の動画サイト「bilibili」にグローバル版アプリ　日本でも配信開始　まずはAndroidから",
@@ -626,16 +816,6 @@
    "summary": "[ミチノヒカリ株式会社] ミチノヒカリ株式会社（本社：静岡県藤枝市、代表取締役：片山真一）は、妊娠を望む過程で生じる精神的負担に対応する、包括的なメンタルケア支援の提供を開始しました。電子書籍『妊活PTSD 頑張るほど授かりにく..."
   },
   {
-   "title": "経理・人事・労務の実務AI活用を学べるeラーニング「バックオフィスAIの教科書」を無料公開",
-   "link": "https://prtimes.jp/main/html/rd/p/000000009.000149324.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-21T07:10:02+09:00",
-   "summary": "[株式会社管理のプロ] [画像1: https://prcdn.freetls.fastly.net/release_image/149324/9/149324-9-fd84b295b7b8134a9ecb3ec8b594e29d-1440x810.png?width=536&a…"
-  },
-  {
    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
    "source": "TechCrunch AI",
@@ -755,16 +935,6 @@
    ],
    "published": "2026-08-21T06:40:02+09:00",
    "summary": "[droptip株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/114735/26/114735-26-17c59906759ddb48fa33fa9ffbd9b80c-1672x941.png?width=5…"
-  },
-  {
-   "title": "【新製品発売・特許出願】宿泊施設の洗濯待ちをなくす。コインランドリーの常識を再設計。最短16分、1台で2台分の回転率。次世代型モデル「完洗(R)KAN-SEN16（イチロク）」を発表",
-   "link": "https://prtimes.jp/main/html/rd/p/000000002.000178387.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-21T06:40:02+09:00",
-   "summary": "[ファミリーレンタリース株式会社] コインランドリー専門会社のファミリーレンタリース株式会社（本社：東京都八王子市、代表取締役社長 鈴木 康夫）は、洗剤・洗濯工程・機械を再設計した次世代型コイン式全自動洗濯機「完洗(R)KAN-SEN16」（以下..."
   },
   {
    "title": "Slack、AIとチームで協働する「Slack Code」を発表　ClaudeやDevinを専用チャネルで操作",
@@ -1036,6 +1206,16 @@
    ],
    "published": "2026-08-20T16:47:56+09:00",
    "summary": "人型ロボットを開発するスタートアップのアトムは、日本精工（NSK）と国産人型ロボットの開発・実装に向け、戦略的パートナーシップに関する基本合意書を締結したと発表した。"
+  },
+  {
+   "title": "TikTok & TikTok Shop完全攻略ツール「Astream Deep」を正式リリース",
+   "link": "https://prtimes.jp/main/html/rd/p/000000192.000033706.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-20T16:15:24+09:00",
+   "summary": "[A Inc.] 株式会社A（本社：東京都渋谷区渋谷 2-24-12 渋谷スクランブルスクエア39F、代表取締役：中嶋 泰、以下「当社」）は、TikTok・TikTok Shopに特化したデータ検索・分析ツール（SaaS）「Astream Deep（エーストリー..."
   },
   {
    "title": "Introducing AI Futures",
@@ -1528,66 +1708,6 @@
    ],
    "published": "2026-08-20T05:40:02+09:00",
    "summary": "[株式会社bemyfriends Japan] グローバルファンダムビジネスソリューションの「b.stage（ビーステージ）(https://bstage.in/?hl=ja)」が、ベトナムの音楽・カルチャー・ファンダムエコシステム企業MMusic（エムミュージック）と戦略的パー…"
-  },
-  {
-   "title": "業界初、POSメーカーを問わず媒体別ROIを算出「FLAROマーケティング」提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000004.000166995.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-20T05:40:02+09:00",
-   "summary": "[株式会社flaro] [画像1: https://prcdn.freetls.fastly.net/release_image/166995/4/166995-4-25eb70c10833491b694ff6bb397c9019-1398x772.png?width=536&a…"
-  },
-  {
-   "title": "「セキュリティ対策診断サービス セキュリティ対策評価制度対応版」のメニューを拡充　~「診断」に加え「実行計画策定」・「実装支援」を順次提供開始~",
-   "link": "https://prtimes.jp/main/html/rd/p/000001045.000001375.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-20T05:40:02+09:00",
-   "summary": "[キヤノンITソリューションズ株式会社] キヤノンマーケティングジャパングループのキヤノンITソリューションズ株式会社（本社：東京都港区、代表取締役社長：須山寛、以下キヤノンITS）は、経済産業省および内閣官房国家サイバー統括室が推進する「サプ..."
-  },
-  {
-   "title": "『WOVN Language Detection 機能』によりN 対 N 翻訳を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000422.000010446.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-20T05:40:02+09:00",
-   "summary": "[Wovn Technologies株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/10446/422/10446-422-b4a34c0d9288a32f64cb283632a320bf-1200x630.p…"
-  },
-  {
-   "title": "恋愛マッチングサービス「ワクワク」が新機能「今夜ごはん」を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000029.000044869.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-20T05:40:02+09:00",
-   "summary": "[株式会社ワクワクコミュニケーションズ] 株式会社ワクワクコミュニケーションズ（本社：東京都港区、代表取締役社長：大林 正広）は、同社が運営するマッチングサービス「ワクワク（ワクワクメール）」において、新機能「今夜ごはん」の提供を開始しまし..."
-  },
-  {
-   "title": "情報漏洩の最大要因「メール誤送信」に終止符を。ネクストリードが、データ・AI が組織に寄り添う「生きている」誤送信防止サービスを提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000011.000068948.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-20T05:40:02+09:00",
-   "summary": "[ネクストリード株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/68948/11/68948-11-ebf4da47d622eb91c79ef88fb1d6bdff-3900x2194.png?width=536…"
-  },
-  {
-   "title": "【日経ウーマン掲載】累計1,500社・7,000名を支援した独自メソッド。DO株式会社、経営と現場をつなぐ「社外CHRO」および「タイムノート(R)」事業を本格展開",
-   "link": "https://prtimes.jp/main/html/rd/p/000000004.000179399.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-20T05:40:02+09:00",
-   "summary": "[DO株式会社] 人的資本経営・組織変革およびキャリア教育を展開するDO株式会社（本社：東京都中央区、代表取締役：吉本明加）は、代表・吉本のインタビューおよび独自メソッド「タイムノート(R)︎」の取り組みが、ビジネス誌『..."
   },
   {
    "title": "美しい絵柄のメッセンジャータロットで、奇跡の霊感リーディング体験を！理恵氏が監修する占いコンテンツの提供を開始",
@@ -6977,207 +7097,6 @@
    ],
    "published": "2026-08-09T12:11:16+09:00",
    "summary": "AnthropicはAIコーディングツール「Claude Code」に、起動中の複数セッション間でメッセージを相互送信できる新機能を追加した。作業の変更や移行プロセスの進捗などをClaudeが自律的に連携する。セキュリティに配慮し共有はテキストのみに制限され、ローカル間通信では外…"
-  },
-  {
-   "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
-   "link": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
-   "source": "ITmedia NEWS",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-09T07:16:59+09:00",
-   "summary": "OpenAIは、7月に発覚したHugging Face侵害インシデントの詳細を「Black Hat USA 2026」で説明した。評価中のAIエージェントたちが社内のパッケージ管理システムを“掲示板”として使い、脆弱性やスクリプトを共有して協調していたという。掲示板は一度消去され…"
-  },
-  {
-   "title": "streamsとCCC、地域のまちづくり推進に向けた業務提携に関する基本合意書を締結",
-   "link": "https://prtimes.jp/main/html/rd/p/000000003.000130906.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-09T07:10:02+09:00",
-   "summary": "[株式会社streams] 株式会社streams（本社：東京都中央区、代表取締役：岡本 敬史、以下「streams」）とカルチュア・コンビニエンス・クラブ株式会社（本社：神奈川県横浜市、代表取締役社長兼CEO：高橋 誉則、以下「CCC」）は、こ..."
-  },
-  {
-   "title": "OpenAI、アイルランド・ダブリンに欧州本部を新設。今後2年間でアイルランドに250人の新規雇用を創出",
-   "link": "https://prtimes.jp/main/html/rd/p/000000039.000142565.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-09T07:10:02+09:00",
-   "summary": "[アイルランド政府産業開発庁] ChatGPTを提供するOpenAI（本社：アメリカ合衆国カリフォルニア州）は、アイルランド・ダブリンの歴史的建造物「Tropical Fruit Warehouse（トロピカル・フルーツ・ウェアハウス）」に欧州本部を開設すると発表し..."
-  },
-  {
-   "title": "旅行・観光アンケート1,764人分を対話で分析、「旅行ニーズAI」β版を公開",
-   "link": "https://prtimes.jp/main/html/rd/p/000000003.000094281.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-09T07:10:02+09:00",
-   "summary": "[Hotel&amp;Data] Hotel&amp;Data（代表：中田裕哉、所在地：東京都渋谷区）は、2026年7月27日より公開中のAIチャットサービス「旅行ニーズAI」無料お試し版（β版）を提供しています。本サービスは、Hotel&amp;Dataが独自に実施し..."
-  },
-  {
-   "title": "x3d、「AI社員作成キット」を無料配布開始 ― AI開発者向け「AIDDエントリー研修」も公開",
-   "link": "https://prtimes.jp/main/html/rd/p/000000041.000114743.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-09T07:10:02+09:00",
-   "summary": "[x3d株式会社] x3d株式会社（本社：東京都港区、代表取締役：武石幸之助）は、AIエージェント「AI社員」を自社で作成できる「AI社員作成キット」を無料配布開始しました。あわせて、AI開発者向け「AIDDエントリー研修」も公開い..."
-  },
-  {
-   "title": "アールツリー・イノベーション、自組織主導でのビジネス変革の要となる「ビジネス変革メソドロジー」を日本企業向けに提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000002.000186883.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-09T07:10:02+09:00",
-   "summary": "[アールツリー・イノベーション株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/186883/2/186883-2-0e1de659a517de91fadc015f56dfc453-1735x906.png?wid…"
-  },
-  {
-   "title": "アート引越センター　引越マイページ新生活を応援する「0123新生活応援マップ」を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000114.000014945.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-09T07:10:02+09:00",
-   "summary": "[アート引越センター株式会社] アート引越センター株式会社（本社：大阪府大阪市、代表取締役社長：寺田 政登）は、このたび、引越マイページをご利用いただくお客さまを対象に、新生活をサポートする新たなサービス「0123新生活応援マップ」..."
-  },
-  {
-   "title": "法務組織に「AIエージェント社員」を！Copilot・ChatGPT・Geminiの各種AIとの連携（MCPサーバー）を開始。",
-   "link": "https://prtimes.jp/main/html/rd/p/000000112.000029225.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-09T07:10:02+09:00",
-   "summary": "[ContractS株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/29225/112/29225-112-ddf35004db6bf22cd3e9d7dc93496f9c-400x210.png?width=…"
-  },
-  {
-   "title": "株式会社エクスプラザ、OpenAI Partner Network の「OpenAI Select Partner」に認定",
-   "link": "https://prtimes.jp/main/html/rd/p/000000049.000106969.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-09T07:10:02+09:00",
-   "summary": "[株式会社エクスプラザ] 業務プロセスのAI化に伴走する業務AXカンパニー、株式会社エクスプラザ（本社：東京都港区、代表取締役CEO：高橋一生）は、OpenAI の「OpenAI Partner Network」において「OpenAI Select Partner」に認定されまし…"
-  },
-  {
-   "title": "『生成AIを業務に組み込みたいのに、技術的課題とノウハウ不足で現場利用が進まない』というテーマのウェビナーを開催",
-   "link": "https://prtimes.jp/main/html/rd/p/000005529.000054842.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-09T07:10:02+09:00",
-   "summary": "[マジセミ株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/54842/5529/54842-5529-ba773f862ee8a8b2e38408b03f2b39b8-1280x720.jpg?width=53…"
-  },
-  {
-   "title": "廃棄物リサイクルを脱炭素の最前線へ。呉市から国内初※の「グリーン水素×資源再生」モデル構築に向けた実証実験を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000029.000144803.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-09T07:10:02+09:00",
-   "summary": "[(株)こっこー] 産業廃棄物処理・リサイクル事業を展開する株式会社こっこー（本社：広島県呉市、代表取締役：槙岡達也、以下「当社」）は、2026年7月下旬より、呉リサイクルセンター（以下「当センター」）において、太陽光発..."
-  },
-  {
-   "title": "Planned Amazon data center could become the biggest climate polluter in the US",
-   "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-09T06:24:02+09:00",
-   "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a co…"
-  },
-  {
-   "title": "OpenAI acquires presentation startup NextSlide",
-   "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-09T04:41:13+09:00",
-   "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editabl…"
-  },
-  {
-   "title": "自家細胞を用いた新しい薄毛治療「マイクログラフト薄毛療法（毛包皮膚組織移植法）」提供開始のお知らせ 【医療法人社団　青真会　青山エルクリニック】",
-   "link": "https://prtimes.jp/main/html/rd/p/000000002.000187369.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-09T03:10:02+09:00",
-   "summary": "[青山エルクリニック] [画像1: https://prcdn.freetls.fastly.net/release_image/187369/2/187369-2-3d1f7f9e8061bdbe0a4e9305a495c8d0-2481x1475.png?width=536&…"
-  },
-  {
-   "title": "スマホひとつで、いつもの道が冒険になる。サイクリングアプリ「PEDAL QUEST」公開β版を令和8年8月8日夜8時より提供開始",
-   "link": "https://ascii.jp/elem/000/004/426/4426004/?rss",
-   "source": "ASCII.jp",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-08T13:20:46+09:00",
-   "summary": "スマホひとつで、いつもの道が冒険になる。サイクリングアプリ「PEDAL QUEST」公開β版を令和8年8月8日夜8時より提供開始"
-  },
-  {
-   "title": "OpenAI次世代モデル「Astra」の開発を一時制限　高いサイバー能力に懸念",
-   "link": "https://www.watch.impress.co.jp/docs/news/2131759.html",
-   "source": "Impress Watch",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-08T13:04:18+09:00",
-   "summary": "OpenAIは7日(米国時間)、次世代モデル「Astra」について、社内評価で高い進歩を示す一方で、サイバー攻撃能力が社内の安全ガイドラインで最上位の「Critical(クリティカル)」になる可能性が否定できないと公表し、一部開発を停止。社内においても隔離されたテスト環境以外での…"
-  },
-  {
-   "title": "Google Chromeの新機能「Skills」　AIプロンプトの“毎回手打ち”を不要に",
-   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/08/news011.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-08-08T13:00:00+09:00",
-   "summary": "GoogleはChrome向けのAI新機能「Skills in Chrome」を発表した。AIプロンプトを保存してワンクリックで再利用可能にするという。"
-  },
-  {
-   "title": "アンソロピックの最強AI｢ミュトス｣はインターネットの安全性を根底から覆す 目先の脅威は小さくても将来は… | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/953661?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "source": "東洋経済オンライン",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-08T10:00:00+09:00",
-   "summary": "アンソロピックのAIモデル｢Claude Mythos Preview（クロード･ミュトス･プレビュー）｣が､広く使われているデジタル暗号規格の弱体化版に脆弱性を発見。AIの進化がサイバーセキュリテ…"
-  },
-  {
-   "title": "Anthropic、「Fable 5」の生物学の制限を緩和　誤検知によるフォールバックを約85％削減",
-   "link": "https://www.itmedia.co.jp/news/article/2608/08/2000000460/",
-   "source": "ITmedia NEWS",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-08T07:57:07+09:00",
-   "summary": "Anthropicは、AIモデル「Claude Fable 5」の生物学分野における過度な保護機能を緩和したと発表した。安全性を重視するあまり発生していた無害な質問への誤検知や下位モデルへのフォールバックを大幅に削減。専門的な二重用途研究への制限は維持しつつ、一般的な健康・教育用…"
-  },
-  {
-   "title": "OpenAI says it slowed Astra model development over security concerns",
-   "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-08T07:48:24+09:00",
-   "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identi…"
   }
  ]
 }
