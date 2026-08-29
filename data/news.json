@@ -1,7 +1,270 @@
 {
- "generated_at": "2026-08-29T12:30:29.914353+09:00",
+ "generated_at": "2026-08-30T08:53:22.329239+09:00",
  "days_kept": 14,
  "articles": [
+  {
+   "title": "OpenAI、Cursorへのモデル提供を11月12日に終了　SpaceXによる買収が理由",
+   "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T08:12:23+09:00",
+   "summary": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を…"
+  },
+  {
+   "title": "「FANZAスタジオ」爆誕へ　成人向けAIマンガに違和感を覚えるマンガ家も期待する部分とは？",
+   "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000911/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T07:16:00+09:00",
+   "summary": "成人向けECサイトである「FANZA」で、生成AIを使って作品を作り、公開できるサービス「FANZAスタジオ」の先行体験がスタートしました。"
+  },
+  {
+   "title": "セルフ型ヒアリングプラットフォーム「millme」が「デジタル化・AI導入補助金2026」の対象ITツールに登録",
+   "link": "https://prtimes.jp/main/html/rd/p/000000073.000008679.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T07:10:02+09:00",
+   "summary": "[モニタス] [画像: https://prcdn.freetls.fastly.net/release_image/8679/73/8679-73-6e06f331dd1ce9b0ca6e17b2e7774421-2752x1536.jpg?width=536&amp;qual…"
+  },
+  {
+   "title": "月星座占い｜人生/恋/重要時期もピタリ当たる◆小泉茉莉花の精密鑑定が「本格占い｜みのり」で提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000001326.000074768.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-30T07:10:02+09:00",
+   "summary": "[株式会社レンサ] 株式会社レンサ（本社：東京都渋谷区、代表取締役：武井哲也）とテレシスネットワーク株式会社（本社：東京都港区、代表取締役：鷹石惠充）は、2026年8月27日（木）より、運営する、『みのり～本格占い～』にて「..."
+  },
+  {
+   "title": "「AIエージェントDXPO東京'26 夏」にて大変好評だったセミナーをウェビナー配信",
+   "link": "https://prtimes.jp/main/html/rd/p/000000071.000030394.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T07:10:02+09:00",
+   "summary": "[アップセルテクノロジィーズ株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/30394/71/30394-71-7d4d8b9c705f92416d6ca0e6a5072085-760x484.png?widt…"
+  },
+  {
+   "title": "人手不足に悩む離島の水道行政をDXで支援！沖縄県与那国町、職員の検針負担軽減と業務効率化を目指し、水道スマートメーターの実証実験開始のお知らせ",
+   "link": "https://prtimes.jp/main/html/rd/p/000000041.000040927.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-30T07:10:02+09:00",
+   "summary": "[(株)インフラプラス] [画像1: https://prcdn.freetls.fastly.net/release_image/40927/41/40927-41-b0ce3181c172989e81f8be4ba6fb43eb-535x276.png?width=536&a…"
+  },
+  {
+   "title": "AIエージェント型チャットサービス「楽天証券のAIチャットサポート」提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000748.000011088.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-08-30T06:40:02+09:00",
+   "summary": "[楽天証券] 楽天証券株式会社（本社：東京都港区、代表取締役社長：楠 雄治、以下「楽天証券」）は、2026年9月2日（水）より、現在提供している、原則24時間AIが自動応答する「AIチャット」（チャットボット）の機能を強化し..."
+  },
+  {
+   "title": "リアルテックグローバルファンド2号、次世代固体酸化物形燃料電池技術で データセンター・産業向け電源を革新するTeragen Energyに出資",
+   "link": "https://prtimes.jp/main/html/rd/p/000000183.000036405.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T06:40:02+09:00",
+   "summary": "[UntroD Capital Japan] [画像1: https://prcdn.freetls.fastly.net/release_image/36405/183/36405-183-213a30c760b5a4bf77c7cf5ba905e25f-2000x1050.j…"
+  },
+  {
+   "title": "水質分析を「測る技術」から「人と人をつなぐ仕組み」へ。共立理化学研究所、インドに合弁会社「KCL Pinnacle India Pvt. Ltd.」を設立",
+   "link": "https://prtimes.jp/main/html/rd/p/000000005.000118974.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-30T06:40:02+09:00",
+   "summary": "[株式会社共立理化学研究所] 株式会社共立理化学研究所（本社：神奈川県、代表取締役 岡内 俊太郎）は、インド・ハリヤーナ州グルグラムにおいて、現地企業Pinnacle Sourcing &amp; Consultancy Pvt. Ltd.（以下、Pinnacle社）との合弁会社…"
+  },
+  {
+   "title": "【生成AIを「使う」から、事業を生み出す力へ】角川アスキー総合研究所、パーソルデジタルベンチャーズの「生成AI×事業開発」社内研修を企画・運営",
+   "link": "https://prtimes.jp/main/html/rd/p/000000274.000017610.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T06:40:02+09:00",
+   "summary": "[株式会社角川アスキー総合研究所] 株式会社角川アスキー総合研究所（本社：東京都文京区、代表取締役社長：垣貫真和）は、パーソルデジタルベンチャーズ株式会社から委託を受け、パーソルグループのR&amp;D Function Unit（以下、R&amp;D FU）を対..."
+  },
+  {
+   "title": "パワハラ・セクハラの社内調査を支援するAIエージェント、9月1日提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000007.000180367.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-08-30T06:40:02+09:00",
+   "summary": "[株式会社Legal Node] [画像1: https://prcdn.freetls.fastly.net/release_image/180367/7/180367-7-b35f3aacb5307876927890149690ed0c-1200x630.png?width=…"
+  },
+  {
+   "title": "共栄木材、四国初のネイルプレートトラス生産設備を導入し、大スパン木造事業を本格展開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000001.000189473.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-30T06:40:02+09:00",
+   "summary": "[株式会社共栄木材] 株式会社共栄木材（本社：愛媛県伊予市、代表取締役社長：西下文平）は、四国で初めてマイテック社製のネイルプレートトラス（ライトフレームトラス）生産設備と専用CADを導入しました(※)。木質トラス専用工場を..."
+  },
+  {
+   "title": "美容師とお客様の間に「心地良い距離感」を作る次世代サロンワークサポートツール「PiTTLINE for LINE(ピットラインフォーライン)」本格展開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000003.000186830.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-30T06:40:02+09:00",
+   "summary": "[ミツイコーポレーション株式会社] ミツイコーポレーション株式会社(本社:静岡県静岡市、取締役社長:宮崎俊哉)は、美容室・美容師とお客様をLINEでシームレスにつなぎ、予約からアフターフォロー、店外物販までをワンストップで実現するサロンワー..."
+  },
+  {
+   "title": "【政令指定都市・中核市で全国初※】障害認定業務にAI活用、和歌山市と株式会社Jinが連携協定を締結",
+   "link": "https://prtimes.jp/main/html/rd/p/000000004.000170282.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T06:40:02+09:00",
+   "summary": "[株式会社Jin] [画像: https://prcdn.freetls.fastly.net/release_image/170282/4/170282-4-db43dd4883badd5cefb1d4ca67b98e7b-1000x737.png?width=536&amp;…"
+  },
+  {
+   "title": "Hacobu、「国際物流総合展」へ出展【9月8日～11日】―物流の契約・運賃・請求業務を効率化する新AIサービスの発表も予定",
+   "link": "https://prtimes.jp/main/html/rd/p/000000412.000018703.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T04:10:02+09:00",
+   "summary": "[Hacobu] [画像1: https://prcdn.freetls.fastly.net/release_image/18703/412/18703-412-11f62aab0f4b18ad3ed139ddd9b5adcb-1200x630.jpg?width=536&am…"
+  },
+  {
+   "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+   "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T03:41:59+09:00",
+   "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+  },
+  {
+   "title": "一線を画す的中力でリピーター続々！全方位抜かりナシの“地支命術”で悩みを解決、溟白龍氏が監修する占いコンテンツの提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000791.000005725.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-30T03:10:02+09:00",
+   "summary": "[株式会社ザッパラス] ザッパラスグループの株式会社cocoloni（本社：東京都渋谷区、代表取締役：溝上雅俊）は、2026年8月26日（水）より、運営する占いコンテンツポータル『cocoloni占い館 Moon』にて、株式会社ベルシステム24（本社..."
+  },
+  {
+   "title": "【特別レポート】Polimillの研修チームが「プロ講師養成研修」に挑戦！ - 個性と専門性を生かし、スキルを教える「だけじゃない」講師へ",
+   "link": "https://prtimes.jp/main/html/rd/p/000000745.000088829.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T03:10:02+09:00",
+   "summary": "[ポリミル] 2026年8月10日、Polimill株式会社は、自治体職員向けの「QommonsAI活用研修」の講師を務める社員を対象に、外部講師を迎えて「プロ講師養成研修」を実施しました。今回の研修では、生成AIの操作方法をお伝えする..."
+  },
+  {
+   "title": "リアライズ・イノベーションズ、運転挙動データを活用した「スマホ型危険運転者スクリーニング＆改善ソリューション」を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000021.000130183.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-30T03:10:02+09:00",
+   "summary": "[リアライズ・イノベーションズ株式会社] リアライズ・イノベーションズ株式会社（本社：東京都港区、代表取締役社長：酒谷 正人、以下「当社」）は、AI行動解析プラットフォーム「Sentiance」の運転挙動データを活用した、危険運転者のスクリーニングお..."
+  },
+  {
+   "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+   "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T02:36:47+09:00",
+   "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biol…"
+  },
+  {
+   "title": "Nvidia’s AI advantage is moving beyond the GPU",
+   "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-29T22:00:00+09:00",
+   "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
+  },
+  {
+   "title": "コンサルティングファームによるアパレルブランド「ururu」が始動",
+   "link": "https://prtimes.jp/main/html/rd/p/000000151.000135002.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-29T15:40:02+09:00",
+   "summary": "[株式会社Anfini] 株式会社Anfini（本社：東京都港区、代表取締役：橋本純）は、このたび、当社初のアパレルブランド「ururu（ウルル）」をローンチし、2026年8月29日（土）より公式ECサイトにて商品の販売を開始します。ururuは、..."
+  },
+  {
+   "title": "「介護施設のシフト作成が大変すぎる」現場の声から誕生、施設長が生成AIと開発したシフト自動作成アプリ「shiftsemi（シフトゼミ）」を提供開始",
+   "link": "https://ascii.jp/elem/000/004/430/4430497/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-08-29T14:30:41+09:00",
+   "summary": "「介護施設のシフト作成が大変すぎる」現場の声から誕生、施設長が生成AIと開発したシフト自動作成アプリ「shiftsemi（シフトゼミ）」を提供開始"
+  },
+  {
+   "title": "ガチャで集客、アンケートでデータ化。横須賀市の実証で回答目標114%達成--新たな体験型販促モデルの提供を開始【株式会社ゼロプレイス】",
+   "link": "https://prtimes.jp/main/html/rd/p/000000090.000166888.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-29T14:15:20+09:00",
+   "summary": "[株式会社ゼロプレイス] [画像1: https://prcdn.freetls.fastly.net/release_image/166888/90/166888-90-0787b101d148ac0c22b5185fa298d2c4-1892x1063.png?width=5…"
+  },
+  {
+   "title": "ガチャで集客、アンケートでデータ化。横須賀市の実証で回答目標114%達成--新たな体験型販促モデルの提供を開始【株式会社ゼロプレイス】",
+   "link": "https://ascii.jp/elem/000/004/430/4430496/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-29T13:43:45+09:00",
+   "summary": "ガチャで集客、アンケートでデータ化。横須賀市の実証で回答目標114%達成--新たな体験型販促モデルの提供を開始【株式会社ゼロプレイス】"
+  },
+  {
+   "title": "OpenAI、Cursorへのモデル提供を終了　理由は「SpaceXによる買収」",
+   "link": "https://www.watch.impress.co.jp/docs/news/2136717.html",
+   "source": "Impress Watch",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-29T12:50:04+09:00",
+   "summary": "OpenAIは28日(米国時間)、SpaceXによるCursor買収を受けて、コーディングエージェント「Cursor」へのOpenAIの最新モデルの提供を終了すると発表した。同日にSpaceXにモデル提供契約の終了を通知し、終了予定日は11月12日。"
+  },
   {
    "title": "使用済EVバッテリーを活用した定置用蓄電システムの実証実験の検討開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000296.000123722.html",
@@ -63,16 +326,6 @@
    "summary": "[BASE株式会社] BASE株式会社（所在地：東京都港区、代表取締役CEO：鶴岡 裕太、以下BASE）は、ＳＢＩホールディングス株式会社（所在地：東京都港区、代表取締役会長兼社長：北尾 吉孝、以下SBIHD）との間で資本業務提携契約（..."
   },
   {
-   "title": "Hacobu、「国際物流総合展」へ出展【9月8日～11日】―物流の契約・運賃・請求業務を効率化する新AIサービスの発表も予定",
-   "link": "https://prtimes.jp/main/html/rd/p/000000412.000018703.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-29T10:10:02+09:00",
-   "summary": "[Hacobu] [画像1: https://prcdn.freetls.fastly.net/release_image/18703/412/18703-412-11f62aab0f4b18ad3ed139ddd9b5adcb-1200x630.jpg?width=536&am…"
-  },
-  {
    "title": "買取案件の獲得から業者間売買まで。買取業者向け「査定deイイ値」提供開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000005.000130961.html",
    "source": "PR TIMES",
@@ -81,16 +334,6 @@
    ],
    "published": "2026-08-29T09:40:41+09:00",
    "summary": "[株式会社バイオン] 株式会社バイオン（東京都千代田区、代表取締役：田上 栄一、以下「当社」）は、一般ユーザーからの買取案件の獲得と、買取業者同士の商品売買をひとつのサービス上で行える、買取業者向け一括査定プラットフォ..."
-  },
-  {
-   "title": "コンサルティングファームによるアパレルブランド「ururu」が始動",
-   "link": "https://prtimes.jp/main/html/rd/p/000000151.000135002.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-29T09:40:41+09:00",
-   "summary": "[株式会社Anfini] 株式会社Anfini（本社：沖縄県那覇市、代表取締役：橋本純）は、このたび、当社初のアパレルブランド「ururu（ウルル）」をローンチし、2026年8月29日（土）より公式ECサイトにて商品の販売を開始します。ururuは..."
   },
   {
    "title": "「ChatGPT Work」の使い方--AIエージェントを始める10のヒント",
@@ -1920,16 +2163,6 @@
    ],
    "published": "2026-08-26T06:10:02+09:00",
    "summary": "[NRIセキュアテクノロジーズ] NRIセキュアテクノロジーズ株式会社（以下、NRIセキュア）は、「サプライチェーン強化に向けたセキュリティ対策評価制度（以下、SCS評価制度）」※1への対応支援メニューを、発注企業（委託元）向けに本日より提供..."
-  },
-  {
-   "title": "セルフ型ヒアリングプラットフォーム「millme」が「デジタル化・AI導入補助金2026」の対象ITツールに登録",
-   "link": "https://prtimes.jp/main/html/rd/p/000000073.000008679.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T06:10:02+09:00",
-   "summary": "[モニタス] [画像: https://prcdn.freetls.fastly.net/release_image/8679/73/8679-73-6e06f331dd1ce9b0ca6e17b2e7774421-2752x1536.jpg?width=536&amp;qual…"
   },
   {
    "title": "【YUMEKI】Forbes JAPAN 30 UNDER 30 2026「世界を変える30歳未満」30人 に選出",
@@ -6823,116 +7056,6 @@
    ],
    "published": "2026-08-16T11:10:02+09:00",
    "summary": "[株式会社ゼロプレイス] 株式会社ゼロプレイス（本社：埼玉県さいたま市、代表取締役：成田優樹、以下「当社」）は、「Event Lead PLUS（ELP）」を活用し、飲食店の店頭販促における新たな活用アイデアを提案します。 [画像1: https://p..."
-  },
-  {
-   "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明　「完全な書き直しなら消える」",
-   "link": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
-   "source": "ITmedia NEWS",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-16T07:58:11+09:00",
-   "summary": "Anthropicは、「Claude」が生成するテキストに埋め込む電子透かしの仕組みを公表した。乱数生成に秘密鍵を用いて統計的パターンを残す手法で、品質や速度、料金に影響を与えない。「EU AI Act」への準拠を目的とするが全世界で適用され、コードや短文などでは入りにくいといっ…"
-  },
-  {
-   "title": "パランティアは過去最高の売上高93%増…｢AI主権｣掲げ､大手AIモデルへの依存に反旗 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/953852?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "source": "東洋経済オンライン",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-16T07:00:00+09:00",
-   "summary": "AIとデータ分析基盤で注目を浴びるパランティア･テクノロジーズが､2026年4〜6月期決算で過去最高の成長を記録しました。現場主導のAI活用とは？"
-  },
-  {
-   "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-   "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-16T06:29:19+09:00",
-   "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
-  },
-  {
-   "title": "オープンAI､アンソロピック…AIがルールを破ろうとしてしまう理由 人間をだます｢スキーミング｣が新たな脅威に | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/954760?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "source": "東洋経済オンライン",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-16T05:50:00+09:00",
-   "summary": "AIツールは、人間が行うほぼあらゆることをまねるよう訓練されている。だとしたら、機械がうそをついたり不正を働いたりするという、人間の悪癖まで模倣し始めるのは当然かもしれない。最近では、ごく一部のAI…"
-  },
-  {
-   "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-   "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-16T03:58:39+09:00",
-   "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
-  },
-  {
-   "title": "SpaceX officially closes its Cursor acquisition",
-   "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-16T01:30:00+09:00",
-   "summary": "AI coding startup Cursor is now officially a part of SpaceX."
-  },
-  {
-   "title": "How to tell if your AI platforms’ accounts have been hacked",
-   "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-16T01:10:00+09:00",
-   "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
-  },
-  {
-   "title": "リスクを抑えた信用取引をお試しいただける「ライト信用」提供開始のお知らせ",
-   "link": "https://prtimes.jp/main/html/rd/p/000000023.000070207.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-15T15:40:02+09:00",
-   "summary": "[株式会社SBIネオトレード証券] 株式会社SBIネオトレード証券（本社：東京都港区、代表取締役社長：中村昌靖、以下「当社」）は、2026年8月14日（金）から、株式の投資経験が無い方（※）でもリスクを抑えて低コストで信用取引をお試しいただける..."
-  },
-  {
-   "title": "モーニング限定！自分で焼いて楽しむ「モーニングクロッフル」が櫟 kunugiに登場",
-   "link": "https://prtimes.jp/main/html/rd/p/000000013.000136658.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-15T14:45:18+09:00",
-   "summary": "[株式会社櫟] 株式会社櫟(本社：広島県広島市)は、2026年9月1日より、櫟 kunugi cafe太田川店にてお客様自身がクロッフルを焼いて楽しめる新メニュー「セルフで焼きたて！モーニングクロッフル」の提供を開始します。 本メニュ..."
-  },
-  {
-   "title": "Core Ultra 5搭載の14.0型Copilot+ PC「FMV WU1-L1」が18万円台！ FMV直販で「夏の福袋セール」",
-   "link": "https://ascii.jp/elem/000/004/426/4426615/?rss",
-   "source": "ASCII.jp",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-15T14:00:00+09:00",
-   "summary": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。"
-  },
-  {
-   "title": "「もしもの時、家族はあなたのスマホを開けますか？」暗証番号・ネット銀行IDを家族へつなぐ「継承金庫（キーバトン）」をTalkMemorial.AIが提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000085.000127837.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-15T13:15:17+09:00",
-   "summary": "[ニュウジア] 株式会社ニュウジア（本社：東京都中央区、代表取締役：柏口之宏、以下「当社」）は、当社が運営するグリーフケア／終活サービス「TalkMemorial.AI（トークメモリアルAI(https://talkmemorial.ai)）」において、..."
   }
  ]
 }
