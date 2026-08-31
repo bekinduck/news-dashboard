@@ -1,7 +1,350 @@
 {
- "generated_at": "2026-08-30T08:53:22.329239+09:00",
+ "generated_at": "2026-08-31T09:12:20.783362+09:00",
  "days_kept": 14,
  "articles": [
+  {
+   "title": "一線を画す的中力でリピーター続々！全方位抜かりナシの“地支命術”で悩みを解決、溟白龍氏が監修する占いコンテンツの提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000791.000005725.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-31T08:40:02+09:00",
+   "summary": "[株式会社ザッパラス] ザッパラスグループの株式会社cocoloni（本社：東京都渋谷区、代表取締役：溝上雅俊）は、2026年8月26日（水）より、運営する占いコンテンツポータル『cocoloni占い館 Moon』にて、株式会社ベルシステム24（本社..."
+  },
+  {
+   "title": "ソニー・ミュージックパブリッシングとワーナー・チャペル、Anthropicを著作権侵害で提訴",
+   "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000950/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T08:21:28+09:00",
+   "summary": "Sony Music PublishingやWarner Chappell Musicなどの音楽出版社グループは、Anthropicと同社幹部を著作権侵害で提訴した。海賊版サイトからの歌詞取得や無断学習を「史上最大の知財窃盗」と主張し、数十億ドル規模の損害賠償を請求している。An…"
+  },
+  {
+   "title": "【無料】日本語のAI学習サイトをAnthropicが公開　「Claude Code入門」など357のコンテンツが学べる",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news015.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T08:00:00+09:00",
+   "summary": "Anthropicは、AIを安全かつ効果的に活用する方法を学べるWebサイト「Claude Academy」を公開した。"
+  },
+  {
+   "title": "Anthropic、OpenAIが明かす「AI利用拡大でユーザーに何が起きているか」",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2608/27/news091.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T08:00:00+09:00",
+   "summary": "AIの利用が業務に定着し始めた今、労働市場と業務内容はどう変わりつつあるのか。AnthropicとOpenAIがそれぞれ公開した独自データから、AIの浸透がユーザーに与えているインパクトを明らかにする。"
+  },
+  {
+   "title": "「社内資料をAIに読ませたら、使えない回答が連発」　RAG導入で起きる悲劇と回避策",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/31/news050.html",
+   "source": "ITmedia ビジネス",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T08:00:00+09:00",
+   "summary": "社内のマニュアルや過去資料をAIに読み込ませれば、使える「社内Q＆A」が作れる――。そう考えてRAG導入を進めた企業で、思わぬ問題が起きている。2つの“しくじり事例”から、その教訓を探る。"
+  },
+  {
+   "title": "SBI HD、ネットショップ「BASE」と資本業務提携　株式20%取得",
+   "link": "https://www.watch.impress.co.jp/docs/news/2136774.html",
+   "source": "Impress Watch",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-31T08:00:00+09:00",
+   "summary": "SBIホールディングスは28日、ネットショップ作成サービス「BASE」などを展開するBASEと資本業務提携すると発表した。SBI HD子会社が株式公開買付でBASE株式の20%を取得予定で、取得額は約80.8億円。買付期間は8月31日から9月30日まで。"
+  },
+  {
+   "title": "｢Pixel 11｣のAIはスマホ操作をどう変えるか､言い直しまで直す音声入力と｢撮りっぱなし｣で選ぶカメラの実力 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955978?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "source": "東洋経済オンライン",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T08:00:00+09:00",
+   "summary": "グーグルの最新スマホ｢Pixel 11｣シリーズ。外観は前モデルと大差ないものの､AIプラットフォーム｢Gemini Intelligence｣により､音声入力やカメラ機能が劇的に進化している。"
+  },
+  {
+   "title": "シリコンスタジオが「官公庁事業推進室」を新設　防衛／防災、宇宙など展開強化",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2608/31/news021.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T07:30:00+09:00",
+   "summary": "シリコンスタジオは、官公庁や公共分野における事業開発と提案活動を強化するため、2026年9月1日付で「官公庁事業推進室」を新設する。リアルタイム3D CG技術を生かし、防衛や防災、インフラなどの領域でデジタルツインやシミュレーション技術の展開を進める。"
+  },
+  {
+   "title": "月星座占い｜人生/恋/重要時期もピタリ当たる◆小泉茉莉花の精密鑑定が「本格占い｜みのり」で提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000001326.000074768.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-31T07:10:02+09:00",
+   "summary": "[株式会社レンサ] 株式会社レンサ（本社：東京都渋谷区、代表取締役：武井哲也）とテレシスネットワーク株式会社（本社：東京都港区、代表取締役：鷹石惠充）は、2026年8月27日（木）より、運営する、『みのり～本格占い～』にて「..."
+  },
+  {
+   "title": "AIエージェントはなぜハッキングに走ったか？オープンAI報告書の中身",
+   "link": "https://ascii.jp/elem/000/004/430/4430555/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T07:00:03+09:00",
+   "summary": "訓練中に不正で問題を解いたモデルは、その行動を強化され、次も同じ手を使うようになる。「報酬ハッキング」と呼ばれるこの現象が、7月のハギング・フェイス侵入につながったと、オープンAIの技術報告書は結論づけた。ただし、解決は容易ではない。"
+  },
+  {
+   "title": "「AI時代、業務の再設計が必要」　それ、DXの時も言っていましたよね……本当にできる？　日本IBMの答えは",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/31/news016.html",
+   "source": "ITmedia ビジネス",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T07:00:00+09:00",
+   "summary": "AIエージェントを導入して成果を出すためには「業務プロセスの再設計」が必要だという。振り返れば、DXの時も同じことを言っていた。日本企業は、今度こそ本当に実現できるのか。日本IBMが見解を語った。"
+  },
+  {
+   "title": "AIが生成した“存在しない病名”、研修医の44％が信用　見抜けた医師との差は？　仏大学病院が検証",
+   "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000865/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T07:00:00+09:00",
+   "summary": "フランスの大学病院「Lille University Hospital」などに所属する研究者らが発表した論文「Hallucination by proxy in LLM-assisted differential diagnosis」は、大規模言語モデル（LLM）がもっともらしく…"
+  },
+  {
+   "title": "AIで月「400時間」「紙6000枚」削っても「そんな数字どうでもいい」　町工場が1億円規模のシステム内製で得たもの",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/31/news018.html",
+   "source": "ITmedia ビジネス",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T07:00:00+09:00",
+   "summary": "「業務時間を何時間削減したか」は、AI活用の真の目的ではない――。金沢市の町工場、岡田研磨が進めるのは、AI時代の競争力となる「会社の記憶」の蓄積だ。"
+  },
+  {
+   "title": "5秒の動画を3秒で出せる　動画生成AI「MiniMax H3」が爆速に進化",
+   "link": "https://ascii.jp/elem/000/004/430/4430553/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T07:00:00+09:00",
+   "summary": "動画生成AI「MiniMax H3」の高速化競争が加速している。15秒を約13秒で生成する「H3 Max」に加え、14倍高速化をうたう「FastH3」も登場。RTX 4090環境で動かし、検証した。"
+  },
+  {
+   "title": "Googleマップから直接注文できる飲食店向け事前注文システム",
+   "link": "https://ascii.jp/elem/000/004/430/4430213/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-31T07:00:00+09:00",
+   "summary": "フードトラベル株式会社は8月25日、飲食店向けの店外オーダーシステム「オーダーテイク」を正式リリースした。顧客がGoogleマップの店舗情報から直接スマホで料理を事前注文・決済し、待ち時間なしでテイクアウトを受け取れるサービスだ。"
+  },
+  {
+   "title": "生活道路時速30キロ規制に対応。位置データと道路地図の自動照合による速度超過検知機能",
+   "link": "https://ascii.jp/elem/000/004/430/4430172/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-31T07:00:00+09:00",
+   "summary": "株式会社キャリオットは8月28日、車両管理システム「Cariot」において、走行した道路ごとの制限速度と実際の走行速度を自動で照合し、速度超過を検知・記録する「制限速度超過検知機能」を2026年秋に提供開始すると発表した。"
+  },
+  {
+   "title": "ソフトクリエイトのAI戦略、中堅・中小企業向け独自AIツールと知財を軸に従来型SIからの脱却図る",
+   "link": "https://japan.zdnet.com/article/35252041/",
+   "source": "ZDNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T07:00:00+09:00",
+   "summary": "中堅・中小企業の情報システム部門向けにSIビジネスを展開するソフトクリエイトは、AIを企業インフラにするための概念実証（PoC）から導入、活用までを支援するAI事業を始めた。"
+  },
+  {
+   "title": "Anthropicの「Claude」と「Cowork」、あなたの記憶を共有へ--オプトアウトしなければ",
+   "link": "https://japan.zdnet.com/article/35251946/",
+   "source": "ZDNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T07:00:00+09:00",
+   "summary": "Anthropicが「Claude」と「Claude Cowork」のメモリーシステムを統合すると発表した。"
+  },
+  {
+   "title": "AIエージェント型チャットサービス「楽天証券のAIチャットサポート」提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000748.000011088.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-08-31T06:40:02+09:00",
+   "summary": "[楽天証券] 楽天証券株式会社（本社：東京都港区、代表取締役社長：楠 雄治、以下「楽天証券」）は、2026年9月2日（水）より、現在提供している、原則24時間AIが自動応答する「AIチャット」（チャットボット）の機能を強化し..."
+  },
+  {
+   "title": "リアルテックグローバルファンド2号、次世代固体酸化物形燃料電池技術で データセンター・産業向け電源を革新するTeragen Energyに出資",
+   "link": "https://prtimes.jp/main/html/rd/p/000000183.000036405.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T06:40:02+09:00",
+   "summary": "[UntroD Capital Japan] [画像1: https://prcdn.freetls.fastly.net/release_image/36405/183/36405-183-213a30c760b5a4bf77c7cf5ba905e25f-2000x1050.j…"
+  },
+  {
+   "title": "【生成AIを「使う」から、事業を生み出す力へ】角川アスキー総合研究所、パーソルデジタルベンチャーズの「生成AI×事業開発」社内研修を企画・運営",
+   "link": "https://prtimes.jp/main/html/rd/p/000000274.000017610.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T06:40:02+09:00",
+   "summary": "[株式会社角川アスキー総合研究所] 株式会社角川アスキー総合研究所（本社：東京都文京区、代表取締役社長：垣貫真和）は、パーソルデジタルベンチャーズ株式会社から委託を受け、パーソルグループのR&amp;D Function Unit（以下、R&amp;D FU）を対..."
+  },
+  {
+   "title": "パワハラ・セクハラの社内調査を支援するAIエージェント、9月1日提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000007.000180367.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-08-31T06:40:02+09:00",
+   "summary": "[株式会社Legal Node] [画像1: https://prcdn.freetls.fastly.net/release_image/180367/7/180367-7-b35f3aacb5307876927890149690ed0c-1200x630.png?width=…"
+  },
+  {
+   "title": "共栄木材、四国初のネイルプレートトラス生産設備を導入し、大スパン木造事業を本格展開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000001.000189473.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-31T06:40:02+09:00",
+   "summary": "[株式会社共栄木材] 株式会社共栄木材（本社：愛媛県伊予市、代表取締役社長：西下文平）は、四国で初めてマイテック社製のネイルプレートトラス（ライトフレームトラス）生産設備と専用CADを導入しました(※)。木質トラス専用工場を..."
+  },
+  {
+   "title": "パナソニックHDがAI・ロボティクス研究開発本部を新設、CAIOの榊原氏がトップに",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2608/31/news057.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T06:15:00+09:00",
+   "summary": "パナソニック ホールディングス（パナソニックHD）が技術部門の再編を行うと発表。現行のDX・CPS本部を「事業開発本部」に名称変更し、「AI・ロボティクス研究開発本部」を新設する。AI・ロボティクス研究開発本部長には同社 執行役員 グループCAIO（最高AI責任者）の榊原彰氏が就…"
+  },
+  {
+   "title": "Hacobu、「国際物流総合展」へ出展【9月8日～11日】―物流の契約・運賃・請求業務を効率化する新AIサービスの発表も予定",
+   "link": "https://prtimes.jp/main/html/rd/p/000000412.000018703.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T04:10:01+09:00",
+   "summary": "[Hacobu] [画像1: https://prcdn.freetls.fastly.net/release_image/18703/412/18703-412-11f62aab0f4b18ad3ed139ddd9b5adcb-1200x630.jpg?width=536&am…"
+  },
+  {
+   "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+   "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T01:54:25+09:00",
+   "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone…"
+  },
+  {
+   "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+   "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-31T00:00:00+09:00",
+   "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment…"
+  },
+  {
+   "title": "LINEヤフー、全社横断でAIエージェント量産体制　カレンダーなど新「Agent i」",
+   "link": "https://www.watch.impress.co.jp/docs/news/2136632.html",
+   "source": "Impress Watch",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-08-31T00:00:00+09:00",
+   "summary": "LINEヤフーは28日、AIエージェントブランド「Agent i(エージェントアイ)」の新機能とともに、AIエージェントの量産体制構築に向け「Agent i 全社横断タスクフォース」を立ち上げると発表した。新体制で、Agent iを日常のくらしのパートナーとして強化していく。"
+  },
+  {
+   "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
+   "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T18:23:12+09:00",
+   "summary": "OpenAIと評価機関METRは、Hugging Face侵害事案の技術報告書を公開した。約1200体のAIエージェントが非公式掲示板で結託し、難問攻略のため採点機構を探る過程で攻撃を実行したという。OpenAIは根本原因を報酬ハッキングとし対策を公表したが、METRは自律的集団…"
+  },
+  {
+   "title": "【奥湯河原温泉 山翠楼 SANSUIROU】秋限定献立の提供開始ー厳選食材で仕立てる至高の和食会席",
+   "link": "https://prtimes.jp/main/html/rd/p/000002091.000019483.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-30T16:40:40+09:00",
+   "summary": "[野口観光マネジメント株式会社] 野口リゾートマネジメント株式会社 奥湯河原温泉 山翠楼 SANSUIROU（神奈川県足柄下郡湯河原町宮上673/執行役員支配人・石田圭司） 奥湯河原温泉 山翠楼 SANSUIROUでは、2026年秋のお献立として、湯河原とその近..."
+  },
+  {
+   "title": "【日曜最新話更新！】『極彩ラプソディ』LINEマンガ・ebookjapanで先行配信中！──元殺し屋お兄さん×復讐少女のクライムアクション・ラブコメディ│栞（大洋図書）",
+   "link": "https://prtimes.jp/main/html/rd/p/000000380.000118288.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T16:40:02+09:00",
+   "summary": "[株式会社大洋図書] ■「極彩ラプソディ」幕良木ねむる/著 幕良木ねむる（@ma9ragine6ne6）による、【元殺し屋お兄さん×復讐を誓う少女】クライムアクションラブコメディ！ [画像1: https://prcdn.freetls.fastly.net/release_im…"
+  },
+  {
+   "title": "京都商工会議所主催「AIエージェントの活用でAIを『部下』にする！」を10月26日（月）京都で開催｜ノーコードソリューションズ",
+   "link": "https://prtimes.jp/main/html/rd/p/000000009.000179817.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T16:10:02+09:00",
+   "summary": "[株式会社ノーコードソリューションズ] [画像1: https://prcdn.freetls.fastly.net/release_image/179817/9/179817-9-791c0432b856481cfcf8e19206f8107c-1910x1000.jpg?wi…"
+  },
+  {
+   "title": "お笑いライブ特化の予約・受付サービス『ワラチケ』ベータ版提供開始。出演者別の集計から当日受付まで、ひとつの名簿で。",
+   "link": "https://prtimes.jp/main/html/rd/p/000000003.000179193.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-30T15:15:16+09:00",
+   "summary": "[株式会社Helpful] 株式会社Helpfulは、お笑いライブの予約から当日受付までを一本化するサービス「ワラチケ(https://waratike.com)」を2026年8月30日よりベータ版として提供開始しました。ライブごとに発行する予約URLをひとつ共有..."
+  },
+  {
+   "title": "「AIエージェント」でネット通販激変　“アマゾン飛ばし”がビジネスモデルを揺るがす",
+   "link": "https://www.itmedia.co.jp/business/articles/2608/30/news012.html",
+   "source": "ITmedia ビジネス",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-08-30T09:00:00+09:00",
+   "summary": "LINE（ライン）ヤフーは28日、通信アプリ「LINE」を通じて利用できる人工知能（AI）サービスを、アプリにすると発表した。"
+  },
   {
    "title": "OpenAI、Cursorへのモデル提供を11月12日に終了　SpaceXによる買収が理由",
    "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
@@ -33,16 +376,6 @@
    "summary": "[モニタス] [画像: https://prcdn.freetls.fastly.net/release_image/8679/73/8679-73-6e06f331dd1ce9b0ca6e17b2e7774421-2752x1536.jpg?width=536&amp;qual…"
   },
   {
-   "title": "月星座占い｜人生/恋/重要時期もピタリ当たる◆小泉茉莉花の精密鑑定が「本格占い｜みのり」で提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000001326.000074768.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-30T07:10:02+09:00",
-   "summary": "[株式会社レンサ] 株式会社レンサ（本社：東京都渋谷区、代表取締役：武井哲也）とテレシスネットワーク株式会社（本社：東京都港区、代表取締役：鷹石惠充）は、2026年8月27日（木）より、運営する、『みのり～本格占い～』にて「..."
-  },
-  {
    "title": "「AIエージェントDXPO東京'26 夏」にて大変好評だったセミナーをウェビナー配信",
    "link": "https://prtimes.jp/main/html/rd/p/000000071.000030394.html",
    "source": "PR TIMES",
@@ -63,27 +396,6 @@
    "summary": "[(株)インフラプラス] [画像1: https://prcdn.freetls.fastly.net/release_image/40927/41/40927-41-b0ce3181c172989e81f8be4ba6fb43eb-535x276.png?width=536&a…"
   },
   {
-   "title": "AIエージェント型チャットサービス「楽天証券のAIチャットサポート」提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000748.000011088.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-08-30T06:40:02+09:00",
-   "summary": "[楽天証券] 楽天証券株式会社（本社：東京都港区、代表取締役社長：楠 雄治、以下「楽天証券」）は、2026年9月2日（水）より、現在提供している、原則24時間AIが自動応答する「AIチャット」（チャットボット）の機能を強化し..."
-  },
-  {
-   "title": "リアルテックグローバルファンド2号、次世代固体酸化物形燃料電池技術で データセンター・産業向け電源を革新するTeragen Energyに出資",
-   "link": "https://prtimes.jp/main/html/rd/p/000000183.000036405.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-30T06:40:02+09:00",
-   "summary": "[UntroD Capital Japan] [画像1: https://prcdn.freetls.fastly.net/release_image/36405/183/36405-183-213a30c760b5a4bf77c7cf5ba905e25f-2000x1050.j…"
-  },
-  {
    "title": "水質分析を「測る技術」から「人と人をつなぐ仕組み」へ。共立理化学研究所、インドに合弁会社「KCL Pinnacle India Pvt. Ltd.」を設立",
    "link": "https://prtimes.jp/main/html/rd/p/000000005.000118974.html",
    "source": "PR TIMES",
@@ -92,37 +404,6 @@
    ],
    "published": "2026-08-30T06:40:02+09:00",
    "summary": "[株式会社共立理化学研究所] 株式会社共立理化学研究所（本社：神奈川県、代表取締役 岡内 俊太郎）は、インド・ハリヤーナ州グルグラムにおいて、現地企業Pinnacle Sourcing &amp; Consultancy Pvt. Ltd.（以下、Pinnacle社）との合弁会社…"
-  },
-  {
-   "title": "【生成AIを「使う」から、事業を生み出す力へ】角川アスキー総合研究所、パーソルデジタルベンチャーズの「生成AI×事業開発」社内研修を企画・運営",
-   "link": "https://prtimes.jp/main/html/rd/p/000000274.000017610.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-30T06:40:02+09:00",
-   "summary": "[株式会社角川アスキー総合研究所] 株式会社角川アスキー総合研究所（本社：東京都文京区、代表取締役社長：垣貫真和）は、パーソルデジタルベンチャーズ株式会社から委託を受け、パーソルグループのR&amp;D Function Unit（以下、R&amp;D FU）を対..."
-  },
-  {
-   "title": "パワハラ・セクハラの社内調査を支援するAIエージェント、9月1日提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000007.000180367.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-08-30T06:40:02+09:00",
-   "summary": "[株式会社Legal Node] [画像1: https://prcdn.freetls.fastly.net/release_image/180367/7/180367-7-b35f3aacb5307876927890149690ed0c-1200x630.png?width=…"
-  },
-  {
-   "title": "共栄木材、四国初のネイルプレートトラス生産設備を導入し、大スパン木造事業を本格展開",
-   "link": "https://prtimes.jp/main/html/rd/p/000000001.000189473.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-30T06:40:02+09:00",
-   "summary": "[株式会社共栄木材] 株式会社共栄木材（本社：愛媛県伊予市、代表取締役社長：西下文平）は、四国で初めてマイテック社製のネイルプレートトラス（ライトフレームトラス）生産設備と専用CADを導入しました(※)。木質トラス専用工場を..."
   },
   {
    "title": "美容師とお客様の間に「心地良い距離感」を作る次世代サロンワークサポートツール「PiTTLINE for LINE(ピットラインフォーライン)」本格展開",
@@ -145,16 +426,6 @@
    "summary": "[株式会社Jin] [画像: https://prcdn.freetls.fastly.net/release_image/170282/4/170282-4-db43dd4883badd5cefb1d4ca67b98e7b-1000x737.png?width=536&amp;…"
   },
   {
-   "title": "Hacobu、「国際物流総合展」へ出展【9月8日～11日】―物流の契約・運賃・請求業務を効率化する新AIサービスの発表も予定",
-   "link": "https://prtimes.jp/main/html/rd/p/000000412.000018703.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-30T04:10:02+09:00",
-   "summary": "[Hacobu] [画像1: https://prcdn.freetls.fastly.net/release_image/18703/412/18703-412-11f62aab0f4b18ad3ed139ddd9b5adcb-1200x630.jpg?width=536&am…"
-  },
-  {
    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
    "source": "TechCrunch AI",
@@ -163,16 +434,6 @@
    ],
    "published": "2026-08-30T03:41:59+09:00",
    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
-  },
-  {
-   "title": "一線を画す的中力でリピーター続々！全方位抜かりナシの“地支命術”で悩みを解決、溟白龍氏が監修する占いコンテンツの提供を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000791.000005725.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-30T03:10:02+09:00",
-   "summary": "[株式会社ザッパラス] ザッパラスグループの株式会社cocoloni（本社：東京都渋谷区、代表取締役：溝上雅俊）は、2026年8月26日（水）より、運営する占いコンテンツポータル『cocoloni占い館 Moon』にて、株式会社ベルシステム24（本社..."
   },
   {
    "title": "【特別レポート】Polimillの研修チームが「プロ講師養成研修」に挑戦！ - 個性と専門性を生かし、スキルを教える「だけじゃない」講師へ",
@@ -1078,6 +1339,16 @@
    "summary": "クラウドフレア日本法人がAIエージェント向け機能や施策などを紹介した。同社は、インターネットの主役が人間からAIエージェントに移行していると指摘する。"
   },
   {
+   "title": "「美味しい」の先にある価値を届ける。VAIZO、店舗運用支援サービス「V/LINEリピート」にBeaconを組み合わせた実証実験を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000003.000186641.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-27T18:15:19+09:00",
+   "summary": "[株式会社VAIZO] [画像1: https://prcdn.freetls.fastly.net/release_image/186641/3/186641-3-324c78c585386261e5ae2311692cd16c-1672x941.png?width=536&a…"
+  },
+  {
    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
    "source": "OpenAI News",
@@ -1176,6 +1447,16 @@
    ],
    "published": "2026-08-27T13:00:00+09:00",
    "summary": "ABI Researchは、急拡大するAI推論市場の現状を解説した。生成AIの本番利用が広がる中、推論ワークロードは2033年にトレーニングを追い越し、消費電力は2035年に46ギガワットへ拡大すると予測する。"
+  },
+  {
+   "title": "「法務部がない」「法務リソース逼迫」企業へ向け　PRESTO法律事務所、『法務受託契約』サービス開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000003.000180981.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-08-27T12:40:53+09:00",
+   "summary": "[PRESTO法律事務所] PRESTO法律事務所（代表弁護士：諏訪貴紘、所在地：東京都港区）は、法務部を持たない中小企業や法務リソースが逼迫している企業を対象とした「法務受託契約」サービスの提供を開始いたしました。 サービス概要..."
   },
   {
    "title": "Expanding OpenAI’s presence in Brazil",
@@ -6734,328 +7015,6 @@
    ],
    "published": "2026-08-17T10:09:00+09:00",
    "summary": "「Google Meet」に、対面会議の内容を自動でメモできる機能が登場した。「Gemini」を活用し、会議の要約や文字起こしを自動作成して「Googleドライブ」に保存できる。"
-  },
-  {
-   "title": "Hugging Face分析、中国のオープンモデルが台頭　Qwenは派生モデル15万件超",
-   "link": "https://www.itmedia.co.jp/news/article/2608/17/2000000557/",
-   "source": "ITmedia NEWS",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T08:42:45+09:00",
-   "summary": "Hugging Faceは、オープンモデル動向をまとめたレポートを公開した。中国勢が2兆パラメータ超の大規模モデルを相次いで公開するなど台頭する一方、実際のダウンロードの8割以上は10億パラメータ未満の小型モデルが占めた。Alibabaの「Qwen」は派生モデル数でMetaを上回…"
-  },
-  {
-   "title": "Google Meet、リアル会議の議事録生成も可能に　スマホ1つで録音→要約",
-   "link": "https://japan.cnet.com/article/35251588/",
-   "source": "CNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T08:36:00+09:00",
-   "summary": "Googleは8月13日、Google Meetの自動メモ機能「Take notes for me」を対面の会議でも使えるようにしたと発表した。ビデオ通話に入らなくても、ウェブ版かモバイルアプリのホーム画面から録音を始めるだけで、Geminiが会議の要約や文字起こしを作り、Goo…"
-  },
-  {
-   "title": "ChatGPT、Macでのクリックや文字入力を記憶する新機能--「あのファイルはどこ？」にも回答",
-   "link": "https://japan.cnet.com/article/35251587/",
-   "source": "CNET Japan",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-08-17T08:23:00+09:00",
-   "summary": "OpenAIは、macOS版「ChatGPT」デスクトップアプリに新機能「Computer History」を追加した。アプリやウェブサイトでのクリックや文字入力といった操作履歴を、画面を撮影せずに記録して記憶とタイムラインに変換し、ChatGPTと「Codex」が参照できるよう…"
-  },
-  {
-   "title": "【西田宗千佳のイマトミライ】Google Pixel 11がリアル店舗と〝頑張った価格”で狙う日本市場攻略",
-   "link": "https://www.watch.impress.co.jp/docs/series/nishida/2132738.html",
-   "source": "Impress Watch",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-17T08:20:00+09:00",
-   "summary": "Googleが新スマートフォン「Pixel 11」を中心とした新製品群を発表した。"
-  },
-  {
-   "title": "外資AIベンダー襲来、システム開発の“垣根”消失……　新生TISIはどう対抗する？",
-   "link": "https://www.itmedia.co.jp/enterprise/articles/2607/29/news010.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-08-17T08:00:00+09:00",
-   "summary": "AIの普及によってITシステム開発の“垣根”が崩れつつある中、外資のAIベンダーがFDEを掲げて日本市場に参入してきた。SIerを取り巻く環境が急激に変わる中、TISとインテックが合併して発足したTISIはどのように自社の強みを打ち出そうとしているのか。"
-  },
-  {
-   "title": "現役組み込みエンジニアがAIを業務利用して分かったこと――期待と限界と現実解",
-   "link": "https://monoist.itmedia.co.jp/mn/articles/2608/17/news019.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T08:00:00+09:00",
-   "summary": "組み込み開発の業務でもAI活用に対する期待は大きく高まっている。本稿では、現役の組み込みエンジニアが本業である筆者が、日々の業務にAIを組み込み続けてきて見えてきたAI活用の限界と現実解について解説する。"
-  },
-  {
-   "title": "「社内情報をAIに食わせればいい」だけでは足りない、情報検索精度向上の鉄則",
-   "link": "https://kn.itmedia.co.jp/kn/articles/2608/17/news010.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T08:00:00+09:00",
-   "summary": "「RAGを導入すれば業務が変わる」。そう信じて始めたのに、検索精度は上がらず、複雑な権限制御にも阻まれる――。Skyもまた、その壁にぶつかった一社だ。だが同社は「取りあえずRAG」を捨てることで前に進んだ。何でもベクトル化するのをやめたSkyの判断とは。"
-  },
-  {
-   "title": "Claudeで障害　アクセスできず（復旧）",
-   "link": "https://japan.cnet.com/article/35251584/",
-   "source": "CNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T07:17:00+09:00",
-   "summary": "AnthropicのAIサービス「Claude」で障害が発生している模様だ。公式ステータスページで障害を告知しているほか、SNSでは「アクセスできない」などの投稿が相次いでいる。"
-  },
-  {
-   "title": "生成AI利用補助は月1万円、フルリモート80%超──製造業DXを支えるエンジニア採用ページを公開",
-   "link": "https://prtimes.jp/main/html/rd/p/000000047.000150290.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T07:10:02+09:00",
-   "summary": "[株式会社ムクイル] [画像1: https://prcdn.freetls.fastly.net/release_image/150290/47/150290-47-65a1ea782fd0caffae421c22be44ac84-1200x630.png?width=536&…"
-  },
-  {
-   "title": "もはやローカル動画生成AIの枠におさまらない。MiniMax H3の奥が深すぎる",
-   "link": "https://ascii.jp/elem/000/004/426/4426894/?rss",
-   "source": "ASCII.jp",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T07:00:00+09:00",
-   "summary": "人気の動画生成モデル「MiniMax H3」の高速化やプロンプト最適化、長時間動画を可能にするContext Loopなど、ローカル動画生成AIならではの新手法と可能性を実例を交えて検証します。"
-  },
-  {
-   "title": "性格と実際の行動をAIで可視化する採用テスト",
-   "link": "https://ascii.jp/elem/000/004/425/4425577/?rss",
-   "source": "ASCII.jp",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-17T07:00:00+09:00",
-   "summary": "株式会社Scale Technologyは、中小企業専用のAI採用アセスメント「PitA（ピタ）」を6月末に正式リリースした。本サービスは、約15〜20分のシナリオ型テストで、先天的な性格特性と、後天的な行動特性、独自指標を分析して可視化する。人間の性格を外向性、神経症傾向、誠実…"
-  },
-  {
-   "title": "設立から1年バーティブ・ジャパンが描く「AIデータセンター」最前線と冷却・電力の最適解",
-   "link": "https://japan.zdnet.com/article/35251184/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T07:00:00+09:00",
-   "summary": "生成AIの急速な普及により、データセンタ市場は大きな転換期を迎えている。日本法人設立から約1年が経過したバーティブ・ジャパンは、AIインフラのボトルネックとなる「電力と冷却」の課題に対し、一気通貫のソリューションを提供。カントリープレジデントの倉橋健氏に、同社の現在地と今後の戦略…"
-  },
-  {
-   "title": "主要国の動向から考えるフロンティアAIがもたらすサイバーリスクとの向き合い方",
-   "link": "https://japan.zdnet.com/article/35251493/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T07:00:00+09:00",
-   "summary": "米Anthropicによる「Claude Mythos Preview」発表から数カ月が経過した。主要各国機関の動向などを踏まえて、フロンティアAIがもたらすサイバーリスクとどのように向き合っていくべきかを検討してみたい。"
-  },
-  {
-   "title": "「欧州のAI主権」任された“34歳の天才”　パリの新星、AI企業Mistralは「救世主」になれるのか",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/17/news037.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T07:00:00+09:00",
-   "summary": "欧州のAI主権を担う存在として、AI企業のMistralが注目されている。同社を率いる34歳の“若き天才”は、“救世主”になり得るのか。"
-  },
-  {
-   "title": "「MicrosoftよりGoogle」で6億円削減も？　舞鶴市、千代田区が明かすIT刷新とAI活用の成功法則",
-   "link": "https://www.itmedia.co.jp/enterprise/articles/2608/17/news028.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T07:00:00+09:00",
-   "summary": "ITツールやAIの導入は、現場への定着や運用負担が課題となることが多い。京都市舞鶴市と東京千代田区はどのようにその課題を解消し、成果につなげたのか。"
-  },
-  {
-   "title": "雪印メグミルク、ChatAIや社長AIで社内知見を活用　DX認定取得企業から“DXっぽさ”を探る",
-   "link": "https://kn.itmedia.co.jp/kn/articles/2608/17/news030.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T07:00:00+09:00",
-   "summary": "どのような活動をすればDX推進と言えるのか。DXという言葉が普及した現在でも、その答えを一つに定めることは難しい。今回の記事では、経済産業省から「DX認定事業者」の認定を受けた雪印メグミルクの例を参考に、DX推進の具体像を探る。"
-  },
-  {
-   "title": "【読まれた記事1位】「AI需要で半導体不足」の裏で本当に起きていること――2026年前半まとめ",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/17/news045.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T07:00:00+09:00",
-   "summary": "AIブームを追い風に、半導体市場の成長が止まらない。今、半導体市場で何が起きているのか。注目記事をまとめた。"
-  },
-  {
-   "title": "Sixhill、公式サイトにて日本語の製品・技術情報の提供を開始 上位モデル「Sixhill LUOS シリーズ」の日本語製品ページを公開 赤外線加熱技術「Breelight(TM)」を解説",
-   "link": "https://prtimes.jp/main/html/rd/p/000000009.000187014.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-17T06:10:02+09:00",
-   "summary": "[深圳市合元科技有限公司] [画像1: https://prcdn.freetls.fastly.net/release_image/187014/9/187014-9-67b20df023e3ef7e7bcfe9ae87d8b7c0-1200x800.png?width=536…"
-  },
-  {
-   "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-   "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T05:57:04+09:00",
-   "summary": "OpenRouter's CEO recently described the startup as Stripe for AI."
-  },
-  {
-   "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-   "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T05:32:01+09:00",
-   "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
-  },
-  {
-   "title": "【日本初】ミュージックセキュリティーズと長野證券、長野県内企業の成長支援および投資家に新たな「応援投資」体験を提供する業務提携を開始　～多様な資金調達ニーズの充足と地域経済の活性化へ～",
-   "link": "https://prtimes.jp/main/html/rd/p/000000107.000062054.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-17T05:10:02+09:00",
-   "summary": "[ミュージックセキュリティーズ株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/62054/107/62054-107-3678751138c76b7ff0a64ea35645b629-608x72.jpg?wi…"
-  },
-  {
-   "title": "Claude、Codex、Qwen……そのAI用語、どう読む？　読み方クイズ30問",
-   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news020.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T05:00:00+09:00",
-   "summary": "何となくこう読むものだと思っていたら、実は違っていた。そんな経験はないでしょうか。AI用語にも、意外な読み方をするものや、人によって読み方が分かれるものが少なくありません。その読み方が合っているか、全30問のクイズで確かめてみてください。"
-  },
-  {
-   "title": "クリューグル、SI大手のコムチュア社と業務提携",
-   "link": "https://prtimes.jp/main/html/rd/p/000000005.000160346.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-17T04:10:02+09:00",
-   "summary": "[クリューグル株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/160346/5/160346-5-5db284edb0f1a79465ffe5ba55203aa2-2656x1428.png?width=536&…"
-  },
-  {
-   "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-   "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-17T01:53:51+09:00",
-   "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
-  },
-  {
-   "title": "VTuberイベントで“その場で”ツーショットが完成",
-   "link": "https://prtimes.jp/main/html/rd/p/000000028.000133595.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-16T15:40:02+09:00",
-   "summary": "[デジタルギア株式会社] デジタルギア株式会社（本社：東京都港区、代表取締役：漆崎祥一）は、VTuberイベント会場で来場者とVTuberとのツーショットをその場でリアルタイム合成し、即時プリントする新サービス「ギアスナップ」の提供を..."
-  },
-  {
-   "title": "ヨイトキ（Yoitoki）、台湾で正式提供開始｜日本で働く台湾人・長期居住者の真剣な国際恋愛を支援",
-   "link": "https://prtimes.jp/main/html/rd/p/000000109.000175846.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-16T15:40:02+09:00",
-   "summary": "[OLA PARTY JAPAN株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/175846/109/175846-109-7d4ebcba1d0291d0ccbf8fa5530b2c8e-1200x628.pn…"
-  },
-  {
-   "title": "トレカの抽選・予約情報まとめ「トレゲト」当落率情報・応募管理等の新機能を追加！",
-   "link": "https://prtimes.jp/main/html/rd/p/000000013.000183006.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-16T15:40:02+09:00",
-   "summary": "[トレカプロ株式会社] トレーディングカード領域に特化したサービス運営を手がけるトレカプロ株式会社(https://tcgpro.co.jp/)（本社：東京都港区、代表取締役：岸田佳祐）は、運営するトレカ抽選販売情報サイト「カード抽選まとめ」（..."
-  },
-  {
-   "title": "仮想通貨詐欺の送金先追跡を1件9,800円で。株式会社ベストが暗号資産の資金追跡サービス「CryptoTracer」を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000001.000189143.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-16T14:40:39+09:00",
-   "summary": "[株式会社ベスト] [画像: https://prcdn.freetls.fastly.net/release_image/189143/1/189143-1-70e55f0251016313d58a675fc87a1c47-1920x1280.png?width=536&amp…"
-  },
-  {
-   "title": "スケッター、熊本県の被災地支援でシステムの無料提供を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000060.000046505.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-16T13:15:22+09:00",
-   "summary": "[株式会社プラスロボ] 介護・福祉領域に特化した謝礼付きボランティアの地域互助プラットフォーム「スケッター」を運営する株式会社プラスロボは、熊本県の被災地支援としてスケッターシステムの無料提供を開始しました。 一般社団法人..."
-  },
-  {
-   "title": "仮想通貨詐欺の送金先追跡を1件9,800円で。株式会社ベストが暗号資産の資金追跡サービス「CryptoTracer」を提供開始",
-   "link": "https://ascii.jp/elem/000/004/426/4426885/?rss",
-   "source": "ASCII.jp",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-16T12:45:45+09:00",
-   "summary": "仮想通貨詐欺の送金先追跡を1件9,800円で。株式会社ベストが暗号資産の資金追跡サービス「CryptoTracer」を提供開始"
-  },
-  {
-   "title": "BUDDICA、日本エネルギー総合システムと業務提携し、家庭向けエネルギー事業「BUDDICA GRID」をスタート",
-   "link": "https://prtimes.jp/main/html/rd/p/000000019.000174984.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-16T11:15:17+09:00",
-   "summary": "[株式会社BUDDICA] [画像1: https://prcdn.freetls.fastly.net/release_image/174984/19/174984-19-5edf02f1c0c0b033260926d16f4719ed-2400x1260.jpg?width=…"
-  },
-  {
-   "title": "【新機能】アンケート分岐機能を本格実装。飲食店の店頭販促を変える。株式会社ゼロプレイスの「Event Lead PLUS（ELP）」を活用した新たな販促アイデアを公開",
-   "link": "https://prtimes.jp/main/html/rd/p/000000084.000166888.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-16T11:10:02+09:00",
-   "summary": "[株式会社ゼロプレイス] 株式会社ゼロプレイス（本社：埼玉県さいたま市、代表取締役：成田優樹、以下「当社」）は、「Event Lead PLUS（ELP）」を活用し、飲食店の店頭販促における新たな活用アイデアを提案します。 [画像1: https://p..."
   }
  ]
 }
