@@ -1,7 +1,862 @@
 {
- "generated_at": "2026-09-09T08:50:16.556911+09:00",
+ "generated_at": "2026-09-10T08:49:38.332346+09:00",
  "days_kept": 14,
  "articles": [
+  {
+   "title": "「1つの電話番号」を「2台のiPhone」で使用可能に",
+   "link": "https://japan.cnet.com/article/35252457/",
+   "source": "CNET Japan",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-10T08:11:00+09:00",
+   "summary": "米Appleは9日（現地時間）、新製品発表イベント「Surprise and Shine」で、1つの電話番号を2台のiPhoneで使えるようにする新機能「iPhone Handoff」を発表した。14日配信予定の「iOS 27」に搭載するとしている。対応する通信事業者は当初、米T…"
+  },
+  {
+   "title": "中古車流通の粗利管理をAIで完全自動化、集計精度99.99%のAIプラットフォーム「売上粗利DX」提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000010.000055429.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-10T08:10:02+09:00",
+   "summary": "[株式会社アルファ・ゴリラ] [画像1: https://prcdn.freetls.fastly.net/release_image/55429/10/55429-10-fa63dd13216e78ac92093a5a8a2891ea-3080x2028.png?width=5…"
+  },
+  {
+   "title": "ルールを作る「管理職」ほどシャドーAI　「AI白書2026」調査が映す“ガイドライン”の限界",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news027.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T08:00:00+09:00",
+   "summary": "角川アスキー総合研究所が企業の生成AI導入に関する調査結果を公表。AI投資の拡大やAI統制の実態などを明らかにした。"
+  },
+  {
+   "title": "FinatextとスマートプラスSSI、Web面談中の保険募集人をリアルタイムで支援するAIシステムの実証実験を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000642.000012138.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-10T07:40:02+09:00",
+   "summary": "[株式会社Finatextホールディングス] [画像1: https://prcdn.freetls.fastly.net/release_image/12138/642/12138-642-3d5ae3a4c086268ae72b466eb73299c6-1200x630.pn…"
+  },
+  {
+   "title": "【提供体制を拡大】Claude Code法人研修、講師の採用を本格開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000030.000136673.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T07:40:02+09:00",
+   "summary": "[DAIJOBU株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/136673/30/136673-30-0139fa1fe39b998882ebd9aa85d00b46-1199x675.jpg?width=53…"
+  },
+  {
+   "title": "S2W、自律型捜査AIエージェント「DRI」をリリース",
+   "link": "https://prtimes.jp/main/html/rd/p/000000028.000131909.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T07:40:02+09:00",
+   "summary": "[S2W, Inc.] ● 自然言語の質問だけで必要な情報を自動抽出、検知・分析ツールを組み合わせてインテリジェンスおよびレポートを生成 ● RAG、XAI、ユーザーによる判断プロセス等を適用し、ハルシネーションの発生可能..."
+  },
+  {
+   "title": "「企業のAI活用に関する実態調査」を実施、AI格差を生む「5つの壁」と企業のナレッジ未整備の実態が明らかに",
+   "link": "https://prtimes.jp/main/html/rd/p/000000025.000182591.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T07:40:02+09:00",
+   "summary": "[テクミラホールディングス株式会社] テクミラホールディングスの子会社であり、AIエージェントサービス【OfficeAI社員】を提供するネオス株式会社（本社：東京都千代田区、代表取締役 社長執行役員：池田 昌史、以下 ネオス）はこの度、全国の就業..."
+  },
+  {
+   "title": "「売り込まない」戦略でSaaSを大衆化--トヨクモ山本CEOが語る日本企業が世界で勝つ条件",
+   "link": "https://japan.zdnet.com/article/35252328/",
+   "source": "ZDNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T07:26:00+09:00",
+   "summary": "営業主導型のSaaS市場において、製品の力で顧客を獲得する「PLG」を軸に急成長を遂げるトヨクモ。「売り込まない」独自のマーケティングモデルでソフトウェアの大衆化を目指す同社は、いかにして高い生産性を実現しているのか。生成AI時代の組織づくりや、日本企業がグローバル市場で勝つため…"
+  },
+  {
+   "title": "OpenAI adds a prominent AI doomer to its board of directors",
+   "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T07:25:22+09:00",
+   "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
+  },
+  {
+   "title": "5分でわかるアップル発表まとめ--「iPhone Duo」以外の新製品は？ 新AirPods、新Apple Watchも",
+   "link": "https://japan.cnet.com/article/35252454/",
+   "source": "CNET Japan",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-10T07:02:00+09:00",
+   "summary": "Appleは日本時間9月10日、イベント「Surprise and shine.」を開催。初の折りたたみ式iPhone「iPhone Duo」をはじめ、「iPhone 18 Pro」「iPhone 18 Pro Max」、ワイヤレスイヤホン「AirPods 5」、スマートウォッチ…"
+  },
+  {
+   "title": "「かすり傷を負ってでも歩く」　日立が見せる覚悟　売り上げ5000億円見込む“AI事業”の拡大にどう挑むか",
+   "link": "https://www.itmedia.co.jp/business/articles/2609/10/news028.html",
+   "source": "ITmedia ビジネス",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-10T07:00:00+09:00",
+   "summary": "日立製作所がフィジカルAIの実装を加速させる新サービスを発表した。変化が激しいAIの動向をどう読み取り、顧客が必要とするサービスを開発したのか。そこに日立の覚悟が見えた。"
+  },
+  {
+   "title": "新人はあえてAI禁止！　吉本興業元会長とSTARTO創業CEOが明かす「熱狂を生む現場主義」",
+   "link": "https://www.itmedia.co.jp/business/articles/2609/10/news031.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T07:00:00+09:00",
+   "summary": "AIが出す「80点の正解」から感動や熱狂は生まれない──。吉本興業元会長の大&#64017;洋氏と、STARTO ENTERTAINMENT創業CEOを務めた福田淳氏が対談。「新人はあえてAI禁止」「芸人は管理せず暴れさせる」など、効率化の先にある「偏愛」や「人間くささ」の価値を…"
+  },
+  {
+   "title": "AIとの対話で自己分析から選考管理まで完結。学生起点の就活スマートアプリ",
+   "link": "https://ascii.jp/elem/000/004/433/4433140/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T07:00:00+09:00",
+   "summary": "ライフイズテック株式会社は9月2日、大学生向け就活スマートアプリ「JRNY（ジャーニー）」のiOS版をリリースしたと発表した。LLM（大規模言語モデル）を活用した対話型自己分析から企業の推薦、選考ごとの振り返りまでを単一のアプリ内で完結させる構成が特徴だ。"
+  },
+  {
+   "title": "NEC、社内の“AIトークン節約”に注力　「同じ使われ方なら10分の1に」と小玉CAXO",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001333/",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T06:55:00+09:00",
+   "summary": "「（2026年の）上期中に5分の1、下期中に10分の1に下げる」――NECの小玉浩氏（執行役 Corporate EVP 兼 CAXO）は、全社のAI利用に掛かる“実質的なトークンコスト”の削減目標を明かした。"
+  },
+  {
+   "title": "Massachusetts hits data centers with new clean power rules",
+   "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T06:43:34+09:00",
+   "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development."
+  },
+  {
+   "title": "『バスカーナビ』 × 『行程表クラウド by NAVITIME』乗務員のヒヤリハット情報を業界全体で共有し、走行中のカーナビ案内にて注意喚起できる新機能を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000609.000026884.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-10T06:40:02+09:00",
+   "summary": "[株式会社ナビタイムジャパン] 株式会社ナビタイムジャパン（代表取締役社長：大西 啓介、本社：東京都港区）は、バス専用カーナビアプリ『バスカーナビ』と、大型観光バス対応の行程表作成ツール『行程表クラウド by NAVITIME』にて、2026年..."
+  },
+  {
+   "title": "1万のAIエージェントが ミレニアム懸賞問題を解決、 人間の数学者に残る役割は？",
+   "link": "https://ascii.jp/elem/000/004/433/4433661/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T06:29:40+09:00",
+   "summary": "2人の数学者が公開モデルと1年かけて進めた研究は、完全な解には届かなかった。オープンAIは社内モデルと約1万のAIエージェントを投じ、数日で解いた。かかった費用は数百万ドル。数学の最難問が、潤沢な資金と専用モデルを持つ企業の領域になりつつある。"
+  },
+  {
+   "title": "iPhone 18シリーズは知的な「パーソナルハブ」を目指す　アップル新製品",
+   "link": "https://www.watch.impress.co.jp/docs/news/2139688.html",
+   "source": "Impress Watch",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-10T06:27:08+09:00",
+   "summary": "アップルは9日(現地時間)、「iPhone 18」シリーズを発表した。ラインアップは「iPhone 18 Pro」「iPhone 18 Pro Max」、そして同社初のフォルダブルスマートフォン「iPhone Duo」の3モデル。iPhone 17の後継機となる無印モデルやiPh…"
+  },
+  {
+   "title": "Anthropic在籍の研究者2人も同調──「AIが人類を滅ぼしかねないと本気で考えている」",
+   "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001342/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T06:26:33+09:00",
+   "summary": "Anthropicの研究幹部2人が、超知能開発への危機感を訴えて退社した研究員の主張に同意する見解を個人として投稿した。10年以内に人類が滅亡する確率を10％超と試算する声や、堅牢な安全制御手法がないまま開発競争が続いている実態を指摘し、減速の必要性を改めて訴えている。"
+  },
+  {
+   "title": "GENIACの活動はAI×ロボティクスへ、ロボット基盤モデル開発の採択事業者を発表",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2609/10/news053.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T06:15:00+09:00",
+   "summary": "経済産業省とNEDOの下で国内の生成AI開発を推進するGENIACは、「ロボット基盤モデルの研究開発事業（多用途ロボット等）」と「データエコシステムの構築等に関する研究開発事業・第4回公募」の採択事業者を発表した。"
+  },
+  {
+   "title": "｢健康データ記録だけ｣で1万6800円なのに爆売れ！…わずか12g《Google新製品》2週間使ってわかった｢ちょっと残念｣な点 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/957230?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "source": "東洋経済オンライン",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-10T06:15:00+09:00",
+   "summary": "｢画面なし･時計なし･決済機能なし｣で｢健康データ記録｣に特化した新発想のスマートバンド『Google Fitbit Air』が爆売れしています。筆者が2週間かけて日々のランニングや筋トレをこなしな…"
+  },
+  {
+   "title": "TOKIUM、日本最大のバックオフィス向け展示会「第26回総務・人事・経理Week【東京】」に出展",
+   "link": "https://prtimes.jp/main/html/rd/p/000000506.000009888.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T06:10:02+09:00",
+   "summary": "[株式会社TOKIUM] 経理AIエージェントを提供する株式会社TOKIUM（本社：東京都中央区、代表取締役：黒崎 賢一、以下「TOKIUM」）は、2026年9月16日から9月18日までの3日間、東京ビッグサイトで開催される「第26回総務・人事・経理W..."
+  },
+  {
+   "title": "ピクシブがVRChat Inc.と資本業務提携、3Dアバター文化における各領域で両社の連携を深め、3D創作の可能性を広げる",
+   "link": "https://prtimes.jp/main/html/rd/p/000000487.000035885.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-10T06:10:02+09:00",
+   "summary": "[ピクシブ株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/35885/487/35885-487-8e2181adea87221f3f2e69295b66cf66-1731x909.png?width=536&…"
+  },
+  {
+   "title": "中途採用のミスマッチと早期離職を減らす採用・定着支援プラットフォーム「 キャリアカ for Business 」の提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000013.000006032.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-10T06:10:02+09:00",
+   "summary": "[株式会社ストラテジックマーケティング] [画像: https://prcdn.freetls.fastly.net/release_image/6032/13/6032-13-5157eaec34c02afabbb499e0aff00db7-1179x664.png?width…"
+  },
+  {
+   "title": "Pro aiに動画生成AI「MiniMax H3」を追加。自社サービスの15秒PR動画を制作・公開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000112.000140101.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T05:40:02+09:00",
+   "summary": "[株式会社KASHIKA] 株式会社KASHIKAは、広告分析・クリエイティブ生成サービス「Pro ai」の動画生成モデルに「MiniMax H3」を追加し、同モデルで制作した自社サービス「動画広告分析Pro（DPro）」の15秒PR動画を公開しました。 本機..."
+  },
+  {
+   "title": "株式会社Dragon connect、累計約300プロジェクトの支援実績をもとに産官学民連携のコーディネート支援体制を強化",
+   "link": "https://prtimes.jp/main/html/rd/p/000000040.000078133.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T05:40:02+09:00",
+   "summary": "[株式会社Dragon connect] 連邦経営を推進する株式会社Dragon connect（本社：宮城県仙台市、代表取締役：結城天志）は、これまでに累計約300件の産官学民連携プロジェクトに携わってきた知見をもとに、産・官・学・民の4者をつなぐコーデ..."
+  },
+  {
+   "title": "「半導体関連メーカー」の2025年度売上高、過去5年で最高に　売り上げトップの企業は？",
+   "link": "https://www.itmedia.co.jp/business/articles/2609/10/news038.html",
+   "source": "ITmedia ビジネス",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T05:30:00+09:00",
+   "summary": "生成AIやデータセンター向け需要の拡大を背景に、国内の半導体関連メーカーの業績が伸びている。東京商工リサーチが調査した。"
+  },
+  {
+   "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+   "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T05:24:48+09:00",
+   "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise ne…"
+  },
+  {
+   "title": "TOKIUM契約管理、契約書PDFに直接メモやコメントを書き込める機能を追加",
+   "link": "https://prtimes.jp/main/html/rd/p/000000505.000009888.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-09-10T05:10:02+09:00",
+   "summary": "[株式会社TOKIUM] 経理AIエージェントを提供する株式会社TOKIUM（本社：東京都中央区、代表取締役：黒崎 賢一、以下「TOKIUM」）は、TOKIUM契約管理において、契約書PDFに直接メモやコメントを書き込める機能の提供を開始しました..."
+  },
+  {
+   "title": "ギブリー、生産設備特化型AIエージェントによる製造業DXで愛媛県DXプロジェクト「トライアングルエヒメ2.0」に採択",
+   "link": "https://prtimes.jp/main/html/rd/p/000000406.000002454.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T05:10:02+09:00",
+   "summary": "[株式会社ギブリー] [画像1: https://prcdn.freetls.fastly.net/release_image/2454/406/2454-406-e2536d05c76f83a26b3fa566fd93a6d7-1200x630.png?width=536&am…"
+  },
+  {
+   "title": "【SIGNATE】国内有数の大型HRカンファレンス「HR SUMMIT 2026 ONLINE」に登壇",
+   "link": "https://prtimes.jp/main/html/rd/p/000000328.000038674.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T05:10:02+09:00",
+   "summary": "[株式会社SIGNATE] AI活用の戦略策定から実行、人材育成までを一気通貫で支援する株式会社SIGNATE（本社：東京都中央区、代表取締役社長：齊藤 秀、以下「SIGNATE」）は、多数の経営者や人事リーダーが集う注目の大型オンラインカン..."
+  },
+  {
+   "title": "AI特有のリスクを最短1週間で診断する「AIシステム脆弱性クイック診断」を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000191.000099874.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-09-10T05:10:02+09:00",
+   "summary": "[株式会社ProVision] 株式会社ProVision（本社：神奈川県横浜市西区、代表取締役社長：仙波 厚幸、以下「ProVision」）は、このたび、AIシステムを対象に、プロンプトインジェクションや機密情報の漏洩などのリスクを検証する「AIシス..."
+  },
+  {
+   "title": "「AIに自社名を入れて確認」だけでは見えないもの──生成AIは会社を知っていても、社名を外すと候補に出てこない",
+   "link": "https://prtimes.jp/main/html/rd/p/000000002.000187251.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T05:10:02+09:00",
+   "summary": "[株式会社スウィングクルー] 株式会社スウィングクルー（東京都港区）は、自社を対象に、生成AI上での企業の見え方を観測しました。100種類の質問をChatGPT・Perplexity・Claudeの3つのAIに1日2回、10日間投げ続け、延べ6,000回分の回答を記..."
+  },
+  {
+   "title": "新規事業の意思決定AIプラットフォーム「Vividir（ビビディア）」、導入1週間で案件の34%がステージゲートを1発通過。創出から申請までの作業時間は1案件あたり1.5時間（従来2～3日）",
+   "link": "https://prtimes.jp/main/html/rd/p/000000032.000052448.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-10T05:10:02+09:00",
+   "summary": "[株式会社プロフィナンス] [画像: https://prcdn.freetls.fastly.net/release_image/52448/32/52448-32-cee483e33947eff4f61f66845716536d-2400x1260.png?width=536…"
+  },
+  {
+   "title": "生成AIツール比較表Excelも、AI導入 稟議書ひな形も、ぜんぶ無料で持ち帰れる - 法人の生成AI導入の“判断材料”に特化したメディア「AISAKUマガジン」開設",
+   "link": "https://prtimes.jp/main/html/rd/p/000000095.000029909.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T05:10:02+09:00",
+   "summary": "[WHITE株式会社] 法人向けAIエージェントサービス「AISAKU（アイサク）」を運営するWHITE株式会社（本社: 神奈川県横浜市、代表取締役: 横山 隆）は、2026年9月9日、法人のAI導入の“判断材料”に特化したWebメディア「AISAKUマガジ..."
+  },
+  {
+   "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+   "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T05:03:43+09:00",
+   "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
+  },
+  {
+   "title": "OpenRouterの利用量が1年で20倍超　今も加速する「AI共通API」について私たちが知るべきこと",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news011.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T05:00:00+09:00",
+   "summary": "400以上のAIモデルを1つのAPIで呼べる中継サービス「OpenRouter」の週間トークン処理量が、1年で20倍を超え、なお加速している。なぜ伸びているのか、私たちも使うべきなのか。仕組みと注意点を整理し、筆者自身の使い方も交えて考える。"
+  },
+  {
+   "title": "「誰でもAIを使える時代」の功罪　業務部門の暴走、現場と統制の対立を防ぐために必要な「覚悟」",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news012.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T05:00:00+09:00",
+   "summary": "「AI前提の組織へ」という号令のもと、現場で多発する「業務部門の暴走」や「ITと現場の不健全な対立」――誰でも手軽にAIを使えるようになったからこそ生じる課題にどう向き合うべきなのか。複数の事業会社で現場のAI定着に取り組む変革実務家・西野大介氏に「信頼関係構築」のポイントを聞い…"
+  },
+  {
+   "title": "プルーフポイント、OpenAIのGPT Cyberモデルをセキュリティ運用に活用し、脅威調査を迅速化",
+   "link": "https://prtimes.jp/main/html/rd/p/000000081.000073972.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T04:40:02+09:00",
+   "summary": "[プルーフポイント] 新たな「Proofpoint SOC Analyst Agent」が、プルーフポイントのセキュリティ専門知識とOpenAI Daybreakモデルを組み合わせ、脅威調査、セキュリティシグナルの関連付け、次の対応判断を支援 2026年9月3日（カリ..."
+  },
+  {
+   "title": "The hinge for Apple’s new foldable phone was built with AI",
+   "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T04:21:48+09:00",
+   "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone."
+  },
+  {
+   "title": "【Positive Grid】大ヒットギターアンプ「Spark」のサウンドを足元へ。ルーパー内蔵のポータブル・スマートアンプ＆エフェクトペダル『Spark PEDAL』を2026年9月25日に発売。",
+   "link": "https://prtimes.jp/main/html/rd/p/000000138.000033288.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-10T04:10:02+09:00",
+   "summary": "[株式会社メディア・インテグレーション] 株式会社メディア・インテグレーション（本社：東京都渋谷区、代表取締役：前田達哉）は、Positive Gridの新製品「Spark PEDAL（スパーク・ペダル）」を2026年9月25日（金）に発売いたします。予約受付は9月9日（..."
+  },
+  {
+   "title": "「Siri AI」日本語版は10月提供　AI機能組み込んだ音声アシスタント　専用アプリも【追記あり】",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001338/",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T03:40:27+09:00",
+   "summary": "Appleは同社デバイスの音声アシスタント「Siri AI」の日本語版を10月に提供すると発表した。"
+  },
+  {
+   "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+   "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T03:16:29+09:00",
+   "summary": "The update uses Apple Intelligence to make better sense of your health data."
+  },
+  {
+   "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+   "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T03:08:35+09:00",
+   "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI."
+  },
+  {
+   "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+   "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T02:36:05+09:00",
+   "summary": "The company also argued that its on-device models offer consumers more privacy."
+  },
+  {
+   "title": "Paul Christiano joins OpenAI Foundation Board",
+   "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+   "source": "OpenAI News",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T02:00:00+09:00",
+   "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and st…"
+  },
+  {
+   "title": "Superintelligence is coming. Should we let it?",
+   "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T01:05:35+09:00",
+   "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#1…"
+  },
+  {
+   "title": "Get ready for the game with new football features in Search",
+   "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+   "source": "Google AI Blog",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T01:00:00+09:00",
+   "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, …"
+  },
+  {
+   "title": "Recreating a 70-year love story frame by frame",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+   "source": "Google AI Blog",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T01:00:00+09:00",
+   "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\""
+  },
+  {
+   "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+   "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T00:50:13+09:00",
+   "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#1…"
+  },
+  {
+   "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+   "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+   "source": "Hugging Face Blog",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T00:36:24+09:00",
+   "summary": ""
+  },
+  {
+   "title": "Viral AI assistant Instinct now has its own email address",
+   "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T00:13:12+09:00",
+   "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users…"
+  },
+  {
+   "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+   "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-10T00:02:47+09:00",
+   "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs."
+  },
+  {
+   "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+   "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T23:51:45+09:00",
+   "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Buil…"
+  },
+  {
+   "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+   "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T23:18:34+09:00",
+   "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped."
+  },
+  {
+   "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+   "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T22:00:00+09:00",
+   "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data…"
+  },
+  {
+   "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+   "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T22:00:00+09:00",
+   "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform."
+  },
+  {
+   "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+   "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T21:30:00+09:00",
+   "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking…"
+  },
+  {
+   "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+   "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T21:05:34+09:00",
+   "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of t…"
+  },
+  {
+   "title": "動画編集の「DaVinci Resolve」、ClaudeやCodexからの操作に対応",
+   "link": "https://www.watch.impress.co.jp/docs/news/2139568.html",
+   "source": "Impress Watch",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T20:56:12+09:00",
+   "summary": "Blackmagic Designの動画編集ソフトウェア「DaVinci Resolve」の最新バージョン「DaVinci Resolve 21.1」が8日公開された。動画編集や写真取り込みで多くの機能が追加されたほか、ClaudeやClaude Code、ChatGPT/Cod…"
+  },
+  {
+   "title": "GPT-6 Astra: The next generation in intelligence for work",
+   "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+   "source": "OpenAI News",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T20:00:00+09:00",
+   "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
+  },
+  {
+   "title": "「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ　事務局がAI使用明かす【訂正あり】",
+   "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001308/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T19:57:45+09:00",
+   "summary": "鹿児島県指宿市で開催するフルマラソン大会のポスターを巡り、X上で「生成AIで制作したのではないか」との指摘が相次いでいる。公式サイトでは「鹿児島県内でイベントポスター等作品を多数描かれているイラストレーター」が手掛けたとしていたが、大会事務局は9月8日、制作過程で生成AIを利用し…"
+  },
+  {
+   "title": "【Amazon限定30％OFF】P12 Pro Android 16 タブレット 12インチ Gemini AI搭載！SIMフリー4G LTE・48GB RAM・256GB ROM・12,000mAh",
+   "link": "https://ascii.jp/elem/000/004/433/4433638/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T18:59:08+09:00",
+   "summary": "【Amazon限定30％OFF】P12 Pro Android 16 タブレット 12インチ Gemini AI搭載！SIMフリー4G LTE・48GB RAM・256GB ROM・12,000mAh"
+  },
+  {
+   "title": "「AIは10年以内に我々全員を殺す」　アンソロピックの研究者が「企業は無責任」と退社",
+   "link": "https://www.itmedia.co.jp/business/articles/2609/09/news100.html",
+   "source": "ITmedia ビジネス",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T18:21:00+09:00",
+   "summary": "米オープンAIを経て米アンソロピックに勤務していた英国出身のAI研究者、ジェーコブ・コクソン氏（27）が8日、アンソロピックを退社したと、Xで明らかにした。"
+  },
+  {
+   "title": "SBI証券、24時間対応のAIチャット導入　満足度は3倍に",
+   "link": "https://www.watch.impress.co.jp/docs/news/2139562.html",
+   "source": "Impress Watch",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-09-09T18:02:44+09:00",
+   "summary": "SBI証券は9日、従来のチャットボットを強化し、生成AIを活用したチャットサービスを提供開始した。利用者が入力した質問の意図や文脈を捉え、内容に応じた回答を提示する。24時間利用でき、SBI証券のWebサイトに表示される生成AIチャットアイコンからアクセスできる。"
+  },
+  {
+   "title": "日本からのAI開発　Google DeepMind日本拠点のグローバル開発とゲーム・高齢化対策",
+   "link": "https://www.watch.impress.co.jp/docs/news/2139281.html",
+   "source": "Impress Watch",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T16:40:16+09:00",
+   "summary": "Googleは9日、日本におけるGoogle DeepMindの取り組みについて説明した。DeepMindの日本拠点は、日本語などのローカライズではなく、Geminiへの研究成果の展開などグローバル規模での研究拠点となっている。その技術や取り組みについて、Google DeepM…"
+  },
+  {
+   "title": "動画編集もAIにやってもらう時代？　言葉で指示するAI編集ツール「Palmier Pro」を使ってみた",
+   "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001311/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T16:29:28+09:00",
+   "summary": "AIの上に編集ツールのUIを被せたら、どうなるのか。その答えの1つが、macOS版のみで公開されている「Palmier Pro」だ。複数の生成AIモデルを一括課金で使え、無音部分の自動カットやBロール生成をこなす。さらにMCP経由でCursorやClaudeからタイムラインを直接…"
+  },
+  {
+   "title": "ChatGPTのProプラン「新規受付一時停止するかも…」　GPT-6 Astraの「前例のない需要」受けて",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001322/",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T16:16:00+09:00",
+   "summary": "OpenAIのティボー・ソティオ氏（通称Tibo）は、新モデル「GPT-6 Astra」の需要拡大により「新規のProプラン登録を一時停止しなければならないかも」とXで述べた。"
+  },
+  {
+   "title": "OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」の難問を解決したと発表",
+   "link": "https://japan.cnet.com/article/35252440/",
+   "source": "CNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T15:37:00+09:00",
+   "summary": "OpenAIは米国時間9月8日、数学の7大難問「ミレニアム懸賞問題」の1つ、ナビエ・ストークス方程式の存在と滑らかさの問題を、社内のAIシステムで解決したと発表した。流体の運動を記述するこの方程式について、当初は滑らかだった流れでも、有限の時間内に流速が際限なく増大する場合がある…"
+  },
+  {
+   "title": "「2020年代末までにAIで人類滅亡の恐れ」--Anthropic研究者が退社、開発競争に警鐘",
+   "link": "https://japan.cnet.com/article/35252436/",
+   "source": "CNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T15:15:00+09:00",
+   "summary": "AI企業Anthropicの研究者Jacob Coxon氏は米国時間9月8日、同社を辞めたとXで明らかにした。「どちらの会社も責任ある行動をとっていない。自己改善する超知能へまっしぐらに突き進み、私たちの命を賭けている」と述べ、研究者として在籍したOpenAIとAnthropic…"
+  },
+  {
+   "title": "ピクシブがVRChatと資本業務提携　“3D創作”を共同推進",
+   "link": "https://www.watch.impress.co.jp/docs/news/2139481.html",
+   "source": "Impress Watch",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-09T15:07:30+09:00",
+   "summary": "ピクシブは、ソーシャルVRプラットフォーム「VRChat」を運営する米VRChatへ出資し、資本業務提携契約を締結した。3Dアバター文化にまつわるクリエイターエコシステムの発展を目的に、今後数年にわたり、段階的に協業を進めていく。"
+  },
+  {
+   "title": "「全ての攻撃者は何らかの形でAIを使用」　6時間で数千件の侵害事例も　Google傘下組織が報告",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001316/",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T14:40:31+09:00",
+   "summary": "Googleの脅威分析部門GTIGが、AIによる攻撃の高速化を報告。6時間未満で数千件の認証情報が侵害された事例も確認した。攻撃者は侵害した環境でAIを動かす一方、AIの開発環境自体も標的にしている。"
+  },
+  {
+   "title": "G-SHOCK、ミニマルと“磨き分け”が融合する新型G-STEEL",
+   "link": "https://www.watch.impress.co.jp/docs/news/2139440.html",
+   "source": "Impress Watch",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-09T14:06:36+09:00",
+   "summary": "カシオ計算機は、G-SHOCK「G-STEEL」の新製品として、多パーツ構成や磨き分け、ミニマルデザインが特徴の「GST-W1000」3機種を10月9日に発売する。Bluetooth電波ソーラーの腕時計で、価格はブラック(GST-W1000D-1AJF)とグリーン(GST-W10…"
+  },
+  {
+   "title": "従業員のAI利用に「IT部門の管理が追いつかない」58％--「可視化」に課題",
+   "link": "https://japan.zdnet.com/article/35252413/",
+   "source": "ZDNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T13:30:00+09:00",
+   "summary": "企業でAI活用が急速に広がる一方、従業員によるAI利用の実態把握やガバナンスが追いついていない――。調査で明らかになっている。"
+  },
+  {
+   "title": "プルーフポイント、AIエージェントを発表--「Daybreak」活用、SOCでの分析を迅速化",
+   "link": "https://japan.zdnet.com/article/35252405/",
+   "source": "ZDNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T13:00:00+09:00",
+   "summary": "米ProofpointはAIエージェント「SOC Analyst Agent」を発表した。SOCでのアナリストの調査負担を軽減し、断片化されたシグナルから十分な情報に基づく対応へ、より迅速に移行できるよう支援するという。"
+  },
+  {
+   "title": "Meta、パーソナルAI「Muse」発表　メール送信や予約を代行",
+   "link": "https://www.watch.impress.co.jp/docs/news/2139410.html",
+   "source": "Impress Watch",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-09-09T12:50:27+09:00",
+   "summary": "Metaは8日(米国時間)、パーソナルAIエージェント「Muse」を米国で提供開始した。iOS、Android、muse.aiで利用でき、MuseアプリまたはWhatsAppからメッセージを送るように操作する。多くの基本機能は無料で、サブスクリプションプランも用意する。日本での提…"
+  },
+  {
+   "title": "Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」",
+   "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001309/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T12:29:01+09:00",
+   "summary": "OpenAIからAnthropicに移った研究者がAnthropicを退社し、両社が超知能の開発競争で人々の生命を賭けの対象にしていると批判した。業界全体での減速や規制がない限り来年末には制御不能になると懸念を示し、安全性を軽視した急速なスケーリングを続ける現状に強い警鐘を鳴らし…"
+  },
+  {
+   "title": "ローカルLLMは「無料だけれど安くない」　個人と企業は何に価値を見いだすのか／中国AIは危険？",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001305/",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T12:24:50+09:00",
+   "summary": "前回の記事ではローカルLLMブームを生んだ3つの条件について見てきた。では、ローカルLLMの利用にはどのようなメリットやデメリットがあるのだろうか。個人が金額をいとわず自前の環境を作り、企業も導入に取り組むのはなぜか。用途とコストの両面から、その価値を考える。"
+  },
+  {
+   "title": "100万円のPCが注目ランキング1位に？　ローカルLLMブームを生んだ「3つの条件」",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001257/",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T12:24:17+09:00",
+   "summary": "価格比較サイト「価格.com」のデスクトップPC注目ランキング1位に約100万円のAIスパコンが掲載されるなど、いま「ローカルLLM」が熱い状況だ。ここでは3本の記事で、ローカルLLM関連が急速に盛り上がりを見せている理由を解剖していく。1本目となるこの記事では、「モデル」「ハー…"
+  },
+  {
+   "title": "PENTAX、現行の「Kシリーズ」終了、K100Dから20年……「新コンセプトの一眼レフ」開発中",
+   "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001304/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-09T11:35:54+09:00",
+   "summary": "「新製品が姿を現すまでには、まだ時間を要する」としている。"
+  },
+  {
+   "title": "AI悪用犯罪の増加、約9割が予想　なりすまし対策には「合言葉」と「SNSの公開範囲限定」",
+   "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001303/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T11:02:50+09:00",
+   "summary": "生成AIで本人そっくりの偽映像・音声を作る「ディープフェイク」の悪用が広がるなか、セコムの意識調査で約9割がAI悪用犯罪の増加を見込む一方、4人に3人は家族間で対策を話し合っていない実態が分かった。専門家は「合言葉の共有」などを勧めている。"
+  },
+  {
+   "title": "ChatGPT Images 2.5公開　照明や質感を再現し、編集自在な画像生成",
+   "link": "https://www.watch.impress.co.jp/docs/news/2139304.html",
+   "source": "Impress Watch",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-09-09T09:57:59+09:00",
+   "summary": "OpenAIは8日(米国時間)、最新の画像生成モデル「ChatGPT Images 2.5」を提供開始した。より自然な照明と豊かな質感を再現し、写真内の被写体をより忠実に保持し、複数のやり取りにわたって編集指示をより確実に反映できるようになる。また、Images 2.0と比較して…"
+  },
+  {
+   "title": "OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」をAIが解決したと発表　数学者は経緯に反発",
+   "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001300/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T09:55:27+09:00",
+   "summary": "OpenAIは、社内の未公開モデルがミレニアム懸賞問題の「ナビエ・ストークス方程式」の特異点発生を証明したと発表した。一方、先行研究を行っていた数学者は、自らの成果伝達後に着手され手法が酷似していると不正疑惑を主張。OpenAI側は反論しており、成果の検証と経緯を巡り論争が起きて…"
+  },
+  {
+   "title": "Metaの個人向けAIエージェント「Muse」登場、買い物やメール返信を自律的に代行",
+   "link": "https://japan.cnet.com/article/35252404/",
+   "source": "CNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T09:01:00+09:00",
+   "summary": "Metaは、新たなAIエージェント「Muse」を発表した。ユーザーの習慣や目標を理解する「パーソナルエージェント」としている。"
+  },
+  {
+   "title": "「ChatGPT Images 2.5」登場　特定部分の編集を強化、落書きの清書やテンプレート機能も",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001298/",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-09T08:57:08+09:00",
+   "summary": "OpenAIが「ChatGPT Images 2.5」を発表。指定部分だけを編集する精度を高め、テンプレートや手描きの下絵を使う機能も追加した。生成の待ち時間は従来比で最大50％短縮し、全プランに提供する。"
+  },
   {
    "title": "Google DeepMind、90億通りの全塩基変異の影響を予測した「AlphaGenome Atlas」　学術向けに無償提供",
    "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001296/",
@@ -263,16 +1118,6 @@
    ],
    "published": "2026-09-09T05:40:02+09:00",
    "summary": "[BRIDGECYCLE株式会社] RIDGE CYCLE株式会社（本社：滋賀県大津市、代表取締役：中村裕二）は、設備・システムの購入を検討する事業者が、契約する前に補助制度の利用可能性と契約・発注時期を確認できるサービス「見積のミカタ」を、京..."
-  },
-  {
-   "title": "『バスカーナビ』 × 『行程表クラウド by NAVITIME』乗務員のヒヤリハット情報を業界全体で共有し、走行中のカーナビ案内にて注意喚起できる新機能を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000609.000026884.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-09T05:40:02+09:00",
-   "summary": "[株式会社ナビタイムジャパン] 株式会社ナビタイムジャパン（代表取締役社長：大西 啓介、本社：東京都港区）は、バス専用カーナビアプリ『バスカーナビ』と、大型観光バス対応の行程表作成ツール『行程表クラウド by NAVITIME』にて、2026年..."
   },
   {
    "title": "アイコネクト、BtoB企業の問い合わせ・商談創出を支援する「BtoBマーケティングコンサルティング」を提供開始",
@@ -647,16 +1492,6 @@
    ],
    "published": "2026-09-08T12:45:19+09:00",
    "summary": "[株式会社BringFlower] [画像1: https://prcdn.freetls.fastly.net/release_image/122141/29/122141-29-2ebda5927349b79bb8f837e84292de34-1200x730.png?wid…"
-  },
-  {
-   "title": "100万円のPCが注目ランキング1位に？　ローカルLLMブームを生んだ「3つの条件」",
-   "link": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001257/",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-08T12:43:41+09:00",
-   "summary": "価格比較サイト「価格.com」のデスクトップPC注目ランキング1位に約100万円のAIスパコンが掲載されるなど、いま「ローカルLLM」が熱い状況だ。ここでは3本の記事で、ローカルLLM関連が急速に盛り上がりを見せている理由を解剖していく。1本目となるこの記事では、「モデル」「ハー…"
   },
   {
    "title": "「Gemini 3.8 Flash」の狙いは“賢さ”ではない？　発表から見えた3つのポイント",
@@ -6748,549 +7583,6 @@
    ],
    "published": "2026-08-27T09:00:00+09:00",
    "summary": "ちょっと高級な筆記具って、最近流行ってますよね。もうかなり息の長いブームになっている万年筆をはじめ、ボールペンも近頃は中価格帯以上の新製品が次々と発売されており、いずれも人気になっています。"
-  },
-  {
-   "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-   "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T08:47:18+09:00",
-   "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches be…"
-  },
-  {
-   "title": "DProの広告データ分析から画像・動画制作まで、Codex／Claude Codeなどでつなぐ「Pro ai MCP」を提供開始",
-   "link": "https://ascii.jp/elem/000/004/429/4429745/?rss",
-   "source": "ASCII.jp",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-08-27T08:46:48+09:00",
-   "summary": "DProの広告データ分析から画像・動画制作まで、Codex／Claude Codeなどでつなぐ「Pro ai MCP」を提供開始"
-  },
-  {
-   "title": "言うことを聞かず外部サーバーに侵入したAI､テスト中に相次いだ｢自律性と欺瞞｣が突きつけた安全対策の限界 | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955651?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "source": "東洋経済オンライン",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T08:30:00+09:00",
-   "summary": "AIモデルがサンドボックスを突破して他社サーバーへ侵入──2026年夏､現実となった｢AI暴走｣の数々が明るみに。AIの暴走､その先に待つ未来とは？"
-  },
-  {
-   "title": "「AI使ってやりました」でシゴデキ認定？　企業のAI活用が“自己目的化”するワケ",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/27/news015.html",
-   "source": "ITmedia ビジネス",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T08:00:00+09:00",
-   "summary": "生成AIの活用を促す企業が増える一方、「AIを使った」という事実そのものが評価され、肝心の成果やアイデアの中身が置き去りになるケースもある。なぜ企業のAI活用は目的化するのか。社内コンテストを題材に、その構造と落とし穴を解説する。"
-  },
-  {
-   "title": "｢純受注は過去4年間で最も力強い水準｣…セールスフォースが力強い売上高見通し示す､株価は時間外で7%上昇 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/956015?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "source": "東洋経済オンライン",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T08:00:00+09:00",
-   "summary": "顧客管理ソフト大手の米セールスフォースの株価が時間外取引で急伸した。売上高が力強く拡大する見通しを示すとともに､アンソロピックとの提携拡大を発表し､AI時代でもソフトウエア企業として競争力を維持でき…"
-  },
-  {
-   "title": "アンソロピックが英AIクラウド企業エヌスケールと7兆円超の契約…IPOを前にAI処理能力を確保 | 政治・経済・投資 | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/956014?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "source": "東洋経済オンライン",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T07:50:00+09:00",
-   "summary": "アンソロピックは､英AIクラウド企業エヌスケールが米ウェストバージニア州で開発するデータセンターのコンピューティング能力を利用するため､450億ドル（約7兆2000億円）を支払うことで合意した。新規…"
-  },
-  {
-   "title": "AIエージェント時代に組織の判断を「資産」に変える方法",
-   "link": "https://japan.zdnet.com/article/35251711/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T07:30:00+09:00",
-   "summary": "多くの企業がAIエージェントの活用に踏み出すなか、その成否を分けるのは、モデルの高度さよりも、組織の意思決定を支える「判断の根拠」をデータとして残せているかどうかです。本連載では、どのシステムにも記録されない「見えないデータ」を切り口に、AIエージェントがつまずく構造的な理由と、…"
-  },
-  {
-   "title": "個人で契約したChatGPTに、会社の情報を入力していいの？　超初心者向けAI解説",
-   "link": "https://www.itmedia.co.jp/news/article/2608/27/2000000827/",
-   "source": "ITmedia NEWS",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T07:00:00+09:00",
-   "summary": "もはや生活に欠かせない存在となりつつある生成AI。毎日の仕事においても例外でなく、便利に使っている人が多いでしょう。しかし、機密情報をむやみにAIに共有してしまうと、思わぬリスクにつながるかもしれません。"
-  },
-  {
-   "title": "「Googlebook」がまもなく登場--グーグルのAIファーストなノートPCとなるのか",
-   "link": "https://japan.zdnet.com/article/35251891/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T07:00:00+09:00",
-   "summary": "「Googlebook」は「Pixel」のようなハイエンドな「Chromebook」とは異なり、Googleは「Copilot＋ PC」で達成されなかった成功を実現できると期待している。"
-  },
-  {
-   "title": "Metaのバイブコーディングアプリ「Pocket」を試してみた--プロンプトでゲームを作成",
-   "link": "https://japan.zdnet.com/article/35251920/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T07:00:00+09:00",
-   "summary": "Metaは、全てのユーザーを対象に「Pocket」アプリをリリースした。このアプリを使えば、独自のミニゲームやミーム、ギズモをバイブコーディングで驚くほど簡単に作成できる。"
-  },
-  {
-   "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-   "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T06:37:39+09:00",
-   "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
-  },
-  {
-   "title": "“現場一筋”の社員がAIツールを開発　「生産性24％アップ」実現した、自動車部品メーカーのDX推進",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/27/news009.html",
-   "source": "ITmedia ビジネス",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T06:00:00+09:00",
-   "summary": "愛知県小牧市の自動車部品メーカー、オーテックでは、工場一筋のベテラン社員が、AIツールを開発し、生産性向上に貢献した。DX推進、AI活用を推し進める同社では、付加価値額を従業員数で割った労働生産性が24％向上、事務作業時間27％減といった成果を出している。現場の「ブルーワーカー業…"
-  },
-  {
-   "title": "「Claude Fable 5」で“キャリアの棚卸し”に挑戦　AIは「盛った実績」まで見抜いてくれた【プロンプト解説】",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/27/news019.html",
-   "source": "ITmedia ビジネス",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T06:00:00+09:00",
-   "summary": "将来のために、これまでの仕事を振り返って整理しておきたいと思っています。AIに手伝ってもらうことはできますか？"
-  },
-  {
-   "title": "アップル、9月10日に新製品発表へ　「折りたたみ式iPhone」登場か",
-   "link": "https://japan.cnet.com/article/35251956/",
-   "source": "CNET Japan",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-27T04:51:00+09:00",
-   "summary": "アップルは、毎年秋に開く「iPhone」発表イベントの招待状を送付した。今回の目玉となりそうなのは、待望の「iPhone Fold」をはじめ、「iPhone 18」シリーズ、新型「Apple Watch」、アップデートされた「AirPods」だ。"
-  },
-  {
-   "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-   "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T04:37:34+09:00",
-   "summary": "Consumer AI apps need to stop making users learn their product architecture."
-  },
-  {
-   "title": "How do we explain OpenAI’s executive exodus?",
-   "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T04:34:04+09:00",
-   "summary": "Was Greg Brockman the right executive all along?"
-  },
-  {
-   "title": "OpenAI releases its official report on the Hugging Face breach",
-   "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T04:05:22+09:00",
-   "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
-  },
-  {
-   "title": "Radar makes podcasts searchable — and usable by AI agents",
-   "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T00:47:28+09:00",
-   "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on t…"
-  },
-  {
-   "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-   "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-27T00:00:00+09:00",
-   "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence."
-  },
-  {
-   "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-   "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T23:37:01+09:00",
-   "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before."
-  },
-  {
-   "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-   "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T23:19:29+09:00",
-   "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be release…"
-  },
-  {
-   "title": "Robot brain builders are pushing out of their GPT-2 era",
-   "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T22:30:00+09:00",
-   "summary": "Robot bodies are waiting for their AI brains to catch up."
-  },
-  {
-   "title": "QueryStory wants you to believe what AI is telling you",
-   "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T22:00:00+09:00",
-   "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coheren…"
-  },
-  {
-   "title": "Arga Labs is building a better way to train enterprise AI agents",
-   "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T21:55:28+09:00",
-   "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient…"
-  },
-  {
-   "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-   "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T21:00:00+09:00",
-   "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames."
-  },
-  {
-   "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-   "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T20:00:00+09:00",
-   "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers."
-  },
-  {
-   "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-   "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-   "source": "OpenAI News",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T19:00:00+09:00",
-   "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators …"
-  },
-  {
-   "title": "Learning never stops: How AI makes learning continuous",
-   "link": "https://openai.com/index/learning-never-stops",
-   "source": "OpenAI News",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T19:00:00+09:00",
-   "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the c…"
-  },
-  {
-   "title": "Yahoo!乗換案内、LUUPなどシェアサイクル連携　ルート・空き状況を表示",
-   "link": "https://www.watch.impress.co.jp/docs/news/2135867.html",
-   "source": "Impress Watch",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-26T18:31:08+09:00",
-   "summary": "LINEヤフーは26日、「Yahoo!乗換案内」のiOS版で、ルート検索結果にシェアサイクルを表示する機能を提供開始した。ドコモ・バイクシェア、HELLO CYCLING、LUUPの3サービスに対応する。Android版と「Yahoo!路線情報」での提供は未定。"
-  },
-  {
-   "title": "非公開の「AI学習データ工場」に潜入　人型ロボ30台超が稼働、意外と知らない「データ収集」の裏側とは",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/26/news082.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T18:10:00+09:00",
-   "summary": "フィジカルAI用の学習データを収集する施設「J-HRTI 関東データファクトリー」が稼働した。内部には、約30体のロボットが並び、作業を繰り返している。同施設の全容と狙いを、潜入レポートとして紹介する。"
-  },
-  {
-   "title": "韓国SK Hynix、宮城県に半導体工場の計画浮上　「何か知り得ているものはない」と村井知事",
-   "link": "https://www.itmedia.co.jp/news/article/2608/26/2000000820/",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T17:55:22+09:00",
-   "summary": "韓国半導体大手SKハイニックスが宮城県にメモリー工場を建設する計画が浮上したことについて、宮城県の村井嘉浩知事は26日の定例記者会見で「いろんな半導体関連企業にアプローチしたのは事実だが、今回の件で県として何か知り得ているものはない」と述べ、今後も動向を注視する考えを示した。"
-  },
-  {
-   "title": "エフサステクノロジーズとNTT西、純国産LLM「tsuzumi 2」によるオンプレミス生成AI基盤を提供",
-   "link": "https://japan.zdnet.com/article/35251949/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T17:42:00+09:00",
-   "summary": "エフサステクノロジーズとNTT西日本は、エフサステクノロジーズのオンプレミス生成AI基盤「Private AI Platform on PRIMERGY」と、NTTグループが開発した大規模言語モデル（LLM）「tsuzumi 2」を組み合わせた生成AIソリューションを9月に提供す…"
-  },
-  {
-   "title": "日立、社会インフラの障害対応を支援する現場状況共有システムを開発",
-   "link": "https://japan.zdnet.com/article/35251944/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-26T16:52:00+09:00",
-   "summary": "日立製作所は、電力や通信などの社会インフラ現場における障害発生時の対応を支援する現場状況共有システムを試作した。2027年度の提供開始を目指す。"
-  },
-  {
-   "title": "【2026年8月26日正式リリース】AIと税理士が分担する新しい税務サービス『AIBOS（アイボウズ）』の提供を開始します",
-   "link": "https://prtimes.jp/main/html/rd/p/000000015.000118806.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-26T16:40:42+09:00",
-   "summary": "[スタートアップ税理士法人] [画像1: https://prcdn.freetls.fastly.net/release_image/118806/15/118806-15-bcb6b56c7fe9ae76766616f44170dc71-3345x1883.jpg?width…"
-  },
-  {
-   "title": "サイオス、リアルタイムデータプラットフォーム「Solace Platform」を提供開始",
-   "link": "https://japan.zdnet.com/article/35251939/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-26T16:15:00+09:00",
-   "summary": "サイオステクノロジーはカナダのSolaceとパートナー契約を締結。エンタープライズ向けリアルタイムデータプラットフォーム「Solace Platform」を日本国内で提供する。"
-  },
-  {
-   "title": "Okta、AIエージェント向けシングルサインオン機能の一般提供を開始",
-   "link": "https://japan.zdnet.com/article/35251936/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-08-26T15:45:00+09:00",
-   "summary": "Okta Japanは、AIエージェント向けのシングルサインオン（SSO）機能「Agent SSO」の一般提供開始を発表した。標準プロトコル「Cross App Access（XAA）」を採用した。"
-  },
-  {
-   "title": "AI導入への意欲とセキュリティ対策に大きなギャップ--F5調査",
-   "link": "https://japan.zdnet.com/article/35251932/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T15:44:00+09:00",
-   "summary": "F5ネットワークスジャパンは、日本国内の製造業と金融業における生成AIの導入状況と、セキュリティ面での課題に関する調査レポートを発表した。調査によると、日本では国が主導するAI分野のガバナンス改革により、組織が懸念していた障壁は取り除かれた一方、AI導入への意欲とAIセキュリティ…"
-  },
-  {
-   "title": "セールスフォース、SlackにAIエージェントと協働でソフトを開発する機能「Slack Code」を実装",
-   "link": "https://japan.zdnet.com/article/35251934/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-08-26T15:20:00+09:00",
-   "summary": "チャットツール「Slack」の新機能として、AIエージェントを活用したソフトウェア開発をチーム全体で進められる「Slack Code」が実装された。"
-  },
-  {
-   "title": "「nanacoクレジットカード」誕生　セブンATMで現金還元",
-   "link": "https://www.watch.impress.co.jp/docs/news/2135770.html",
-   "source": "Impress Watch",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-26T15:00:00+09:00",
-   "summary": "セブン銀行とセブン・カードサービスは、「nanacoクレジットカード」を8月26日に提供開始する。利用金額に応じてセブン銀行ATMから現金を受取れる「現金リワード」を提供する。"
-  },
-  {
-   "title": "こんなところに野良AIが？　事例で解説、実際にあった2つの発覚パターンと防衛策",
-   "link": "https://kn.itmedia.co.jp/kn/articles/2608/24/news039.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T13:42:06+09:00",
-   "summary": "社内の誰がどのAIを使っているのか、正確に把握できている企業は多くない。しかも問題は、たいてい事後に発覚する。約500社の商談分析と複数の実例から、野良AIとの現実的な付き合い方を探る。"
-  },
-  {
-   "title": "「AIエージェントを本番運用中」日本が最下位　“PoC止まり”の原因と、抜け出す方法は？",
-   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news040.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T13:00:00+09:00",
-   "summary": "AIエージェントなど自律型AIを本番運用している日本企業は17％にとどまることが、Confluentの調査で分かった。活用を進める上での課題とは何か。その解決策とは。"
-  },
-  {
-   "title": "「取りあえずChatGPT」はもう古い？　2社に1社が複数AIを併用、企業はどう管理すべきか",
-   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news044.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T13:00:00+09:00",
-   "summary": "Okta Japanは、企業におけるAIツールの利用実態をまとめたレポートを発表した。Okta Platformの2万以上の組織における4年間の匿名化されたアクセスデータを分析したものだ。"
-  },
-  {
-   "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-   "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T12:30:00+09:00",
-   "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension."
-  },
-  {
-   "title": "ChatGPT Work、ログイン必要なサイトも操作可能に　「パスワードは一切見ない」",
-   "link": "https://www.itmedia.co.jp/aiplus/article/2608/26/2000000788/",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T11:27:57+09:00",
-   "summary": "ユーザーが自分でログインすれば、その後もログイン状態を維持でき、その後の作業をChatGPTに任せられる。AIがユーザー名やパスワードを見ることは「一切ない」としている。"
-  },
-  {
-   "title": "4台のM5 Ultra Mac Studioで「データセンター級」メモリ帯域幅4.8TB/s　巨大LLMも高速でローカル実行可能に",
-   "link": "https://www.itmedia.co.jp/aiplus/article/2608/26/2000000786/",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T11:17:10+09:00",
-   "summary": "EXO Labsが、「M5 Ultra」搭載の新型「Mac Studio」4台のクラスタで約4.8TB/sのメモリ帯域幅を実現できると発表。データセンター級の速度で、「Kimi K3」など巨大LLMをローカル実行できるとうたう。"
-  },
-  {
-   "title": "OpenAI、自社チップ「ハラペーニョ」の性能を公表 電力効率やレイテンシ向上",
-   "link": "https://www.watch.impress.co.jp/docs/news/2135607.html",
-   "source": "Impress Watch",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T10:28:39+09:00",
-   "summary": "OpenAIは25日(米国時間)、自社開発の推論プラットフォームとして設計した新チップ「Jalapeño」(ハラペーニョ)の実測のベンチマーク結果を公開した。"
-  },
-  {
-   "title": "ClaudeとCoworkのメモリが統合、過去の会話で蓄積した情報を引き継ぎ",
-   "link": "https://japan.cnet.com/article/35251918/",
-   "source": "CNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T10:21:00+09:00",
-   "summary": "AnthropicのAIアシスタント「Claude」のメモリ機能が大幅に強化され、「Cowork」に切り替えてもClaudeとの過去の会話で蓄積されたメモリが引き継がれるようになった。"
-  },
-  {
-   "title": "Perplexity、ローカルAIエージェント「Portable Computer」を発表",
-   "link": "https://japan.zdnet.com/article/35251917/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T09:54:00+09:00",
-   "summary": "Perplexityが、ローカルAIエージェント「Portable Computer」を発表した。ローカルAIモデルを活用することで、通常のオンライン利用時に生じる負荷なしに、エージェントへのリクエストやタスクを処理するという。"
-  },
-  {
-   "title": "宇宙からキャベツの供給量を予測？　JAXA×電通が挑む「需給連動型」という新しい広告の在り方",
-   "link": "https://www.itmedia.co.jp/business/articles/2608/26/news032.html",
-   "source": "ITmedia ビジネス",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-08-26T09:50:00+09:00",
-   "summary": "電通、JAXA、JA嬬恋村が連携し、人工衛星データを活用し、農作物の生育状況や出荷量、市場価格の予測に関する技術開発と実証実験を進めてきた。3社は、データで導き出された供給量の予測を活用し、広告の在り方を見直す実験を始める。"
-  },
-  {
-   "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-   "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T09:40:59+09:00",
-   "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
-  },
-  {
-   "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-   "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T09:06:20+09:00",
-   "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support…"
-  },
-  {
-   "title": "The Hugging Face incident and the road ahead",
-   "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-   "source": "OpenAI News",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T09:00:00+09:00",
-   "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and a…"
-  },
-  {
-   "title": "How loveholidays is making everyone a builder with Codex",
-   "link": "https://openai.com/index/loveholidays",
-   "source": "OpenAI News",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T09:00:00+09:00",
-   "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into produ…"
-  },
-  {
-   "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-   "link": "https://huggingface.co/blog/train-multi-vector-encoder",
-   "source": "Hugging Face Blog",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-08-26T09:00:00+09:00",
-   "summary": ""
   }
  ]
 }
