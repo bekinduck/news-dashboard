@@ -1,7 +1,721 @@
 {
- "generated_at": "2026-09-30T10:04:57.386093+09:00",
+ "generated_at": "2026-10-01T10:04:09.118007+09:00",
  "days_kept": 14,
  "articles": [
+  {
+   "title": "株式会社Noir Maison、日本ピックルボール振興協会（JPPF）と業務提携。約5,000名規模のクリエイターネットワークを活用し、ピックルボールの普及を加速",
+   "link": "https://prtimes.jp/main/html/rd/p/000000005.000179129.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T09:41:26+09:00",
+   "summary": "[株式会社NoirMaison] [画像1: https://prcdn.freetls.fastly.net/release_image/179129/5/179129-5-9536e16d1f6c164bb7597bcffaebe9d3-1672x941.jpg?width=…"
+  },
+  {
+   "title": "MonoLu、物流倉庫DXの新サービス「Warehouse OS」を開発に着手",
+   "link": "https://prtimes.jp/main/html/rd/p/000000008.000174528.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T09:41:26+09:00",
+   "summary": "[MonoLu株式会社] MonoLu株式会社（本社：東京都文京区、代表取締役：石田樹）は、倉庫DXの新サービス「Warehouse OS（ウェアハウスオーエス）」の開発に着手しました。 Warehouse OSは、倉庫の現場に点在する様々な課題を、1つの..."
+  },
+  {
+   "title": "【愛媛】三福社宅サービスが社会福祉法人喜久寿と業務提携｜従業員の賃貸仲介手数料を20％割引",
+   "link": "https://prtimes.jp/main/html/rd/p/000000605.000004256.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T09:41:26+09:00",
+   "summary": "[三福グループ] [画像1: https://prtimes.jp/i/4256/605/resize/d4256-605-305821-pixta_41994765-0.jpg ] 株式会社三福社宅サービス（本社：愛媛県松山市、代表取締役社長：中矢孝則）は、社会福祉法人喜久寿（…"
+  },
+  {
+   "title": "【日本初】ステーブルコイン、トークン化預金、および暗号資産（39種類）対応「オンチェーン金融マーケットプレイス」をサービスローンチ。全商品「真贋鑑定」と「100％返金保証」で安心安全をご提供",
+   "link": "https://prtimes.jp/main/html/rd/p/000000192.000044818.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T09:41:26+09:00",
+   "summary": "[cycaltrust株式会社] サイカルトラスト株式会社（本社：東京都渋谷区、代表取締役：須江 剛、以下「サイカルトラスト」）は、日本初（※1）となる「オンチェーン金融マーケットプレイス（https://marketplace.cycaltrust.co.jp(https..."
+  },
+  {
+   "title": "暗号資産レンディングサービス「PBR LENDING」、村上裕一公認会計士事務所と業務提携",
+   "link": "https://prtimes.jp/main/html/rd/p/000000017.000132714.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T09:40:02+09:00",
+   "summary": "[Portobello Road株式会社] Portobello Road株式会社（本社：東京都台東区、代表取締役：奈良崎 匡平）が運営する暗号資産レンディングサービス「PBR LENDING」（読み：PBRレンディング）は、暗号資産の税務・会計分野で専門性と豊富な実績..."
+  },
+  {
+   "title": "グーグル最上位モデル「Gemini 4 Argon」 出力100万トークンで最高性能",
+   "link": "https://www.watch.impress.co.jp/docs/news/2144689.html",
+   "source": "Impress Watch",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T09:37:34+09:00",
+   "summary": "Googleは30日(米国時間)、新たなフロンティアモデル「Gemini 4 Argon」を発表した。複雑かつ長期的なワークフロー全体にわたって深い推論を持続できるように構築された最上位AIモデルで、まずは「Fairwind Program」を通じて信頼できるサイバーセキュリティ…"
+  },
+  {
+   "title": "プロスペリティ、AI時代の重要な経営判断に独立した第二の視点を提供する「AI セカンド・オピニオン(TM)」を発表",
+   "link": "https://prtimes.jp/main/html/rd/p/000000001.000190512.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T09:10:02+09:00",
+   "summary": "[プロスペリティ株式会社] 戦略コンサルティング事業を展開するプロスペリティ株式会社(本社：東京都中央区、代表取締役：中村有希、以下「プロスペリティ」)は、AI活用における人・組織およびAIの判断構造と責任を確認し、重要な経営判断..."
+  },
+  {
+   "title": "採用AIエージェント「採用一括かんりくん」、過去の履歴や評価から返信文を自動生成する「メッセージサジェスト機能」の第一弾をリリース",
+   "link": "https://prtimes.jp/main/html/rd/p/000000113.000019706.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-10-01T09:10:02+09:00",
+   "summary": "[HRクラウド] 採用AIエージェント「採用一括かんりくん」を提供するHRクラウド株式会社（本社：東京都千代田区、代表取締役社長：中島 悠揮、以下 当社）は、採用活動におけるコミュニケーション業務を効率化する新機能「メッ..."
+  },
+  {
+   "title": "崩れない！クオリティもUP！企業キャラのAI画像生成プロンプト大公開！【株式会社コンビーズ】",
+   "link": "https://prtimes.jp/main/html/rd/p/000000086.000001631.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T09:10:02+09:00",
+   "summary": "[コンビーズ] 株式会社コンビーズ（本社：東京都渋谷区、代表取締役：山崎 祐一郎）は、9月30日、新しいお役立ち資料「企業キャラのAI画像生成プロンプト」をリリースした。 ▼資料のダウンロードはこちら▼https://x.gd/oryLA(h..."
+  },
+  {
+   "title": "株式会社NBS、業務用・家庭用の新フラッグシップ2機種を今秋ローンチ「ビューティーワールド 大阪」で実機を披露",
+   "link": "https://prtimes.jp/main/html/rd/p/000000024.000066945.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T09:10:02+09:00",
+   "summary": "[NBS] 総合美容機器メーカーの株式会社NBS（本社：愛知県名古屋市中区、代表取締役社長：松岡悟史、以下「NBS」）は、業務用脱毛機「CLEAR/SP-GX（クリアエスピージーエックス）」と、BiiToシリーズ最高峰の家庭用光美..."
+  },
+  {
+   "title": "韓国発ゴルフウェア「UTAA」、インナービューティーのプロラボHDと資本業務提携",
+   "link": "https://prtimes.jp/main/html/rd/p/000000007.000114307.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T09:10:02+09:00",
+   "summary": "[株式会社YH JAPAN] 韓国発ゴルフウェアブランド「UTAA（ユタ）」を日本で展開する株式会社YH JAPAN（本社：東京都港区、代表取締役：平野雄大、早田裕樹、以下「YH JAPAN」）と、酵素ドリンクなどのインナービューティー製品を製造..."
+  },
+  {
+   "title": "株式会社カサレアル、AI時代における新たなインフラ構築・運用手法を学ぶ研修コース『AIエージェント活用によるインフラ構築・運用入門』を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000004.000179066.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-10-01T09:10:02+09:00",
+   "summary": "[株式会社カサレアル] 株式会社カサレアル（以下 カサレアル：東京都港区、代表取締役社長 窪 伸一郎）は、AIエージェントを活用した安全で実践的なインフラ構築・運用プロセスを学ぶ新コース『AIエージェント活用によるインフラ構築..."
+  },
+  {
+   "title": "Autodesk、FusionなどのAI機能を発表　設計作業の自動化や設計資産の再利用を支援",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2610/01/news015.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T09:00:00+09:00",
+   "summary": "Autodeskは「Autodesk University 2026（AU 2026）」において、「Fusion」「Inventor」「Vault」およびPLMに関する新たなAI機能や取り組みを発表した。部品の編集や組み立て、製造工程の自動化に加え、製品情報の連携や既存の設計資産…"
+  },
+  {
+   "title": "素材と完成動画を見せるだけ　“型”を覚えたAIに動画編集をどこまで託せるか　GPT-6 Astraで試す",
+   "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001910/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T09:00:00+09:00",
+   "summary": "編集前の素材と完成動画を見比べさせるだけで、AIは“その人らしい編集”を身につけられるのか。元テレビ編集者の筆者が、PremiereとGPT-6 Astraを組み合わせて編集手順を「スキル」として保存させ、新しい素材を丸ごと任せてみた。さらにPremiere 26.5で加わったB…"
+  },
+  {
+   "title": "AI時代に接近する決済とトークン　Stripeが描くエージェンティックエコノミー",
+   "link": "https://www.watch.impress.co.jp/docs/news/2144549.html",
+   "source": "Impress Watch",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T09:00:00+09:00",
+   "summary": "Stripeは30日、「Stripe Tour Tokyo 2026」を開催し、多くの新サービスや新機能を発表した。日本に直接関係するトピックは別記事で紹介しているが、発表の軸と位置づけていたのが新たな「経済主体」としてのAIによる「エージェンティックエコノミー」についてだ。"
+  },
+  {
+   "title": "マイクロソフト、「Windows 11 26H2」をリリース--新機能や移行は？",
+   "link": "https://japan.zdnet.com/article/35253130/",
+   "source": "ZDNET Japan",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T08:44:00+09:00",
+   "summary": "「Windows 11」の2026年版が正式公開された。2025年版と比べてどのような新機能があり、PCをアップデートする価値はあるのだろうか。"
+  },
+  {
+   "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+   "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T08:43:07+09:00",
+   "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
+  },
+  {
+   "title": "国内LBOローンの提供を目的としたプライベイート・デット・ファンド設立に関する合弁契約の締結について",
+   "link": "https://prtimes.jp/main/html/rd/p/000000043.000100027.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T08:40:02+09:00",
+   "summary": "[株式会社りそなホールディングス] 株式会社りそな銀行(代表取締役社長 千田 一弘)、株式会社埼玉りそな銀行(代表取締役社長 篠藤 愼一)、株式会社あおぞら銀行(代表取締役社長兼最高経営責任者(CEO）大見 秀人)、三井住友信託銀行株式会社(取締役..."
+  },
+  {
+   "title": "【技術動向レポート】美容師の「経験と感覚」をAIで支援できるか―美容×AIの国内特許動向を調査―MyTokkyo.Ai",
+   "link": "https://prtimes.jp/main/html/rd/p/000000539.000042056.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T08:40:02+09:00",
+   "summary": "[リーガルテック株式会社] リーガルテック株式会社（本社：東京都港区、代表取締役CEO：平井 智之）は、特許調査・発明抽出プラットフォーム「MyTokkyo.Ai」を活用し、美容・ヘアサロン業界におけるAI活用技術と国内特許動向を調査しました..."
+  },
+  {
+   "title": "日本語文書検索に特化した次世代小型AIモデル、設計を完了し開発・学習フェーズへ",
+   "link": "https://prtimes.jp/main/html/rd/p/000000008.000183060.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T08:10:02+09:00",
+   "summary": "[光数株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/183060/8/183060-8-e89c9a427f39962bd58a52e6a4f2d123-2800x600.jpg?width=536&amp;q…"
+  },
+  {
+   "title": "ローカルハブで事業化した取り組みの約83％が「企業からの提案」を起点に",
+   "link": "https://prtimes.jp/main/html/rd/p/000000110.000034122.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T08:10:02+09:00",
+   "summary": "[Crowdsien inc.] 自治体と企業の共創を支援するプラットフォーム「ローカルハブ」を運営する株式会社クラウドシエン（本社：広島県広島市、代表取締役：神原 翔吾）は、2026年7月30日から9月30日までのローカルハブの運用状況や、..."
+  },
+  {
+   "title": "AI・PC・スマホによる業務効率化とサイバーセキュリティを実現する、病院向けAX統合パッケージ「OPTiM AI ホスピタル スイート」提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000026.000133293.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T08:10:02+09:00",
+   "summary": "[株式会社オプティム] 株式会社オプティム（以下 オプティム）は、病院向けのAX（AI Transformation）統合パッケージ「OPTiM AI ホスピタル スイート」を、2026年9月30日より提供開始しました。 「OPTiM AI ホスピタル スイート」は、..."
+  },
+  {
+   "title": "AI主権はなぜ「切実な経営課題」になったのか　モデル“禁輸”問題が示した「選択肢を持つこと」の重要性",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001909/",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T08:00:00+09:00",
+   "summary": "AIの活用が進むほど、企業は外部のサービスやインフラへの依存を深める。データやモデルへのコントロールを保ち、自らの意思で選択できる状態を守る「AI主権」はなぜ経営課題になったのか、4つの観点から解説する。"
+  },
+  {
+   "title": "デルが強調する「OSより下のレイヤー保護」--生成AIで脅威増すエンドポイント防御",
+   "link": "https://japan.zdnet.com/article/35253125/",
+   "source": "ZDNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T08:00:00+09:00",
+   "summary": "デル・テクノロジーズは、企業におけるAI・生成AI活用とセキュリティリスクに関する意識調査の結果を発表した。東京大学先端科学技術研究センター 客員研究員の西尾素己氏は、総攻撃件数の推移として2024年比で被害件数が23％増だったことを紹介し、「今伸びているベンチャー企業と同じくら…"
+  },
+  {
+   "title": "日立とファナックがフィジカルAI協業　日立エッジAI×ファナックロボ有効性も検証",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2610/01/news031.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-10-01T07:30:00+09:00",
+   "summary": "日立製作所とファナックはフィジカルAI（人工知能）実装の共同事業化に向けた戦略的パートナーシップを締結した。日立のAI技術とファナックの産業用ロボットを組み合わせたフィジカルAIの共同実証と共同展開を推進する。共同実証で得られたフィジカルAIの実装／運用ノウハウを生かして、202…"
+  },
+  {
+   "title": "すべての企業の“セキュリティ疲れ”解消を　「Symantec CBX」TD SYNNEXが提供開始",
+   "link": "https://ascii.jp/elem/000/004/438/4438868/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T07:30:00+09:00",
+   "summary": "ITディストリビューターのTD SYNNEX日本法人が、企業の“セキュリティ疲れ”を解消するXDRソリューション「Symantec CBX」の国内提供を開始した。SymantecとCarbon Blackが提供してきた各種セキュリティ機能をプラットフォーム統合し、脅威判断やインシ…"
+  },
+  {
+   "title": "Google、「Gemini 4 Pro」ではなく「Gemini 4 Agron」発表　まずはサイバー防御組織に限定提供、出力上限は100万トークンに",
+   "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001912/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T07:16:25+09:00",
+   "summary": "Googleは、次世代フロンティアモデル「Gemini 4 Argon」を発表した。最大出力100万トークンに対応し、長時間に及ぶ業務処理や自律的なサイバー脆弱性修正に強みを持つ。安全対策を強化した上で、まずは信頼できるサイバー防御組織に先行提供し、有料APIなどで順次拡大する。"
+  },
+  {
+   "title": "「デジタルスレッドとAIで動かす」　富士ソフトがスマート工場で10％成長狙う",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2610/01/news034.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T07:15:00+09:00",
+   "summary": "富士ソフトは経営体制「富士ソフト Gen.2」に基づく、製造業向けスマート工場事業戦略を発表した。既存設備を生かし、データをデジタルスレッドで統合しフィジカルAIで現場を動かす4つのオファリングを展開する。同事業で10％以上の成長を目指す。"
+  },
+  {
+   "title": "「FDE」は常駐SEのすげ替えなのか　“人月商売の死”を打破したい国内SIer、打開策は意外なところに？",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/01/news040.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T07:00:00+09:00",
+   "summary": "高性能AIの登場によって“人月商売の死”が叫ばれる中、大手SIerが「FDE」の実装に力を入れている。一部では「常駐SEの言い換えに過ぎない」という指摘がある中、SIerは勝機をどこに見いだせば良いのか。"
+  },
+  {
+   "title": "「スマホの次もスマホだ」クアルコムCEOが断言する“AIエージェント時代”の未来",
+   "link": "https://ascii.jp/elem/000/004/438/4438584/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T07:00:00+09:00",
+   "summary": "スマホの次は何なのか。クアルコムのクリスチアーノ・アモンCEOは、「スマホはなくならない。スマホの次もスマホだ」と断言した。ただしそこにはAIエージェントが搭載される。"
+  },
+  {
+   "title": "首都圏・海外で地域企業が勝てる事業プロデュース術とは？「新規事業の本質」セミナー参加者募集【10/22オンライン開催】",
+   "link": "https://ascii.jp/elem/000/004/438/4438512/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T07:00:00+09:00",
+   "summary": "株式会社ゼロワンブースターは、10月22日15時よりオンラインセミナー「地域中堅企業の為の新規事業の本質～首都圏・海外に進出する事業をつくるには～」を開催する。事前申込制で、参加費は無料だ。大都市圏や大企業向けの手法とは異なる、地域の中堅企業の規模や組織に適合した新規事業の考え方…"
+  },
+  {
+   "title": "1人参加率95％のシニア向けツアー、受け取り側が行き先を選べる体験型ギフト",
+   "link": "https://ascii.jp/elem/000/004/437/4437939/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T07:00:00+09:00",
+   "summary": "シニア向けコミュニティレジャーを展開する株式会社ジェイエルネスは9月15日、行き先を受け取り側が選べる体験型贈答サービス「シュミタイムギフト」の提供を開始した。"
+  },
+  {
+   "title": "デイサービスの口腔機能評価を言語聴覚士が遠隔支援するサービス",
+   "link": "https://ascii.jp/elem/000/004/437/4437905/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-01T07:00:00+09:00",
+   "summary": "介護向けSaaSを展開する株式会社Rehab for JAPANは9月17日、科学的介護ソフトウェア「Rehab Cloud」のオプション機能として、言語聴覚士（ST）が遠隔で利用者の口腔機能を評価する「Rehab Cloud オンラインST」の提供を開始した。"
+  },
+  {
+   "title": "OpenAIが「ChatGPT Space」を発表--「Google Workspace」の代替ツールか",
+   "link": "https://japan.zdnet.com/article/35253115/",
+   "source": "ZDNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T07:00:00+09:00",
+   "summary": "OpenAIは、チームが「ChatGPT」内でAIエージェントと連携して文書の作成などが行える「ChatGPT Space」を発表した。"
+  },
+  {
+   "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+   "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T06:07:40+09:00",
+   "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
+  },
+  {
+   "title": "Rails作者DHH「Pencils Down、もう手でコードは書かない」　それでもソフトウェア開発の未来は明るい理由",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news010.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T05:00:00+09:00",
+   "summary": "Ruby on Railsの作者DHHがRails World 2026の基調講演で、37signalsでは手書きコードをやめたと宣言した。一方で「ソフトウェア開発の未来は明るい」とも言う。手書きが例外になった現場で開発者は何をするのか、講演の要点と筆者の考えを紹介する。"
+  },
+  {
+   "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+   "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T04:00:57+09:00",
+   "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
+  },
+  {
+   "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+   "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T03:23:57+09:00",
+   "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
+  },
+  {
+   "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+   "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T02:45:00+09:00",
+   "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
+  },
+  {
+   "title": "The ugly economics of consumer AI",
+   "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T02:24:45+09:00",
+   "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough."
+  },
+  {
+   "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+   "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T01:24:23+09:00",
+   "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent rea…"
+  },
+  {
+   "title": "DoorDash launches an AI agent you can text to order food",
+   "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T01:00:24+09:00",
+   "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
+  },
+  {
+   "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+   "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T01:00:00+09:00",
+   "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+  },
+  {
+   "title": "Instinct’s new product recommendations are giving some users the ick",
+   "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-01T00:56:28+09:00",
+   "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never a…"
+  },
+  {
+   "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+   "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T23:30:00+09:00",
+   "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infr…"
+  },
+  {
+   "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+   "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T23:27:11+09:00",
+   "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and red…"
+  },
+  {
+   "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+   "link": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T23:15:00+09:00",
+   "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, inve…"
+  },
+  {
+   "title": "Airbnb adds AI search, more social features",
+   "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T21:00:00+09:00",
+   "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations."
+  },
+  {
+   "title": "住まいコンパス、中古マンション仲介のエムティーハウス株式会社と業務提携を締結",
+   "link": "https://prtimes.jp/main/html/rd/p/000000007.000163905.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-30T19:53:05+09:00",
+   "summary": "[合同会社住まいコンパス] [画像: https://prcdn.freetls.fastly.net/release_image/163905/7/163905-7-e8a129442aa39a08f1f7d7453822c5c2-1920x1005.png?width=536…"
+  },
+  {
+   "title": "Disrupting a coordinated model-distillation campaign",
+   "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+   "source": "OpenAI News",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T19:30:00+09:00",
+   "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+  },
+  {
+   "title": "【日本初】ステーブルコイン、トークン化預金、および暗号資産（39種類）対応「オンチェーン金融マーケットプレイス」をサービスローンチ。全商品「真贋鑑定」と「100％返金保証」で安心安全をご提供",
+   "link": "https://ascii.jp/elem/000/004/438/4438880/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-30T19:02:27+09:00",
+   "summary": "【日本初】ステーブルコイン、トークン化預金、および暗号資産（39種類）対応「オンチェーン金融マーケットプレイス」をサービスローンチ。全商品「真贋鑑定」と「100％返金保証」で安心安全をご提供"
+  },
+  {
+   "title": "Helping small businesses put AI to work",
+   "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+   "source": "OpenAI News",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T19:00:00+09:00",
+   "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on ho…"
+  },
+  {
+   "title": "ヤマレコ、投稿写真を地図上でまとめて確認できる「みんなの写真マップ」提供開始　登山前の情報収集に",
+   "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001895/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-30T18:07:14+09:00",
+   "summary": "登山専用コミュニティサイト「ヤマレコ」を運営するヤマレコは、サイトに投稿された登山写真を地図上で探せる新機能「みんなの写真マップ」の提供をWeb版で始めた。スタンダードプラン（無料）のユーザーも一部機能を利用できる。"
+  },
+  {
+   "title": "au PAYで暗号資産ウォレット開始　Pontaポイントから交換・決済も可能",
+   "link": "https://www.watch.impress.co.jp/docs/news/2144551.html",
+   "source": "Impress Watch",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-30T17:02:11+09:00",
+   "summary": "KDDI、au Coincheck Digital Assets、HashPortは、au PAYアプリから利用できる暗号資産ウォレット「αU wallet」の提供を開始した。Pontaポイントを暗号資産やステーブルコインに交換できるほか、保有する暗号資産をau PAY残高にチャ…"
+  },
+  {
+   "title": "楽天カード、みずほ連携で法人カード本格展開　中小企業でも限度額10億",
+   "link": "https://www.watch.impress.co.jp/docs/news/2144513.html",
+   "source": "Impress Watch",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-30T16:18:05+09:00",
+   "summary": "楽天カードは、みずほ銀行、UPSIDERと共同開発した法人向けクレジットカード「楽天ビジネスカードプラチナ」を発表した。個人向けカードでシェアを獲得している楽天カードが、法人向けカード市場に本格参入する。10月1日から申込受付と発行を開始する。"
+  },
+  {
+   "title": "家事を30分で覚える人型ロボット「Flourish 1」、約56万円で予約開始",
+   "link": "https://japan.cnet.com/article/35253112/",
+   "source": "CNET Japan",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-30T15:50:00+09:00",
+   "summary": "人型ロボットを手がけるスタートアップのFlourish Robotsは、新製品「Flourish 1」の価格を3555ドル（約56万円）と発表した。"
+  },
+  {
+   "title": "「声」もパブリシティー権の保護対象に　津田健次郎さんのAI声模倣訴訟で東京地裁が判断──削除請求自体は棄却",
+   "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001892/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T15:32:29+09:00",
+   "summary": "声優の津田健次郎さんが、生成AIで自身の声を模倣したとみられるTikTok動画の削除を求めていた訴訟で、東京地裁は9月30日、人の声も肖像と同様にパブリシティー権の保護対象になり得るとの判断を示した。削除請求そのものは、動画が判決までに消えたことを理由に退けた。"
+  },
+  {
+   "title": "「まず、その業務なくせない？」　野村不動産HDが経理DXで「年間9000時間」を生み出した“引き算”の考え方",
+   "link": "https://www.itmedia.co.jp/business/articles/2609/30/news089.html",
+   "source": "ITmedia ビジネス",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T15:00:00+09:00",
+   "summary": "DXやAI活用自体が目的となり、具体的な成果になかなか結び付かない企業は少なくない。野村不動産ホールディングスの経理DXを取材すると、DXを進める前の「一呼吸」に、成功の要因があることが見えてきた。"
+  },
+  {
+   "title": "米フロリダ州、OpenAIの新AIモデル開発差し止めを要求　不正侵入相次ぐ",
+   "link": "https://japan.cnet.com/article/35253108/",
+   "source": "CNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T14:35:00+09:00",
+   "summary": "米フロリダ州の司法長官が、OpenAIによる新たなAIモデルの開発を差し止める命令を裁判所に求めている。"
+  },
+  {
+   "title": "日立とファナック、フィジカルAIの事業化で戦略的提携",
+   "link": "https://japan.zdnet.com/article/35253110/",
+   "source": "ZDNET Japan",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-30T14:09:00+09:00",
+   "summary": "日立製作所とファナックは、2027年度にフィジカルAIの実装を共同事業化するため戦略的パートナーシップを締結した。"
+  },
+  {
+   "title": "たった4人で10カ国超を担当、飲食チェーンの海外進出を支える生成AI活用",
+   "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001789/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T14:05:15+09:00",
+   "summary": "グローバルニッチは高い技術力を持つ一方で、知名度が実力に比べて劣り、ITを駆使して海外でのブランディングや販売に生かしていることも多い。この連載では、こうした企業のIT戦略をインタビューで深堀りする。今回は飲食業などの海外進出を支援するナシエルホールディングスを取り上げる。"
+  },
+  {
+   "title": "「案件創出→商談の進行まで」をAIエージェントが実行！　セールスフォースが描く、 営業活動自動化の未来",
+   "link": "https://www.itmedia.co.jp/business/articles/2609/30/news057.html",
+   "source": "ITmedia ビジネス",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T13:30:00+09:00",
+   "summary": "セールスフォースが新たなAIエージェントを発表した。"
+  },
+  {
+   "title": "OpenAI、DevDayで20超の新機能　8.4万円のProプランや共有スペース",
+   "link": "https://www.watch.impress.co.jp/docs/news/2144440.html",
+   "source": "Impress Watch",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-09-30T13:29:33+09:00",
+   "summary": "OpenAIは「DevDay 2026」で、ChatGPTやCodex、AIモデルなどに関する新機能やサービスを発表した。常時稼働するエージェント「dots」や新モデル「GPT-6.1 Sol」のほか、ChatGPTの共同作業機能、Codexのクラウド対応、プラグイン拡張などを展…"
+  },
+  {
+   "title": "Stripe、d払いや楽天など日本のコード決済対応強化　事業資金調達など日本向け新機能",
+   "link": "https://www.watch.impress.co.jp/docs/news/2144406.html",
+   "source": "Impress Watch",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-30T13:00:00+09:00",
+   "summary": "Stripeは30日、「Stripe Tour Tokyo 2026」を開催し、日本におけるサービス開始から10周年を迎えることを紹介するとともに、日本のコード決済対応強化や、今後のエージェンティックコマース展開、新サービスとなるStripe Capitalの導入など多くの発表を…"
+  },
+  {
+   "title": "NECとシュナイダー、電力・通信設備管理「ArcFM」を国内提供--GISで設計から運用まで一元化",
+   "link": "https://japan.zdnet.com/article/35253103/",
+   "source": "ZDNET Japan",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-30T12:36:00+09:00",
+   "summary": "NECとシュナイダーエレクトリックは9、電力会社や電力系通信事業者向けの設計・設備管理ソリューション「EcoStruxure ArcFM」の国内提供を開始すると発表した。"
+  },
+  {
+   "title": "日立、Agile RobotsとAIロボティクスの頭脳を開発する協創パートナーシップに合意",
+   "link": "https://japan.zdnet.com/article/35253100/",
+   "source": "ZDNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T12:30:00+09:00",
+   "summary": "日立製作所は、AIロボティクス技術のプロバイダーであるAgile Robots SEと、AIロボティクスの頭脳を開発する協創パートナーシップに基本合意したと発表した。製造現場の複雑な作業を短期間で学習できる日立のAIモデルと、幅広い産業で使われているAgile RobotsのAI…"
+  },
+  {
+   "title": "OpenAI、常時稼働のAIエージェント「dots」発表　「GPT-6 Astra」搭載",
+   "link": "https://japan.cnet.com/article/35253096/",
+   "source": "CNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T12:05:00+09:00",
+   "summary": "OpenAIは、AIモデル「GPT-6 Astra」を搭載し、あらゆるタスクをこなせるよう設計された常時稼働の自律型エージェント「dots」を発表した。"
+  },
+  {
+   "title": "NTT-AT、フロンティアAIを活用した「AIハイブリッドWeb診断サービス」を提供",
+   "link": "https://japan.zdnet.com/article/35253093/",
+   "source": "ZDNET Japan",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-09-30T12:05:00+09:00",
+   "summary": "NTTアドバンステクノロジ（NTT-AT）は、「AIハイブリッドWeb診断サービス」を10月1日から提供開始すると発表した。"
+  },
+  {
+   "title": "大企業に勤める回答者の過半数が「非エンジニアによる開発を実施」　全社に行き渡ったコード、検証できているのか？【調査】",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2609/29/news097.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T12:00:00+09:00",
+   "summary": "非エンジニアによるAI開発は、大企業ほど広がっている――。全社に行き渡ったAI生成コードは、誰がどう検証しているのか。調査からは、大企業のIT部門が品質チェックの他に求める施策が浮かび上がった。"
+  },
+  {
+   "title": "「マルチエージェント」を名乗るだけの作品が続出　Googleが数千の応募から見つけた“勝てる設計”4つのパターン",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news048.html",
+   "source": "ITmedia AI+",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T11:00:00+09:00",
+   "summary": "Googleは、AIエージェント開発コンテストの上位作に見られる4つの設計パターンを公開した。応募の多くが「マルチエージェントシステム」を掲げていたが、実態は単一のモデルがプロンプトをつなげているだけのものもあったという。"
+  },
+  {
+   "title": "AI活用を加速するためのAIセキュリティ戦略--エージェントリスクへの備え",
+   "link": "https://japan.zdnet.com/article/35251776/",
+   "source": "ZDNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T11:00:00+09:00",
+   "summary": "ZDNET Japanは、10月7日午後1時よりAIの活用とセキュリティリスクをテーマに、オンラインセミナーを開催する。"
+  },
   {
    "title": "ゴーグルではなくメガネになったVRデバイス､Metaの新型機を掛けてみて分かった軽さの理由と限界 | ビジネス | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/958909?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -93,6 +807,16 @@
    ],
    "published": "2026-09-30T09:00:00+09:00",
    "summary": "DeepLジャパンは29日、リアルタイム音声翻訳サービス「DeepL Voice」の新機能やMCP対応に関する報道関係者向け説明会を開催した。一般提供を開始した音声から音声へのリアルタイム翻訳機能や、Windows/Mac向けデスクトップアプリなどを紹介した。"
+  },
+  {
+   "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+   "link": "https://huggingface.co/blog/open-tts-leaderboard",
+   "source": "Hugging Face Blog",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-09-30T09:00:00+09:00",
+   "summary": ""
   },
   {
    "title": "AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名",
@@ -7295,754 +8019,6 @@
    ],
    "published": "2026-09-17T10:23:50+09:00",
    "summary": "OpenAIは、AIモデルの開発過程などで確認されたミスアライメント事例を追跡・公表するための新枠組みを発表した。実害の有無を問わず迅速に情報共有する方針で、APIキーの無断探索やデータ捏造、不正な指示の書き込みなど、未公開モデルや「GPT-5.6 Sol」の訓練中に観測された6…"
-  },
-  {
-   "title": "Anthropic、「Claude」のチャットと「Cowork」を統合",
-   "link": "https://japan.zdnet.com/article/35252707/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-09-17T10:03:00+09:00",
-   "summary": "Anthropicは、チャットと「Claude Cowork」を統合し、タスクに応じて必要な機能を利用できる新しい「Claude」を提供する。新機能として「Claude Docs」「Claude Slides」「Claude Design」も加わる。"
-  },
-  {
-   "title": "AI活用で顧客体験はどう変わっていくか--Twilioの調査結果から探る",
-   "link": "https://japan.zdnet.com/article/35252692/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T10:00:00+09:00",
-   "summary": "購買活動などにおける顧客体験（CX）は、これまで「人」が対象だった。今、AIが入り込み始め、「人とAIの関係性」について論議されている。数年先のCXはもはや「AIとAIの関係性」が主体になるのではないか。CXの在り方が根本から変わるのではないか。"
-  },
-  {
-   "title": "Snap tries to make the case again for its $2,200 smart glasses",
-   "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T09:58:49+09:00",
-   "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
-  },
-  {
-   "title": "生成AIで商品選び、なぜ「人」が求められる？　購入後に6割がモヤモヤ",
-   "link": "https://www.itmedia.co.jp/business/articles/2609/17/news044.html",
-   "source": "ITmedia ビジネス",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T09:01:00+09:00",
-   "summary": "商品選びで生成AIを利用する人の約6割が、大量のデータ比較に疲れを感じていることが分かった。一方、AIだけで決めるより、人と会話しながら選ぶほうが納得感があるとの回答が多かった。"
-  },
-  {
-   "title": "AI駆動型開発で生産性倍増を狙うIBM　セキュリティ、トークンコスト、品質の課題をどう解決する？",
-   "link": "https://ascii.jp/elem/000/004/435/4435559/?rss",
-   "source": "ASCII.jp",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T09:00:00+09:00",
-   "summary": "日本IBMの年次イベント「Think Japan」が、2026年9月8日、オークラ東京で開催され、基調講演に登壇した日本IBMの村田将輝社長が、フロンティアAIを活用した製品およびサービスにおけるセキュリティ対策について説明。さらに、AIエージェント駆動型エンタープライズ開発支援…"
-  },
-  {
-   "title": "Introducing Astra for Law",
-   "link": "https://openai.com/index/astra-for-law",
-   "source": "OpenAI News",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T09:00:00+09:00",
-   "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confi…"
-  },
-  {
-   "title": "Al Gore says the real AI risk isn’t data centers",
-   "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T08:43:09+09:00",
-   "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI indu…"
-  },
-  {
-   "title": "累計契約件数100万件突破の「Travelキャンセル保険」をホテル・宿の公式予約サイトに　「Tag-inパートナープログラム」の提供を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000063.000076752.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-17T08:40:02+09:00",
-   "summary": "[Mysurance株式会社] 損害保険ジャパン株式会社の子会社で少額短期保険業を営むMysurance（マイシュアランス）株式会社（本社：東京都新宿区、代表取締役社長：清水 廣臣、以下「Mysurance」）は、宿泊施設の公式予約サイトの予約導..."
-  },
-  {
-   "title": "AIが商品を選ぶ時代へ。次世代の商取引に対応した商品情報点検をAXerで提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000089.000035950.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-09-17T08:40:02+09:00",
-   "summary": "[株式会社アイトリガー] 株式会社アイトリガーは、マーケティングAXのソリューション「AXer」に、生成AIのエージェントから読める状態になっているかを基準に商品情報を点検するリソースを追加し、2026年9月より外部提供の受付を開始しま..."
-  },
-  {
-   "title": "新会員プログラム「Soraca」がスタート！",
-   "link": "https://prtimes.jp/main/html/rd/p/000000414.000045236.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T08:40:02+09:00",
-   "summary": "[関西エアポート株式会社] 関西エアポート株式会社は、2026年12月15日（火）より、新会員プログラム「Soraca（ソラカ）」を開始することをお知らせします。 「Soraca」は、関西国際空港・大阪国際空港・神戸空港の関西3空港で共通利用..."
-  },
-  {
-   "title": "リスクマネジメントに対する“自分ごと化”を支援するeラーニング『コンプライアンスイマジン』『情報セキュリティイマジン』英語版を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000019.000127485.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-17T08:10:02+09:00",
-   "summary": "[株式会社NTT HumanEX] 株式会社NTT HumanEX（エヌ・ティ・ティ ヒューマネクス 本社：東京都港区、代表取締役社長：市川 泰吾、以下「当社」）は、アニメーションとケーススタディを通じてコンプライアンスおよび情報セキュリティリス..."
-  },
-  {
-   "title": "ＮＸワンビシアーカイブズ、京都府立大学と特別連携授業「生成AI×歴史学」を開催",
-   "link": "https://prtimes.jp/main/html/rd/p/000000214.000047901.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T08:10:02+09:00",
-   "summary": "[株式会社ＮＸワンビシアーカイブズ] NIPPON EXPRESSホールディングス株式会社のグループ会社でデータ・ソリューション事業を展開している株式会社ＮＸワンビシアーカイブズ（本社：東京都港区 代表取締役社長 高橋 豊）は、京都府立大学文学部との包..."
-  },
-  {
-   "title": "Anthropic、Claudeの「チャット」と「Cowork」を統合　資料作成の「Docs」「Slides」も",
-   "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001565/",
-   "source": "ITmedia NEWS",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T08:05:35+09:00",
-   "summary": "AnthropicがAIアシスタント「Claude」のチャットと作業環境「Claude Cowork」を統合した。簡単な対話から複数手順の複雑な作業までを1つの会話内で完結でき、文書作成「Claude Docs」やスライド作成機能も追加。ProやMax向けから段階的に展開する。"
-  },
-  {
-   "title": "三菱重工、インフラ・防衛向けAIでPFNと資本業務提携　100億円出資し共同開発",
-   "link": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001563/",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-09-17T08:00:00+09:00",
-   "summary": "三菱重工業とPreferred Networksが資本業務提携契約を締結。三菱重工はPFNに100億円を出資し、社会インフラや国家安全保障分野で機械・システムの知能化・自律化に向けたAI技術の共同開発を本格化する。"
-  },
-  {
-   "title": "なぜ「Claude Code」で想定外のコストになるのか？　「トークン浪費」を防ぐポイントまとめ",
-   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news030.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T08:00:00+09:00",
-   "summary": "Anthropicは、「Claude Code」でトークンを効率的に使用し、セッションから最大限の価値を引き出す方法を解説した。"
-  },
-  {
-   "title": "「中国AIがClaudeやGPTから数十億トークン抽出」　米当局が暴いた「知識蒸留」の実態",
-   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news038.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T08:00:00+09:00",
-   "summary": "米国のNSA、CISA、FBIは、中国AI企業が米国のフロンティアモデルから組織的に「知識蒸留」を行っているとして共同勧告を公開した。プロキシ経由で推論機能などを抽出していると指摘し、対抗措置を推奨している。"
-  },
-  {
-   "title": "千代田区、生成AI全庁展開で「年間4000時間」を削減　次の一歩は「打倒・美しい紙の資料」、そのワケは？",
-   "link": "https://www.itmedia.co.jp/business/articles/2609/17/news035.html",
-   "source": "ITmedia ビジネス",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T08:00:00+09:00",
-   "summary": "千代田区は生成AIの全庁展開に着手し、年間で4000時間の業務削減を実現するという成果をあげている。同区のデジタル政策課 デジタル政策係長 岡本翼氏が、自治体における生成AI活用の現状と今後について語った。"
-  },
-  {
-   "title": "「AIを社内データのハブにする」─ 株式会社Emposy、自社を実験台に磨き込んだ専用ERP開発サービス『AI-ERP』を本格展開",
-   "link": "https://prtimes.jp/main/html/rd/p/000000089.000121749.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-17T07:10:02+09:00",
-   "summary": "[株式会社Emposy] [画像1: https://prcdn.freetls.fastly.net/release_image/121749/89/121749-89-5f620f795715524b460979a63b0af872-2186x994.png?width=53…"
-  },
-  {
-   "title": "法人向けAI漫画制作サービス『MOOTOON BIZ』、制作した漫画をSNSショート動画へ展開できる新オプション「漫画ショート動画制作サービス」を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000268.000006034.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-17T07:10:02+09:00",
-   "summary": "[木村情報技術株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/6034/268/6034-268-0c7785e69cacfc81bf1003c9255cdf2c-1920x1280.png?width=536…"
-  },
-  {
-   "title": "New Relic、セキュリティ脆弱性管理ソリューション「Security RX」を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000143.000109343.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-17T07:10:02+09:00",
-   "summary": "[New Relic株式会社] アプリケーション/インフラのライブラリ脆弱性や、クラウド設定のリスクを一元管理 最新の自律型AIとの連携により、脆弱性調査から修正プルリクエスト生成までの自動化を実現 デジタルビジネスにオブザーバビリ..."
-  },
-  {
-   "title": "日本初、ホテル業界特化型「生成AI活用・接客日本語オンラインコース」を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000064.000005763.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-09-17T07:10:02+09:00",
-   "summary": "[EnglishCentral] 動画教材と生成AIを活用した英語学習プラットフォーム「EnglishCentral」を提供する株式会社EnglishCentral Japan (本社：東京都台東区、代表取締役：アラン シュワルツ、以下、イングリッシュセントラル）は、多..."
-  },
-  {
-   "title": "\"研修して終わり\"をなくす。AIが1on1の実践に伴走するマネジメント育成プログラムを、HRインスティテュートと共同で提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000051.000108039.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-17T07:10:02+09:00",
-   "summary": "[株式会社シンギュレイト] [画像1: https://prcdn.freetls.fastly.net/release_image/108039/51/108039-51-6a8e23fada8807c55c966bd181f878f2-1920x1280.png?width=…"
-  },
-  {
-   "title": "屋久島で学ぶ中高生向け原体験スタディツアー「地球と遊ぶ The Circular Microcosm」の提供を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000426.000072120.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-17T07:10:02+09:00",
-   "summary": "[東武トップツアーズ株式会社] 東武トップツアーズ株式会社（本社：東京都墨田区、代表取締役社長：百木田康二）は、リファインホールディングス株式会社（本社：東京都千代田区、社長：川瀬泰人）およびHUB&amp;LABO Yakushima（鹿児島県熊毛..."
-  },
-  {
-   "title": "荷物の「ポイ活」で再配達を減らす、生活者主導の新たな物流インフラ",
-   "link": "https://ascii.jp/elem/000/004/434/4434720/?rss",
-   "source": "ASCII.jp",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-17T07:00:00+09:00",
-   "summary": "株式会社Every WiLLは9月4日、宅配伝票の撮影とアンケート回答により電子ポイントが付与される新サービス「自宅deトリイク」をローンチした。"
-  },
-  {
-   "title": "国産汎用ロボットによるフィジカルAIのデータ収集で7社が競う、試作機を披露",
-   "link": "https://monoist.itmedia.co.jp/mn/articles/2609/17/news053.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T06:45:00+09:00",
-   "summary": "AIRoA（AIロボット協会）は、「フィジカル AI Summit」において、「国産汎用ロボット開発コンペティション」に参加する7社のロボットの試作機を公開した。"
-  },
-  {
-   "title": "【営業・マーケDXPO 福岡'26】シンカワークスが出展｜Claude×キーエンス流データ活用で「資産が残る」営業支援を提案",
-   "link": "https://prtimes.jp/main/html/rd/p/000000004.000188429.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T06:40:02+09:00",
-   "summary": "[株式会社シンカワークス] 株式会社シンカワークス（本社：東京都港区）は、2026年10月22日（木）・23日（金）にマリンメッセ福岡A館で開催される「営業・マーケDXPO 福岡'26」（主催：ブティックス株式会社）に出展します。ブースでは、営..."
-  },
-  {
-   "title": "生成AIを活用して、その場でデジタル教材が作れる！NPO法人eboard、「特別支援の先生のための、はじめてのAIワークショップ」を東京・仙台・宮崎で無料開催",
-   "link": "https://prtimes.jp/main/html/rd/p/000000057.000070582.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T06:40:02+09:00",
-   "summary": "[NPO法人eboard] [画像1: https://prcdn.freetls.fastly.net/release_image/70582/57/70582-57-e88ea8b34e69bf6e0514f3e16e7fc261-1840x900.png?width=536…"
-  },
-  {
-   "title": "SOMPOひまわり生命保険株式会社との業務提携契約を締結しました。",
-   "link": "https://prtimes.jp/main/html/rd/p/000000173.000086366.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-17T06:40:02+09:00",
-   "summary": "[株式会社アンビシャス] [画像1: https://prcdn.freetls.fastly.net/release_image/86366/173/86366-173-e6531167216c3d46c6eef2335f9d9375-1200x630.png?width=53…"
-  },
-  {
-   "title": "ペイジェント、AI不正検知サービスの提供を開始！全自動で売上向上",
-   "link": "https://prtimes.jp/main/html/rd/p/000000020.000005911.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-17T06:40:02+09:00",
-   "summary": "[株式会社ペイジェント] 株式会社ペイジェント（本社：東京都渋谷区、代表取締役社長：鈴木淳一）（以下、ペイジェント）は、不正検知システムベンダーのForter, Inc.（以下、Forter社）と業務提携し、Eコマース加盟店に対してAIを活用し..."
-  },
-  {
-   "title": "TBWA HAKUHODO、元「ホンマでっか!?TV」総合演出の玉野鼓太郎氏と業務提携契約を締結、コンテンツラボ「DISCO」に参画",
-   "link": "https://prtimes.jp/main/html/rd/p/000000265.000034082.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-17T06:10:02+09:00",
-   "summary": "[株式会社TBWA HAKUHODO] 株式会社TBWA HAKUHODO（本社：東京都港区、代表取締役社長兼CEO：内田 渉）は、2026年4月より、企画屋・演出家・プロデューサーとして活動する玉野鼓太郎氏がコンテンツラボ「DISCO」に参画したことをお知らせし..."
-  },
-  {
-   "title": "横浜ゴムとdotData、製造R&Dを支援するAIエージェントの共同開発を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000072.000053039.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T06:10:02+09:00",
-   "summary": "[dotData, Inc.] 横浜ゴム株式会社（本社：神奈川県平塚市、代表取締役会長 兼 CEO：山石昌孝、以下 横浜ゴム）とdotData, Inc.（本社：米国カリフォルニア州、CEO：藤巻遼平、以下 dotData社）は、製造業の研究開発（R&amp;D）に..."
-  },
-  {
-   "title": "Cue’s所属 あやさん【元美容部員】、花西子とTikTok Shop領域での業務提携を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000066.000102167.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-17T06:10:02+09:00",
-   "summary": "[ULTRA SOCIAL株式会社] ULTRA SOCIAL株式会社（本社：東京都港区、代表取締役社長：高橋 亮太、以下当社）は、中国発の美容ブランド「花西子FLORASIS」（以下、花西子）と業務提携を開始したことをお知らせいたします。本提携により、当..."
-  },
-  {
-   "title": "動画制作に特化した新サービス「スゴムビ」を提供開始　戦略設計から動画制作・活用まで一貫して支援",
-   "link": "https://prtimes.jp/main/html/rd/p/000000025.000064133.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-17T06:10:02+09:00",
-   "summary": "[シンクパートナーズ株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/64133/25/64133-25-2fed2dd8566802bb3a2084fb3bb955f1-1922x1076.png?width=…"
-  },
-  {
-   "title": "「HCA-AI技術者検索」サービスの提供を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000020.000075923.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-09-17T06:10:02+09:00",
-   "summary": "[株式会社キューブシステム] 株式会社キューブシステム（本社：東京都品川区、代表取締役 社長執行役員 中西 雅洋）は、人的資本経営支援サービス「H・CUBiC（エイチ・キュービック）」のソリューションとして、生成AIを活用した人的資本分..."
-  },
-  {
-   "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-   "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T06:07:24+09:00",
-   "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but war…"
-  },
-  {
-   "title": "GMOあおぞらネット銀行｢週1で経営陣らセキュリティ会議｣､CISOが明かすシステム内製化にこだわる理由と｢攻守の両立術｣ | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/957301?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "source": "東洋経済オンライン",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T06:00:00+09:00",
-   "summary": "CISOは企業の情報資産を守る要です。生成AIの普及やサイバー攻撃の高度化にどう立ち向かうのか。GMOあおぞらネット銀行でCIO兼CISOを務める金子邦彦氏が語る､スピードと堅牢性の両立とは？"
-  },
-  {
-   "title": "株式会社日本能率協会マネジメントセンター（JMAM）様に「AI検索パートナーズ」を提供開始。AI検索時代を見据え、SEO対策とAI検索対策（AIO/LLMO/GEO）を一体で推進",
-   "link": "https://prtimes.jp/main/html/rd/p/000000166.000118298.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-09-17T05:40:02+09:00",
-   "summary": "[TechSuite株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/118298/166/118298-166-446767fe9c64b36cbe320fee2c583fe7-3900x2925.jpg?wi…"
-  },
-  {
-   "title": "神秘的で雅な「幽玄あやかしタロット」が心奥の情念を映し出し、願いが叶う未来へ導く！唯夏氏が監修する占いコンテンツの提供を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000795.000005725.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-17T05:40:02+09:00",
-   "summary": "[株式会社ザッパラス] ザッパラスグループの株式会社cocoloni（本社：東京都渋谷区、代表取締役：溝上雅俊）は、2026年9月16日（水）より、運営する占いコンテンツポータル『cocoloni占い館 Moon』にて、株式会社コムドアーズ（本社： ..."
-  },
-  {
-   "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-   "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T05:12:00+09:00",
-   "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?"
-  },
-  {
-   "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-   "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T03:25:25+09:00",
-   "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight."
-  },
-  {
-   "title": "Our framework for reporting model misalignment",
-   "link": "https://openai.com/index/model-misalignment-reporting-framework",
-   "source": "OpenAI News",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T02:00:00+09:00",
-   "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning …"
-  },
-  {
-   "title": "Your AI agents can now control your Google Home devices",
-   "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T02:00:00+09:00",
-   "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connect…"
-  },
-  {
-   "title": "Anthropic merges Claude chat and Cowork in one interface",
-   "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T01:30:00+09:00",
-   "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
-  },
-  {
-   "title": "Helping older adults use AI in everyday life",
-   "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-   "source": "OpenAI News",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T01:00:00+09:00",
-   "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safel…"
-  },
-  {
-   "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-   "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-17T00:00:00+09:00",
-   "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunc…"
-  },
-  {
-   "title": "Threads’ new features let podcasters promote shows and reach listeners",
-   "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T23:24:58+09:00",
-   "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and aud…"
-  },
-  {
-   "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-   "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T23:15:00+09:00",
-   "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before Septem…"
-  },
-  {
-   "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-   "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T23:00:00+09:00",
-   "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, o…"
-  },
-  {
-   "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-   "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T22:23:02+09:00",
-   "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet."
-  },
-  {
-   "title": "Reimagining advertising with AI",
-   "link": "https://openai.com/index/reimagining-advertising-with-ai",
-   "source": "OpenAI News",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T22:00:00+09:00",
-   "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot a…"
-  },
-  {
-   "title": "Former Infosys chief’s AI startup nabs another $53M",
-   "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T22:00:00+09:00",
-   "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch."
-  },
-  {
-   "title": "How to connect AI usage to business value",
-   "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-   "source": "OpenAI News",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T21:00:00+09:00",
-   "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to busine…"
-  },
-  {
-   "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-   "link": "https://openai.com/index/hex-gpt-6-astra",
-   "source": "OpenAI News",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T21:00:00+09:00",
-   "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share."
-  },
-  {
-   "title": "Amazon launches Alexa+ in India with Hindi support",
-   "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T19:34:47+09:00",
-   "summary": "Amazon is letting all customers use Alexa+ assistant in early access period."
-  },
-  {
-   "title": "AI動画生成プラットフォーム「AZ8」、日本のクリエイター支援を強化　CPP参加者募集と広告コンテストを開催",
-   "link": "https://ascii.jp/elem/000/004/435/4435551/?rss",
-   "source": "ASCII.jp",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T18:52:53+09:00",
-   "summary": "AI動画生成プラットフォーム「AZ8」、日本のクリエイター支援を強化 CPP参加者募集と広告コンテストを開催"
-  },
-  {
-   "title": "Teclast新製品「T60Mini」、明日9月17日(木)午前9時17分よりAmazonにて正式発売！発売まであと1日、発売記念価格20,900円",
-   "link": "https://ascii.jp/elem/000/004/435/4435552/?rss",
-   "source": "ASCII.jp",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-16T18:40:19+09:00",
-   "summary": "Teclast新製品「T60Mini」、明日9月17日(木)午前9時17分よりAmazonにて正式発売！発売まであと1日、発売記念価格20,900円"
-  },
-  {
-   "title": "How workers are unlocking new ways of working",
-   "link": "https://openai.com/index/unlocking-new-ways-of-working",
-   "source": "OpenAI News",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T18:00:00+09:00",
-   "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work…"
-  },
-  {
-   "title": "日本IBMと琉球銀行が提携--「AI活用元年」として全行的な業務変革を推進",
-   "link": "https://japan.zdnet.com/article/35252698/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T17:51:00+09:00",
-   "summary": "琉球銀行は、日本IBMとAIパートナーシップを結んだと発表した。2026年度を「AI活用元年」と位置付け、AIを前提とした業務プロセス改革や人材育成、地域企業への展開を推進することで、沖縄経済の持続的成長と地域金融の高度化を目指す。"
-  },
-  {
-   "title": "生成AI活用は過半数に達するもルール浸透は15％止まり",
-   "link": "https://japan.zdnet.com/article/35252697/",
-   "source": "ZDNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T17:39:00+09:00",
-   "summary": "アビタス教育総合研究所は、全国の管理職350人を対象に実施した「生成AIの業務利用と管理体制に関する実態調査」の結果を公表した。"
-  },
-  {
-   "title": "ローソン、生成AI発案のスイーツなど本格発売",
-   "link": "https://japan.cnet.com/article/35252695/",
-   "source": "CNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T16:55:00+09:00",
-   "summary": "ローソンは9月16日、生成AIが発案した商品コンセプトをもとに開発したスイーツ、ベーカリー、サラダの3商品を発表した。9月29日から関東・甲信越のローソンで発売する。生成AIを活用した商品は4月に一部地域で実験販売しており、本格的な発売は今回が初めてという。"
-  },
-  {
-   "title": "北海道、データセンター事業者向けの「お願い」表明　AI向けに立地推進の裏で懸念も",
-   "link": "https://www.itmedia.co.jp/aiplus/article/2609/16/2000001552/",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T16:51:29+09:00",
-   "summary": "北海道は「データセンター立地に関する道の考え」を公開。事業者に対して、脱炭素や省エネなどを実現する技術の積極採用や、建設する地域との「共生」を求めている。"
-  },
-  {
-   "title": "りそな、銀行アプリに140万件のクーポン　「りそなプラス」開始",
-   "link": "https://www.watch.impress.co.jp/docs/news/2141457.html",
-   "source": "Impress Watch",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-16T16:37:17+09:00",
-   "summary": "りそなグループの4銀行(りそな銀行、埼玉りそな銀行、関西みらい銀行、みなと銀行)は、16日19時から「りそなグループ」アプリにおける新サービス「りそなプラス」をスタートする。第1弾として、口座を持つ全ユーザーを対象にクーポン機能が提供される。"
-  },
-  {
-   "title": "MetaのザッカーバーグCEO、AIの協調減速論に「各社が自ら動けばいい」",
-   "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001540/",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T13:59:40+09:00",
-   "summary": "MetaのザッカーバーグCEOは、AIの安全性向上について各社が自らの責任とペースで個別に取り組むべきだとの立場を表明した。業界全体の足並みを揃える協調論とは距離を置き、適切なアライメントの確保や外部評価者の導入は市場競争や法的責任を通じて自然に進むとし、権力の分散こそが安全の基…"
-  },
-  {
-   "title": "動画配信サービスに新規参入、10月に「JustWatch TV」提供開始へ",
-   "link": "https://japan.cnet.com/article/35252678/",
-   "source": "CNET Japan",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-16T13:52:00+09:00",
-   "summary": "映画やテレビ番組、スポーツイベントの配信をどこで視聴できるかを案内するJustWatchが、新たな動画配信サービスを立ち上げる。"
-  },
-  {
-   "title": "GMOの“有料AIでも東大生なら無料”、なぜ？　同社の回答は",
-   "link": "https://www.itmedia.co.jp/aiplus/article/2609/15/2000001473/",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T13:50:55+09:00",
-   "summary": "GMOインターネットグループのGMO天秤AIは、東京大学発行のメールアドレスを持つ学生にAIを無料提供すると発表。なぜ提供先として東京大学を選んだのか。同社に取材した。"
-  },
-  {
-   "title": "駅周辺の駐車料金を地図上で比較できる「駐車場料金相場マップ」　ナビタイム",
-   "link": "https://www.watch.impress.co.jp/docs/news/2141376.html",
-   "source": "Impress Watch",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-16T13:35:22+09:00",
-   "summary": "ナビタイムジャパンは、カーナビアプリ「NAVITIMEドライブサポーター」で、駅周辺の駐車場料金の相場を地図上で確認できる「駐車場料金相場マップ」の提供を開始した。利用は無料。"
-  },
-  {
-   "title": "Gemini Notebook、音声で”対話”可能に　録音機能も",
-   "link": "https://www.watch.impress.co.jp/docs/news/2141334.html",
-   "source": "Impress Watch",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-09-16T12:45:25+09:00",
-   "summary": "Googleは15日(米国時間)、「Gemini Notebook」の新機能を発表した。リアルタイムの音声会話や録音、インタラクティブなレポート作成などに順次対応する。"
-  },
-  {
-   "title": "グーグル、新ライブ対話モデル「Gemini 3.8 Live」 推論強化の上位版も",
-   "link": "https://www.watch.impress.co.jp/docs/news/2141266.html",
-   "source": "Impress Watch",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T12:16:23+09:00",
-   "summary": "Googleは15日(米国時間)、最新のライブ対話モデルとなる「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」を発表した。音声だけでなくビジュアルを含めた対話が可能となるほか、Extended Thinkingでは、ほぼリ…"
-  },
-  {
-   "title": "記事のライセンス料は「誤差の範囲」、OpenAIとの訴訟めぐりメディア側が反論",
-   "link": "https://japan.cnet.com/article/35252673/",
-   "source": "CNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T12:03:00+09:00",
-   "summary": "報道機関が「ChatGPT」の開発元であるOpenAIを相手取り起こした一連の著作権侵害訴訟が、新たな局面を迎えようとしている。"
-  },
-  {
-   "title": "Meta、InstagramやFacebook横断の新サブスク「Meta One」発表　AI枠拡大で月額949円から",
-   "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001529/",
-   "source": "ITmedia NEWS",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-16T11:24:39+09:00",
-   "summary": "Metaがサブスク「Meta One」を提供開始した。InstagramやFacebook、WhatsAppを横断し、AI利用枠の拡大や表現機能、ビジネスツールなど50以上の機能を用意。日本でも展開し、バンドルプランは月額949円から。認証バッジを含む事業者向け機能も揃える。"
-  },
-  {
-   "title": "グーグル、「Pixel」新機能を配信開始　親しい相手へワンタップ発信　詐欺警告も強化",
-   "link": "https://japan.cnet.com/article/35252667/",
-   "source": "CNET Japan",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-09-16T11:02:00+09:00",
-   "summary": "グーグルは「Pixel」ユーザー向けに、よくやり取りする相手へすばやく連絡できる機能や、詐欺メッセージ対策の新たな警告機能を提供する。"
-  },
-  {
-   "title": "ウェザーニューズが「社外AIは漏えいが怖い」を“独自AI”で解決　社員8割が使うその中身とは",
-   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news030.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T11:00:00+09:00",
-   "summary": "情報漏えいのリスクを抑えつつ、実務に組み込みやすいAIを求めて、ウェザーニューズは自社開発に乗り出した。全社員の8割以上が使うという“独自AI”の実態とは。"
-  },
-  {
-   "title": "Google、会話を止めずに裏でタスクを実行する音声モデル「Gemini 3.8 Live」公開　推論強化の上位版も",
-   "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001524/",
-   "source": "ITmedia NEWS",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-09-16T10:16:42+09:00",
-   "summary": "Googleが音声対話向け新モデル「Gemini 3.8 Live」と多段階推論を強化した「Gemini 3.8 Live Extended Thinking」を提供開始した。会話を止めずにツール実行や推論を進められる点が特長で、一般向け機能やWorkspace、API経由で展開…"
-  },
-  {
-   "title": "社内のAIはどこで動かす？　日本HPの実践者に聞く、クラウドとローカルの使い分け",
-   "link": "https://www.itmedia.co.jp/aiplus/article/2609/16/2000001383/",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-09-16T10:15:39+09:00",
-   "summary": "生成AIを試した企業が、次に向き合うのは業務への活用をどう広げるかという課題だ。社外に出せないデータを扱いたい。部門で繰り返す処理を自動化したい。利用料金や接続環境を気にせず使いたい。用途が具体的になるほど、モデルの能力に加えて「どこで動かすか」が導入の判断に関わってくる。日本H…"
   }
  ]
 }
