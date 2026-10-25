@@ -1,7 +1,161 @@
 {
- "generated_at": "2026-10-24T09:15:35.293359+09:00",
+ "generated_at": "2026-10-25T09:00:11.757960+09:00",
  "days_kept": 14,
  "articles": [
+  {
+   "title": "デルタ航空、アジア太平洋路線で無料Wi-Fiサービスの提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000523.000003358.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-25T08:10:02+09:00",
+   "summary": "[デルタ航空] デルタ航空ではこのほど、日米路線を含むすべての太平洋路線で、T-Mobile提供の無料Wi-Fiの提供を開始しました。これによりデルタ航空は、6大陸をつなぐすべての国際線で、無料Wi-Fiサービスを提供する唯一の米国..."
+  },
+  {
+   "title": "Webサイトからの情報漏えいにつながる「外部通信」を検知する「GOOSEC」、月額2,980円のLiteプランとWordPress向け無料プラグインを提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000001.000140012.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-25T07:10:02+09:00",
+   "summary": "[GIV株式会社] GIV株式会社（本社：埼玉県川越市、代表取締役：飯島 啓仁）は、Webサイトからの情報漏えいにつながる外部通信を検知するセキュリティ監視サービス「GOOSEC（グーセック）」について、月額2,980円（税抜）の「Lit..."
+  },
+  {
+   "title": "Petraf合同会社、Omoinomamaniと提携。企業・自治体向け産育休研修の提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000002.000190858.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-25T07:10:02+09:00",
+   "summary": "[Petraf合同会社] ペトラフグループのPetraf合同会社は、Omoinomamani（おもいのままに、代表・小坂尚子氏）と提携し、企業・自治体向けの産前産後休業・育児休業（以下、産育休）に関する研修プログラムの提供を開始します。 本提..."
+  },
+  {
+   "title": "【法人向けAI研修　満員御礼を6ヶ月連続で達成】（x3d株式会社「社長のための実践AIエージェント講座（中級編）」10月19日を開催。経営者がAIエージェント操作を経験する5時間に。",
+   "link": "https://prtimes.jp/main/html/rd/p/000000048.000114743.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-25T07:10:02+09:00",
+   "summary": "[x3d株式会社] x3d株式会社（東京都港区、代表取締役：武石幸之助）の武石が講師を務める「社長のための実践AIエージェント講座（中級編）」が、日本経営合理化協会（JMCA）主催にて2026年10月19日に満席で開催されました。 [..."
+  },
+  {
+   "title": "Magic Moment、営業情報をClaude・ChatGPTから参照できるMCPサーバーを提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000060.000072978.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-10-25T07:10:02+09:00",
+   "summary": "[株式会社Magic Moment] 株式会社Magic Moment（本社：東京都港区、代表取締役CEO：村尾祐弥、以下「当社」）は、AIセールスプラットフォーム「Magic Moment Playbook」において、MCP（Model Context Protocol）サーバ…"
+  },
+  {
+   "title": "SOKUDAN代表の田根が広島県主催 生成AI共有会「生成AI、結局どこに使える？」に登壇します",
+   "link": "https://prtimes.jp/main/html/rd/p/000000229.000045678.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-25T07:10:02+09:00",
+   "summary": "[CAMELORS株式会社] 即戦力のフリーランス・副業人材と企業をつなぐマッチングサービス「SOKUDAN（ソクダン）(https://business.sokudan.work/)」を運営するCAMELORS株式会社(https://www.camelors.com/)（本社…"
+  },
+  {
+   "title": "EVを買い替えずに航続距離延長、大容量電池に交換する新サービス　中国メーカー",
+   "link": "https://japan.cnet.com/article/35253924/",
+   "source": "CNET Japan",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-25T06:35:00+09:00",
+   "summary": "中国の小型電気自動車（EV）ブランドfireflyは10月23日、既存オーナーも車両を買い替えずに利用できる60kWhの大容量電池を発表した。この電池を搭載した場合の航続距離は、中国の試験基準CLTCで560kmとなる。"
+  },
+  {
+   "title": "中国のネット大手が｢AI医師｣サービスに続々参入　アント､京東､バイトダンス…ビジネスモデルはまだ手探り | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962057?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "source": "東洋経済オンライン",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-25T06:00:00+09:00",
+   "summary": "中国のネットサービス大手が｢AI医師｣サービスに続々参入しています。名医の診療経験をAIに学習させて\"デジタル分身\"を作成し､一般患者向けの健康相談や医療従事者向けサポートを24時間提供。しかしビジ…"
+  },
+  {
+   "title": "セルフプラス、脱WordPress移行代行の「CMS付きプラン」を10月22日に提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000061.000078669.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-25T04:40:02+09:00",
+   "summary": "[株式会社セルフプラス] [画像: https://prcdn.freetls.fastly.net/release_image/78669/61/78669-61-8d2daec9a36dac75317c3725d59fd529-1731x909.png?width=536&a…"
+  },
+  {
+   "title": "自社AIブランド「NovaSta(R)」を強化、AI活用の構想から開発・運用、AIエージェントまで一気通貫で支援",
+   "link": "https://prtimes.jp/main/html/rd/p/000000033.000080710.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-10-25T04:40:02+09:00",
+   "summary": "[NSK] 日本ソフトウエア株式会社（本社：東京都千代田区、代表取締役社長：矢島 博）は、2025年4月より提供を開始している自社AIブランド「NovaSta(R)（ノバスタ）」のサービス体系を強化し、新たな5つのサービス体系で..."
+  },
+  {
+   "title": "『HelloBoss』、日本初*の仕事探しに特化したパーソナルAIエージェントのβ版を無料提供開始！音声でヒアリングを行い、70万件超の求人提案から応募準備までAIが伴走",
+   "link": "https://prtimes.jp/main/html/rd/p/000000053.000083628.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-10-25T04:40:02+09:00",
+   "summary": "[株式会社NGA] [画像1: https://prcdn.freetls.fastly.net/release_image/83628/53/83628-53-60b3d785aaa52167f1726f3befc51893-1920x1080.png?width=536&am…"
+  },
+  {
+   "title": "「DeepSeek V4.1 Flash 1017」を国内初提供※、プロンプトを保存しない円建てOpenAI互換API「HAI」",
+   "link": "https://prtimes.jp/main/html/rd/p/000000006.000109179.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-25T04:40:02+09:00",
+   "summary": "[合同会社 HCloud] [画像: https://prcdn.freetls.fastly.net/release_image/109179/6/109179-6-a490ca525c294b2f16b9ade1588f1622-1200x630.png?width=536&…"
+  },
+  {
+   "title": "AIと品質保証に精通したエンジニアが導入・定着を伴走支援、テスト設計エージェント「TESTRA」を正式提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000114.000048768.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-10-25T04:10:02+09:00",
+   "summary": "[株式会社ベリサーブ] ソフトウェアの品質向上支援サービスを提供する株式会社ベリサーブ（本社：東京都千代田区、代表取締役社長：鴫原 忠大、以下 ベリサーブ）は、生成AIと当社が培ってきたソフトウェア品質保証の知見を融合したテ..."
+  },
+  {
+   "title": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000468.000024873.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-25T04:10:02+09:00",
+   "summary": "[株式会社スリーシェイク] [画像1: https://prcdn.freetls.fastly.net/release_image/24873/468/24873-468-a9382d6966e43aff3d14e0abffafcd0f-750x395.png?width=53…"
+  },
+  {
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-25T04:00:00+09:00",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expe…"
+  },
   {
    "title": "リーガルテックVDR、競争入札型M&A向け「買手候補別開示管理テンプレート」を提供開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000547.000042056.html",
@@ -9,8 +163,108 @@
    "genres": [
     "biz"
    ],
-   "published": "2026-10-24T09:10:03+09:00",
+   "published": "2026-10-25T03:10:02+09:00",
    "summary": "[リーガルテック株式会社] リーガルテック株式会社（本社：東京都、代表取締役CEO：平井智之）は、複数の買手候補が参加する競争入札型のM&amp;Aプロセスに対応した「買手候補別開示管理テンプレート」の提供を開始します。 [画像: https:/..."
+  },
+  {
+   "title": "「支援したいのに、支援できない」を変える。SINCEED株式会社、非営利団体向け「Google Ad Grants導入・運用支援」を本格展開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000009.000133889.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-25T03:10:02+09:00",
+   "summary": "[SINCEED株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/133889/9/133889-9-185485489fcd4d2d606c041578f4158b-1920x1280.png?width=53…"
+  },
+  {
+   "title": "55工程の可視化から始めた、Geminiによる採用業務改革～採用の質を落とさず業務を効率化するために、AIと協働して面接業務工数を50％削減。サイバーセキュリティクラウドの実践プロセス～",
+   "link": "https://prtimes.jp/main/html/rd/p/000000358.000053307.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-25T03:10:02+09:00",
+   "summary": "[株式会社overflow] [画像1: https://prcdn.freetls.fastly.net/release_image/53307/358/53307-358-d49fc112aa31badbd7c5319d1fc3f75a-1200x630.png?width=…"
+  },
+  {
+   "title": "GPTは公式サイト、Geminiは比較サイトを引用。StoryHub、527ブランド・2万件超のAI回答を分析した「AIO分析レポート vol.1」を無料登録特典として提供",
+   "link": "https://prtimes.jp/main/html/rd/p/000000066.000133529.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-25T03:10:02+09:00",
+   "summary": "[StoryHub株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/133529/66/133529-66-18d34feb3c01111e0fa7e04ba50496f0-2880x1320.png?width…"
+  },
+  {
+   "title": "SHIFT PLUS、コンタクトセンター向けAIサービス「AICO」の機能を強化～既存システムとの連携に対応し、業務に応じた段階的な導入を支援～",
+   "link": "https://prtimes.jp/main/html/rd/p/000000045.000021487.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-25T03:10:02+09:00",
+   "summary": "[株式会社SHIFT PLUS] [画像: https://prcdn.freetls.fastly.net/release_image/21487/45/21487-45-ae5b563ebbdc3cd9dd113d954e9d6dfb-3900x2048.png?width=…"
+  },
+  {
+   "title": "Block’s new voice model sounds eerily human",
+   "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-25T01:00:00+09:00",
+   "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+  },
+  {
+   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-25T00:00:00+09:00",
+   "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disa…"
+  },
+  {
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-24T23:00:00+09:00",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families…"
+  },
+  {
+   "title": "【Event Report】北九州から宇宙へ。「宇宙実績ゼロ」でも、ものづくり企業には参入の可能性がある",
+   "link": "https://ascii.jp/elem/000/004/445/4445480/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-24T13:10:08+09:00",
+   "summary": "【Event Report】北九州から宇宙へ。「宇宙実績ゼロ」でも、ものづくり企業には参入の可能性がある"
+  },
+  {
+   "title": "ゴムマリの専門業務AI-BPO、『マスタ移行 for SAP S/4HANA(R)』を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000038.000185093.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-24T11:15:19+09:00",
+   "summary": "[ゴムマリ] ゴムマリ株式会社（東京都、代表取締役: 村山悠太）は、AIが処理し人が確かめて成果物を納める「専門業務AI-BPO」のメニューとして、「マスタ移行 for SAP S/4HANA(R)」の提供を2026年10月24日より開始します。SA..."
+  },
+  {
+   "title": "ゴムマリの専門業務AI-BPO、『マスタ移行 for SAP S/4HANA(R)』を提供開始",
+   "link": "https://ascii.jp/elem/000/004/445/4445469/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-24T10:00:00+09:00",
+   "summary": "ゴムマリの専門業務AI-BPO、『マスタ移行 for SAP S/4HANA(R)』を提供開始"
   },
   {
    "title": "「週1～2日リモート」の人は仕事・人生への満足度が最も高い結果に。仕事と人生の満足度が連動する傾向も明らかに／『女の転職type』が「働く女性白書2026」を発表",
@@ -31,46 +285,6 @@
    ],
    "published": "2026-10-24T09:10:03+09:00",
    "summary": "[カンパニーファクトリー株式会社] 名刺をまとめて郵送するだけで、スキャン・データ化を依頼できる、名刺スキャン代行サービス『名刺データバンク』（https://meishidata.jp/）の提供を正式リリースしました。 [画像: https://prcdn.freetls.fa…"
-  },
-  {
-   "title": "「支援したいのに、支援できない」を変える。SINCEED株式会社、非営利団体向け「Google Ad Grants導入・運用支援」を本格展開",
-   "link": "https://prtimes.jp/main/html/rd/p/000000009.000133889.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-24T09:10:03+09:00",
-   "summary": "[SINCEED株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/133889/9/133889-9-185485489fcd4d2d606c041578f4158b-1920x1280.png?width=53…"
-  },
-  {
-   "title": "55工程の可視化から始めた、Geminiによる採用業務改革～採用の質を落とさず業務を効率化するために、AIと協働して面接業務工数を50％削減。サイバーセキュリティクラウドの実践プロセス～",
-   "link": "https://prtimes.jp/main/html/rd/p/000000358.000053307.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-24T09:10:03+09:00",
-   "summary": "[株式会社overflow] [画像1: https://prcdn.freetls.fastly.net/release_image/53307/358/53307-358-d49fc112aa31badbd7c5319d1fc3f75a-1200x630.png?width=…"
-  },
-  {
-   "title": "GPTは公式サイト、Geminiは比較サイトを引用。StoryHub、527ブランド・2万件超のAI回答を分析した「AIO分析レポート vol.1」を無料登録特典として提供",
-   "link": "https://prtimes.jp/main/html/rd/p/000000066.000133529.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-24T09:10:03+09:00",
-   "summary": "[StoryHub株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/133529/66/133529-66-18d34feb3c01111e0fa7e04ba50496f0-2880x1320.png?width…"
-  },
-  {
-   "title": "SHIFT PLUS、コンタクトセンター向けAIサービス「AICO」の機能を強化～既存システムとの連携に対応し、業務に応じた段階的な導入を支援～",
-   "link": "https://prtimes.jp/main/html/rd/p/000000045.000021487.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-24T09:10:03+09:00",
-   "summary": "[株式会社SHIFT PLUS] [画像: https://prcdn.freetls.fastly.net/release_image/21487/45/21487-45-ae5b563ebbdc3cd9dd113d954e9d6dfb-3900x2048.png?width=…"
   },
   {
    "title": "Spotify、「低品質なAI楽曲」への対策　5千万曲をおすすめから排除",
@@ -123,16 +337,6 @@
    "summary": "[グラファナラボ日本合同会社] サンフランシスコ - 2026年10月20日（米国時間） - オープンスタンダードに準拠し、AIエージェント型クラウドオブザーバビリティを提供するGrafana Labsは、ObservabilityCON 2026(https://grafana…"
   },
   {
-   "title": "デルタ航空、アジア太平洋路線で無料Wi-Fiサービスの提供を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000523.000003358.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-24T08:10:02+09:00",
-   "summary": "[デルタ航空] デルタ航空ではこのほど、日米路線を含むすべての太平洋路線で、T-Mobile提供の無料Wi-Fiの提供を開始しました。これによりデルタ航空は、6大陸をつなぐすべての国際線で、無料Wi-Fiサービスを提供する唯一の米国..."
-  },
-  {
    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
    "source": "TechCrunch AI",
@@ -163,55 +367,14 @@
    "summary": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確…"
   },
   {
-   "title": "Webサイトからの情報漏えいにつながる「外部通信」を検知する「GOOSEC」、月額2,980円のLiteプランとWordPress向け無料プラグインを提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000001.000140012.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-24T07:10:02+09:00",
-   "summary": "[GIV株式会社] GIV株式会社（本社：埼玉県川越市、代表取締役：飯島 啓仁）は、Webサイトからの情報漏えいにつながる外部通信を検知するセキュリティ監視サービス「GOOSEC（グーセック）」について、月額2,980円（税抜）の「Lit..."
-  },
-  {
-   "title": "Petraf合同会社、Omoinomamaniと提携。企業・自治体向け産育休研修の提供を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000002.000190858.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-24T07:10:02+09:00",
-   "summary": "[Petraf合同会社] ペトラフグループのPetraf合同会社は、Omoinomamani（おもいのままに、代表・小坂尚子氏）と提携し、企業・自治体向けの産前産後休業・育児休業（以下、産育休）に関する研修プログラムの提供を開始します。 本提..."
-  },
-  {
-   "title": "【法人向けAI研修　満員御礼を6ヶ月連続で達成】（x3d株式会社「社長のための実践AIエージェント講座（中級編）」10月19日を開催。経営者がAIエージェント操作を経験する5時間に。",
-   "link": "https://prtimes.jp/main/html/rd/p/000000048.000114743.html",
-   "source": "PR TIMES",
+   "title": "OpenAI、先端モデル訓練でネット接続を禁止　広大な「オフラインの世界」を構築",
+   "link": "https://japan.cnet.com/article/35253920/",
+   "source": "CNET Japan",
    "genres": [
     "ai"
    ],
-   "published": "2026-10-24T07:10:02+09:00",
-   "summary": "[x3d株式会社] x3d株式会社（東京都港区、代表取締役：武石幸之助）の武石が講師を務める「社長のための実践AIエージェント講座（中級編）」が、日本経営合理化協会（JMCA）主催にて2026年10月19日に満席で開催されました。 [..."
-  },
-  {
-   "title": "Magic Moment、営業情報をClaude・ChatGPTから参照できるMCPサーバーを提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000060.000072978.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-10-24T07:10:02+09:00",
-   "summary": "[株式会社Magic Moment] 株式会社Magic Moment（本社：東京都港区、代表取締役CEO：村尾祐弥、以下「当社」）は、AIセールスプラットフォーム「Magic Moment Playbook」において、MCP（Model Context Protocol）サーバ…"
-  },
-  {
-   "title": "SOKUDAN代表の田根が広島県主催 生成AI共有会「生成AI、結局どこに使える？」に登壇します",
-   "link": "https://prtimes.jp/main/html/rd/p/000000229.000045678.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-24T07:10:02+09:00",
-   "summary": "[CAMELORS株式会社] 即戦力のフリーランス・副業人材と企業をつなぐマッチングサービス「SOKUDAN（ソクダン）(https://business.sokudan.work/)」を運営するCAMELORS株式会社(https://www.camelors.com/)（本社…"
+   "published": "2026-10-24T07:05:00+09:00",
+   "summary": "OpenAIは10月23日、開発中の最先端AIの訓練で、モデルをインターネットに接続させない方針を導入したと発表した。ウェブの検索や閲覧は、あらかじめ保存したコンテンツを使う環境で学習させる。"
   },
   {
    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -7218,167 +7381,6 @@
    ],
    "published": "2026-10-11T11:30:00+09:00",
    "summary": "生成AIの進化と共に､AIサーバー向けメモリー不足が深刻化しています。半導体メモリー大手マイクロンの決算説明会では､何が語られたのでしょうか。"
-  },
-  {
-   "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-   "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-11T06:47:51+09:00",
-   "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
-  },
-  {
-   "title": "AIで増えたシステムを、AIで束ねる。構成管理プラットフォーム「IceShore」の提供を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000001.000191745.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-11T06:40:02+09:00",
-   "summary": "[株式会社ラウンチャーズ] [画像1: https://prcdn.freetls.fastly.net/release_image/191745/1/191745-1-3af9bf500d42a458a200c6946269e9ae-3900x2559.png?width=53…"
-  },
-  {
-   "title": "ポテント株式会社、5万円の買い切り（月額0円）で、原稿づくりから公開まで対応。ホームページ制作サービス「ピタツク Web」提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000001.000192142.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-11T06:40:02+09:00",
-   "summary": "[ポテント株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/192142/1/192142-1-9a85053d10da0786f4c185c05dfa6cda-1600x900.png?width=536&am…"
-  },
-  {
-   "title": "【業務提携のご案内】日本プロ野球選手会×アガルートアカデミー",
-   "link": "https://prtimes.jp/main/html/rd/p/000001012.000017546.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-11T05:40:02+09:00",
-   "summary": "[株式会社アガルート] 日本プロ野球選手会×アガルートアカデミー 選手・OBのセカンドキャリア支援で提携 [画像1: https://prcdn.freetls.fastly.net/release_image/17546/1012/17546-1012-a7c7735989d5…"
-  },
-  {
-   "title": "AI Hack提供のAIO分析ツール「AI Hack」が最新AIモデル「GPT-6 Sol」「GPT-6 Luna」「Claude Opus 5.5」に対応",
-   "link": "https://prtimes.jp/main/html/rd/p/000000051.000149337.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-11T05:40:02+09:00",
-   "summary": "[株式会社AI Hack] 株式会社AI Hack（本社：東京都港区、代表取締役：中道大輔、以下AI Hack）は、この度、AIO（AI Optimization）分析ツール「AI Hack」において、OpenAI社の最新モデル「GPT-6 Sol」「GPT-6 Luna」とAn…"
-  },
-  {
-   "title": "QQEnglish、「ニッポン新事業創出大賞」グローバル部門 特別賞（JNB会長賞）を受賞",
-   "link": "https://prtimes.jp/main/html/rd/p/000000370.000016874.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-11T05:10:02+09:00",
-   "summary": "[株式会社QQ English] オンライン英会話とセブ島留学を運営する株式会社QQ English(本社: 東京都新宿区、代表取締役: 藤岡頼光、以下QQEnglish)は、公益社団法人日本ニュービジネス協議会連合会（JNB）および一般社団法人東京ニュービ..."
-  },
-  {
-   "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-   "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-11T04:50:00+09:00",
-   "summary": "Is Apple hoping to get into the AI-generated podcast business?"
-  },
-  {
-   "title": "専門家の目をAIエージェントで再現。画像解析AIエージェント基盤「Plugbot」、10月6日より導入検証プログラムを受付開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000012.000185505.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-11T03:10:02+09:00",
-   "summary": "[株式会社サムテック] [画像1: https://prcdn.freetls.fastly.net/release_image/185505/12/185505-12-313b65dfe5903329eb397934325fbc19-1920x911.png?width=536…"
-  },
-  {
-   "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-   "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-11T00:00:00+09:00",
-   "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. P…"
-  },
-  {
-   "title": "Here are the top AI agents that can live in your text messages",
-   "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-10T23:00:00+09:00",
-   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families…"
-  },
-  {
-   "title": "freee株式会社、「Headless Form/Headless Analytics」を利用開始。AIエージェントとの対話によるフォーム運用で、マーケティング業務の効率化とコンテンツ拡充を推進",
-   "link": "https://prtimes.jp/main/html/rd/p/000000197.000014710.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-10T22:10:03+09:00",
-   "summary": "[ナインアウト株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/14710/197/14710-197-bd49003d418ede7731bd4522dd889a8e-1200x630.png?width=536…"
-  },
-  {
-   "title": "【Ottocast新製品】処理性能・冷却性能が進化！クルマを動画・音楽のエンタメ空間に変える「Play2Video X」が登場",
-   "link": "https://prtimes.jp/main/html/rd/p/000000007.000175940.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-10T17:40:15+09:00",
-   "summary": "[Ottocast株式会社] 車載エレクトロニクスブランド「Ottocast（オットキャスト）」を展開するOttocast株式会社（所在地：東京都）は、車内で動画や音楽を楽しめる新型アダプター「Play2Video X」を、公式オンラインストア限定モデル..."
-  },
-  {
-   "title": "【Ottocast新製品】進化した放熱設計で長時間でも安定したワイヤレス接続へ。新型アダプター「U2Air Edge」が登場",
-   "link": "https://prtimes.jp/main/html/rd/p/000000006.000175940.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-10T17:39:26+09:00",
-   "summary": "[Ottocast株式会社] 車載エレクトロニクスブランド「Ottocast（オットキャスト）」を展開するOttocast株式会社（所在地：東京都）は、高速接続と安定性を追求した新型ワイヤレスアダプター「U2Air Edge」を、公式オンラインストア限..."
-  },
-  {
-   "title": "FastMetal、Anthropic社の最新小型モデル「Claude Haiku 5.5」を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000014.000190886.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-10-10T10:10:02+09:00",
-   "summary": "[株式会社国際調達情報] 株式会社国際調達情報（本社：東京都千代田区、代表取締役：ダーシャン・ナドー、以下「当社」）は、当社が運営するAIゲートウェイ「FastMetal（ファストメタル）」において、Anthropic社が開発した大規模言語モ..."
-  },
-  {
-   "title": "eスポーツチーム「REJECT」Shadowverse部門 ぱらちゃん、RAGE決勝大会に進出　REJECT HUBでパブリックビューイングを開催",
-   "link": "https://prtimes.jp/main/html/rd/p/000000667.000050979.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-10T09:40:37+09:00",
-   "summary": "[株式会社REJECT] [画像1: https://prcdn.freetls.fastly.net/release_image/50979/667/50979-667-9685d15c87d79047ccd7b8480a92c7d7-1920x1080.png?width=5…"
-  },
-  {
-   "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
-   "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-10T09:18:32+09:00",
-   "summary": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, …"
   }
  ]
 }
