@@ -1,7 +1,452 @@
 {
- "generated_at": "2026-10-31T10:25:24.580112+09:00",
+ "generated_at": "2026-11-01T09:41:34.296424+09:00",
  "days_kept": 14,
  "articles": [
+  {
+   "title": "【那覇商工会議所】人手不足を乗り越える！生成AIと多様な人材活用セミナーを12/17(初級編)・1/19(中級編)に開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000000038.000178799.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T09:10:02+09:00",
+   "summary": "[那覇商工会議所] 沖縄県商工労働部 雇用政策課（共催：那覇商工会議所 卸売部会・沖縄間税会連合会）は、中小企業振興会館にて企業向けセミナー「生成AIと多様な人材活用」を開催いたします。 「生成AIって難しそう」「自社の仕..."
+  },
+  {
+   "title": "印象が強い円形筐体を持つスピーカー「Beosoud A9」をフィーチャーした展示会に潜入",
+   "link": "https://ascii.jp/elem/000/004/447/4447547/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T09:00:00+09:00",
+   "summary": "Beosoud A9 Sienna Brownを中心に据えつつ、ギャラリー形式の新製品展示会「Rediscover Beosound A9」が、東京・広尾で10月27日に開催された。Beosound A9をキャンバスに見立てたアートプロジェクト「Art of the A9」の成果…"
+  },
+  {
+   "title": "AI学習の可否をrobots.txtで指定 Google、MS、OpenAIらが共通仕様を27年導入",
+   "link": "https://www.watch.impress.co.jp/docs/news/2152852.html",
+   "source": "Impress Watch",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T09:00:00+09:00",
+   "summary": "OpenAIやGoogle、Microsoft、Anthropicは、Webサイトの運営者がrobots.txtを使って、AIの学習可否などを指定可能にする共通仕様の策定を進めると発表した。2027年の導入を目指す。"
+  },
+  {
+   "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+   "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+   "source": "ITmedia NEWS",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T08:31:07+09:00",
+   "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のA…"
+  },
+  {
+   "title": "『非IT企業』×生成AIの新市場をつくる経営人材へ。株式会社Stock、COO公募プロジェクトを始動",
+   "link": "https://prtimes.jp/main/html/rd/p/000000074.000011768.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T08:10:02+09:00",
+   "summary": "[株式会社Stock] [画像1: https://prcdn.freetls.fastly.net/release_image/11768/74/11768-74-7c8880966c70490a9191140b74305a6a-960x585.png?width=536&am…"
+  },
+  {
+   "title": "Claude、月額200ドルの「Ultra」で5時間制限撤廃　週間上限は維持",
+   "link": "https://japan.cnet.com/article/35254252/",
+   "source": "CNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T08:10:00+09:00",
+   "summary": "米Anthropicは米国時間10月30日、生成AI「Claude」の月額200ドルプラン「Max 20x」を「Ultra」に改称し、認証済みアカウントの5時間ごとの利用量制限を撤廃すると発表した。同日から既存契約者の大半を対象に適用を始めた。1週間単位の利用上限は維持する。"
+  },
+  {
+   "title": "【Claude Code / Codexユーザー歓迎】人事の「こんなツールがあったら」を目の前でつくる夜～Ubie×Offersと、持ち寄った\"欲しい\"を形にするモック大会～｜11/16（月）開催",
+   "link": "https://prtimes.jp/main/html/rd/p/000000360.000053307.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[株式会社overflow] 参加者が持ち寄った人事・採用の「こんなツールがあったら」を、Ubie橋山氏とoverflowの鈴木・大谷がClaude Code / Codexでその場でモックにする参加型イベントを、2026年11月16日に東京・渋谷で開催。 [画像1: h..."
+  },
+  {
+   "title": "NEWh、生成AI時代の事業構想・推進人材を育成する「事業構想ブートキャンプ」を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000045.000078441.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[NEWh] 株式会社NEWh（本社：東京都千代田区、代表取締役社長：神谷 憲司、以下「NEWh」）は、生成AI時代の事業構想・推進人材を育成する実践型メンタリング研修「事業構想ブートキャンプ」の提供を開始しました。 事業..."
+  },
+  {
+   "title": "AIのためのデータ実行・運用基盤「Reckoner」、SAP S/4HANA(R)のデータ連携・活用に特化した「Reckoner SAP Edition」を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000474.000024873.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[株式会社スリーシェイク] [画像1: https://prcdn.freetls.fastly.net/release_image/24873/474/24873-474-3a299f8f2f969c65268c4d81f08824e4-1200x630.png?width=5…"
+  },
+  {
+   "title": "メディアリンク、通話データで\"電話そのもの\"を減らすPBX「MediaCalls」の最新機能を「コールセンター/CRM デモ＆コンファレンス 2026 in 東京」で初公開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000230.000072025.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[メディアリンク株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/72025/230/72025-230-4e3249fb8e5aea1e25f4ce09e9c5c01d-1600x900.jpg?width=5…"
+  },
+  {
+   "title": "シナモンAI、企業ナレッジ基盤「Super RAG(TM)」を機能強化　初期導入費用70万円(税別) からの「Starterプラン」を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000132.000028252.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[シナモンAI] 国内の大手企業へAI（人工知能）ソリューションを提供する株式会社シナモン（本社：東京都千代田区、代表取締役社長CEO：平野未来 以下「シナモンAI」）は、大量・複雑な社内ドキュメントをAIが参照できるナレ..."
+  },
+  {
+   "title": "LINEヤフーコミュニケーションズ、生成AI前提の運営モデルへ転換。生成AI・自動化と業務改善により、年36万時間相当の業務拡大に対応",
+   "link": "https://prtimes.jp/main/html/rd/p/000000058.000152561.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[LINEヤフーコミュニケーションズ株式会社] LINEヤフー株式会社の100%子会社で、LINEヤフーのサービスの運営を担うLINEヤフーコミュニケーションズ株式会社（以下、当社）は、「生成AI前提の運営モデル」への転換を進めています。AI・自動化の活用や運用の..."
+  },
+  {
+   "title": "グローバル企業のWebコミュニケーショントレンドに関する調査レポートとセミナー動画の提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000007.000182615.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[株式会社ミツエーリンクス] [画像: https://prcdn.freetls.fastly.net/release_image/182615/7/182615-7-89f44600eebfa2b05e39452bea784f75-1424x752.png?width=536…"
+  },
+  {
+   "title": "岐阜高専の20歳が起業した学校サイネージ「キミテラス」が正式提供を開始 ─ 工業高校の教室テレビで企業を紹介、実証を経て地元企業の有料掲載が11月から始まる",
+   "link": "https://prtimes.jp/main/html/rd/p/000000001.000192797.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[株式会社Rebounder] 株式会社Rebounder（岐阜県を拠点に活動、本店：東京都文京区、代表取締役：奥村魁斗）は、学校向けサイネージ「キミテラス」の正式提供を始めました。キミテラスは、教室や進路指導室前のテレビに、先生からの連..."
+  },
+  {
+   "title": "アトラシアン、AIネイティブなソフトウェア開発ライフサイクル（SDLC）を実現する新機能群を日本市場向けに展開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000082.000028142.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[アトラシアン株式会社] 要点： - ソフトウェア開発ライフサイクル全体をAIネイティブ化し、開発速度を向上従来の局所的なコーディング支援を超え、コンテキスト・計画・デザイン・開発・レビュー・保守・測定といったライフサイクルをAI..."
+  },
+  {
+   "title": "住宅・不動産営業DXのhomie、過去反響顧客の検討状況と失注理由を可視化する「HOTLEAD INSIGHT」を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000020.000073886.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[homie株式会社] 住宅・不動産営業DXおよび分業化支援事業を展開するhomie株式会社（本社：東京都渋谷区、代表取締役：村上 靖知、以下「homie」）は、反響対応コンシェルジュサービス「HOTLEAD」の新サービスラインとして、過去..."
+  },
+  {
+   "title": "グリーングロース、ドーガンMGXファンドからの出資引受および業務提携契約を締結",
+   "link": "https://prtimes.jp/main/html/rd/p/000000019.000114719.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[株式会社グリーングロース] 株式会社グリーングロース（本社：東京都千代田区、代表取締役：河野 淳平、以下「グリーングロース」）は、株式会社ドーガン（本社：福岡県福岡市、代表取締役：森 大介）が無限責任組合員を務めるドーガンMGX投..."
+  },
+  {
+   "title": "QommonsAI活用研修を三重県大台町（みえけん おおだいちょう）で実施 - 「自席に戻ったらすぐ試したい」職員同士で学び合う上級編研修",
+   "link": "https://prtimes.jp/main/html/rd/p/000000792.000088829.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[ポリミル] 生成AIの社会実装を牽引するPolimill株式会社（本社：東京都港区／代表取締役：伊藤あやめ・谷口野乃花）は2026年10月13日、三重県大台町の職員を対象に、自治体向け生成AI「QommonsAI（コモンズAI）」の活用研修..."
+  },
+  {
+   "title": "「このPC、感染してない？」をAIエージェントに日本語で聞ける。cccskills、PCの安全点検スキル「pc-security-checkup」を無料公開",
+   "link": "https://prtimes.jp/main/html/rd/p/000000088.000041726.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[株式会社ウォーカー] 株式会社ウォーカー（本社：東京都文京区、代表取締役：伊東 雄歩）は、AI エージェント向けの「Agent Skills」を日本語で探せるマーケット「cccskills（シーシーシースキルズ）」の公式 GitHub で、PC の安全点..."
+  },
+  {
+   "title": "あなたのAI顧問株式会社、経営者向け「Muse」活用ノウハウの無料提供を開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000056.000175627.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[あなたのAI顧問株式会社] あなたのAI顧問株式会社（代表取締役：黒山 結音）は、経営者を対象に、MetaのパーソナルAIエージェント「Muse」を仕事に活かすノウハウの無料提供を開始しました。 本企画では、代表・黒山が自身のAI活用経験を..."
+  },
+  {
+   "title": "インバウンド集客強化のための相談をAIでいつでもできる観光・宿泊事業者向けAIサービス「藍オーシャン」、老舗のインバウンドマーケティング専門家が開発。60日無料のフリープランで提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000002.000192300.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[株式会社インバウンドにっぽん] 株式会社インバウンドにっぽん（本社：東京都小金井市、代表：小野秀一郎）は、［2026年10月22日］より、観光事業者向けのインバウンド集客支援AIサービス「藍オーシャン(http://www.ai-ocean.jp)」の提供を開始..."
+  },
+  {
+   "title": "AKROS Energy GmbHが日本市場参入 ― 塩（ギ酸塩）で水素を貯めて運ぶ新技術、導入相談の受付を開始！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000049.000097250.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[サン・テンコンサルティング] AKROS Energy GmbH（アクロス・エネルギー社、ドイツ・ロストック＝ラーゲ）は、塩（ギ酸塩）を水素キャリアとして用いる、化学的な水素貯蔵・輸送ソリューションを開発する企業です。同社は水素の製造・貯蔵・イ..."
+  },
+  {
+   "title": "介護特化型 業務効率化AIツール「noman」、株式会社ツクイの居宅介護支援事業所へ導入ー記録業務の負担軽減により「働きやすい環境」と「質の高いケア」を両立",
+   "link": "https://prtimes.jp/main/html/rd/p/000000019.000049236.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[株式会社scoville] 株式会社ツクイ（本社：神奈川県横浜市、代表取締役社長：高畠 毅、以下「ツクイ」）と、株式会社scoville（本社：東京都渋谷区、代表取締役：出谷昌裕、以下「scoville」）は、scovilleが開発・提供する介護特化..."
+  },
+  {
+   "title": "Claude×消費者調査MMM(R)で売上貢献分析を自動化。人月約2,700万円相当の分析を80万円で実現。その開発・活用ポイントを解説【11/11(水)16時開催】",
+   "link": "https://prtimes.jp/main/html/rd/p/000000243.000064613.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[アイブリッジ株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/64613/243/64613-243-c9f49a65539996de421ea0ea332265a9-1200x630.jpg?width=53…"
+  },
+  {
+   "title": "リーガルテック社、3Dプリンター・積層造形分野向け「造形プロセス横断 発明抽出ワークフロー」を提供開始【IPGenius】",
+   "link": "https://prtimes.jp/main/html/rd/p/000000551.000042056.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[リーガルテック株式会社] リーガルテック株式会社（東京都港区、代表取締役社長：平井 智之）は、3Dプリンター・積層造形（Additive Manufacturing）分野の研究開発部門・知財部門・品質保証部門・技術企画部門を対象に、「造形プロセス横..."
+  },
+  {
+   "title": "インテージ、ナインアウトと業務提携契約を締結",
+   "link": "https://prtimes.jp/main/html/rd/p/000000295.000036691.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[株式会社インテージ] 株式会社インテージ（本社：東京都千代田区、取締役社長：檜垣 歩、以下インテージ）と、Sansan株式会社のグループ会社であるナインアウト株式会社（本社：東京都港区、代表取締役：石野 真吾、以下ナインアウト..."
+  },
+  {
+   "title": "ナインアウト、インテージと業務提携契約を締結",
+   "link": "https://prtimes.jp/main/html/rd/p/000000201.000014710.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[ナインアウト株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/14710/201/14710-201-576c0b3fb0fb739fdce4352258c3e792-1200x630.png?width=536…"
+  },
+  {
+   "title": "あなたのAI顧問株式会社、士業とのパートナー連携を拡大し、中小企業のAI活用支援体制を強化",
+   "link": "https://prtimes.jp/main/html/rd/p/000000055.000175627.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[あなたのAI顧問株式会社] あなたのAI顧問株式会社（代表取締役：黒山 結音）は、士業の先生方から顧問先企業をご紹介いただき、当社がAI活用・業務改善を支援するパートナー連携を進めていることをお知らせいたします。 士業の先生方との..."
+  },
+  {
+   "title": "巡回・送迎業務を支援する「ルートナビゲータープラス」がAndroidスマートフォンに対応！10月27日より提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000064.000076637.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[株式会社マップル] 株式会社昭文社ホールディングス（本社：東京都千代田区、代表取締役社長 黒田茂夫、東証コード 9475）の子会社である株式会社マップル（本社：同上、代表取締役社長 大日方祐樹、以下、マップル）は、ごみ収集や..."
+  },
+  {
+   "title": "WasabiCard、グローバル給与支払いソリューションをローンチ。世界の分散型チームの給与支払い課題を解決",
+   "link": "https://prtimes.jp/main/html/rd/p/000000011.000189471.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T07:40:02+09:00",
+   "summary": "[WSCD SOLUTION PTE. LTD] グローバル経営やリモートワーク、デジタルビジネスモデルの浸透に伴い、企業は国境の制約を越え、分散型チームを構築する動きを強めている。 従来、企業は単一の市場を中心に人材を採用し、現地銀行のシステムを..."
+  },
+  {
+   "title": "QommonsAI活用研修を岡山県笠岡市（おかやまけん かさおかし）で実施 - 「すぐに業務で試したい」自治体職員の実務に寄り添う生成AI研修",
+   "link": "https://prtimes.jp/main/html/rd/p/000000780.000088829.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T07:10:02+09:00",
+   "summary": "[ポリミル] 生成AIの社会実装を牽引するPolimill株式会社（本社：東京都港区／代表取締役：伊藤あやめ・谷口野乃花）は2026年9月29日、岡山県笠岡市の職員などを対象に、自治体向け生成AI「QommonsAI（コモンズAI）」の活用..."
+  },
+  {
+   "title": "｢子育て世代殺到の憧れの街｣→｢40年で高齢化率45％の街に｣…老いたニュータウンで住宅大手が描く｢再生ビジネス｣の勝算 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962549?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "source": "東洋経済オンライン",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-11-01T06:45:00+09:00",
+   "summary": "人口減少と高齢化が進む兵庫県宝塚市･中山台ニュータウン。老朽化や住民減少など数々の課題を抱える中､パナソニック ホームズが街全体の再生に挑戦しています。なぜ住宅会社がこの地に参入し､どのような未来像…"
+  },
+  {
+   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T06:41:00+09:00",
+   "summary": "Apple's new CEO defended the company's current position in the AI landscape."
+  },
+  {
+   "title": "富士フイルム、「磁気テープ」5倍増産へ100億円投資--「ランサムウェア耐性が注目」と同社",
+   "link": "https://japan.cnet.com/article/35254254/",
+   "source": "CNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T06:40:00+09:00",
+   "summary": "富士フイルムは10月29日、データ保存用磁気テープの生産体制に約100億円を投資し、生産能力を出荷容量ベースで2025年度の約5倍に増やすと発表した。生成AIの普及に伴うデータの長期保存需要の増加に対応する。"
+  },
+  {
+   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+   "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T06:36:07+09:00",
+   "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights,…"
+  },
+  {
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T06:17:03+09:00",
+   "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+  },
+  {
+   "title": "AIショックで中国の映像産業に｢冬の時代｣…実写のショートドラマが激減､ユーザー引き留めへ撮影スタジオを無料化 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/962872?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "source": "東洋経済オンライン",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T05:50:00+09:00",
+   "summary": "AIによる動画生成の劇的な進歩が､中国の映像産業に大転換を迫っています。実写動画の撮影急減を受け､中国最大級の撮影スタジオ｢横店影視城｣は施設のレンタル料を無料化。制作会社の引き留めに躍起ですが､A…"
+  },
+  {
+   "title": "「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も",
+   "link": "https://japan.cnet.com/article/35254236/",
+   "source": "CNET Japan",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T05:10:00+09:00",
+   "summary": "デジタル庁が10月30日に公表した政府職員の生成AI利用状況調査で、生成AIを使える職員に仕事が集中し、かえって負担が増えるという声が寄せられた。週1〜2回以上使う回答者の過半数が、AIを導入した業務で週1時間以上の短縮を実感した一方、AIの回答の確認や指示文の作成に手間がかかる…"
+  },
+  {
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "source": "TechCrunch AI",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-11-01T01:12:55+09:00",
+   "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+  },
+  {
+   "title": "動物病院の人事評価制度と育成カリキュラムが、自院で作れる。「まなぴ」病院プランの提供を開始、リリース記念キャンペーンを実施",
+   "link": "https://prtimes.jp/main/html/rd/p/000000001.000178450.html",
+   "source": "PR TIMES",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-31T17:00:00+09:00",
+   "summary": "[株式会社96c] 株式会社96c（クロシー、本社：埼玉県新座市、代表取締役：黒川雄介）は、獣医師・愛玩動物看護師の育成と人事評価をひとつの仕組みにする動物病院向けプラットフォーム「まなぴ」病院プランの提供を2026年10月31..."
+  },
+  {
+   "title": "Uravation、「部門別 ChatGPT 業務プロンプト集 50」を無料公開。10部門の50本を「役割・材料・形式・制約・確かめ方」の5つの型でそろえ、絞り込めるExcelを同梱しました",
+   "link": "https://ascii.jp/elem/000/004/447/4447541/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-31T16:00:00+09:00",
+   "summary": "Uravation、「部門別 ChatGPT 業務プロンプト集 50」を無料公開。10部門の50本を「役割・材料・形式・制約・確かめ方」の5つの型でそろえ、絞り込めるExcelを同梱しました"
+  },
+  {
+   "title": "【888人調査】経営層と合意した新規事業のKPIを実際の評価に使えていたのはわずか20.5％―PoCの結果と不足情報を、経営会議用の1枚に整理する「PoC事業化判断キット」｜イノベーション総研",
+   "link": "https://ascii.jp/elem/000/004/447/4447534/?rss",
+   "source": "ASCII.jp",
+   "genres": [
+    "biz"
+   ],
+   "published": "2026-10-31T15:29:25+09:00",
+   "summary": "【888人調査】経営層と合意した新規事業のKPIを実際の評価に使えていたのはわずか20.5％―PoCの結果と不足情報を、経営会議用の1枚に整理する「PoC事業化判断キット」｜イノベーション総研"
+  },
+  {
+   "title": "ゴムマリの業務AIエージェント、『予実管理』を提供開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000021.000185093.html",
+   "source": "PR TIMES",
+   "genres": [
+    "ai",
+    "biz"
+   ],
+   "published": "2026-10-31T11:15:17+09:00",
+   "summary": "[ゴムマリ] ゴムマリ株式会社（東京都、代表取締役: 村山悠太）は、予実管理業務を対象としたAIエージェント「予実管理AIエージェント」の提供を2026年10月31日より開始します。会計システムから出力した予算データと実績デ..."
+  },
+  {
+   "title": "Claude、有料プラン名称を変更　「Max 20x」から「Ultra」で5時間制限撤廃",
+   "link": "https://www.watch.impress.co.jp/docs/news/2152823.html",
+   "source": "Impress Watch",
+   "genres": [
+    "ai"
+   ],
+   "published": "2026-10-31T10:40:00+09:00",
+   "summary": "Anthropic(アンソロピック)は31日、AIサービス「Claudeの有料プランの名称を変更した。従来の「Max 5x」は「Max」に、「Max 20x」を「Ultra」に変更する。月額料金は変わらず、Maxが100ドル、Ultraが200ドル。"
+  },
   {
    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
@@ -133,16 +578,6 @@
    ],
    "published": "2026-10-31T09:10:02+09:00",
    "summary": "[エディフィストラーニング株式会社] [表1: https://prtimes.jp/data/corp/14745/table/15_1_eb2aef84dac4f14830f473fb165c48fd.jpg?v=202610311015 ] 提供開始の背景 生成AIやデジタ…"
-  },
-  {
-   "title": "【那覇商工会議所】人手不足を乗り越える！生成AIと多様な人材活用セミナーを12/17(初級編)・1/19(中級編)に開催",
-   "link": "https://prtimes.jp/main/html/rd/p/000000038.000178799.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-31T09:10:02+09:00",
-   "summary": "[那覇商工会議所] 沖縄県商工労働部 雇用政策課（共催：那覇商工会議所 卸売部会・沖縄間税会連合会）は、中小企業振興会館にて企業向けセミナー「生成AIと多様な人材活用」を開催いたします。 「生成AIって難しそう」「自社の仕..."
   },
   {
    "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
@@ -706,88 +1141,6 @@
    ],
    "published": "2026-10-30T09:40:02+09:00",
    "summary": "[NTTデータ先端技術] 株式会社NTTデータ先端技術（本社：東京都千代田区、代表取締役社長：田中 秀彦、以下：NTTデータ先端技術）は、統合運用管理ソフトウェア「Hinemos」においてAIエージェント技術を用いた新たな実証実験を開始し..."
-  },
-  {
-   "title": "【Claude Code / Codexユーザー歓迎】人事の「こんなツールがあったら」を目の前でつくる夜～Ubie×Offersと、持ち寄った\"欲しい\"を形にするモック大会～｜11/16（月）開催",
-   "link": "https://prtimes.jp/main/html/rd/p/000000360.000053307.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-30T09:40:02+09:00",
-   "summary": "[株式会社overflow] 参加者が持ち寄った人事・採用の「こんなツールがあったら」を、Ubie橋山氏とoverflowの鈴木・大谷がClaude Code / Codexでその場でモックにする参加型イベントを、2026年11月16日に東京・渋谷で開催。 [画像1: h..."
-  },
-  {
-   "title": "NEWh、生成AI時代の事業構想・推進人材を育成する「事業構想ブートキャンプ」を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000045.000078441.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-10-30T09:40:02+09:00",
-   "summary": "[NEWh] 株式会社NEWh（本社：東京都千代田区、代表取締役社長：神谷 憲司、以下「NEWh」）は、生成AI時代の事業構想・推進人材を育成する実践型メンタリング研修「事業構想ブートキャンプ」の提供を開始しました。 事業..."
-  },
-  {
-   "title": "AIのためのデータ実行・運用基盤「Reckoner」、SAP S/4HANA(R)のデータ連携・活用に特化した「Reckoner SAP Edition」を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000474.000024873.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-30T09:40:02+09:00",
-   "summary": "[株式会社スリーシェイク] [画像1: https://prcdn.freetls.fastly.net/release_image/24873/474/24873-474-3a299f8f2f969c65268c4d81f08824e4-1200x630.png?width=5…"
-  },
-  {
-   "title": "メディアリンク、通話データで\"電話そのもの\"を減らすPBX「MediaCalls」の最新機能を「コールセンター/CRM デモ＆コンファレンス 2026 in 東京」で初公開",
-   "link": "https://prtimes.jp/main/html/rd/p/000000230.000072025.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-30T09:40:02+09:00",
-   "summary": "[メディアリンク株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/72025/230/72025-230-4e3249fb8e5aea1e25f4ce09e9c5c01d-1600x900.jpg?width=5…"
-  },
-  {
-   "title": "シナモンAI、企業ナレッジ基盤「Super RAG(TM)」を機能強化　初期導入費用70万円(税別) からの「Starterプラン」を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000132.000028252.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-10-30T09:40:02+09:00",
-   "summary": "[シナモンAI] 国内の大手企業へAI（人工知能）ソリューションを提供する株式会社シナモン（本社：東京都千代田区、代表取締役社長CEO：平野未来 以下「シナモンAI」）は、大量・複雑な社内ドキュメントをAIが参照できるナレ..."
-  },
-  {
-   "title": "LINEヤフーコミュニケーションズ、生成AI前提の運営モデルへ転換。生成AI・自動化と業務改善により、年36万時間相当の業務拡大に対応",
-   "link": "https://prtimes.jp/main/html/rd/p/000000058.000152561.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-30T09:40:02+09:00",
-   "summary": "[LINEヤフーコミュニケーションズ株式会社] LINEヤフー株式会社の100%子会社で、LINEヤフーのサービスの運営を担うLINEヤフーコミュニケーションズ株式会社（以下、当社）は、「生成AI前提の運営モデル」への転換を進めています。AI・自動化の活用や運用の..."
-  },
-  {
-   "title": "グローバル企業のWebコミュニケーショントレンドに関する調査レポートとセミナー動画の提供を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000007.000182615.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-30T09:40:02+09:00",
-   "summary": "[株式会社ミツエーリンクス] [画像: https://prcdn.freetls.fastly.net/release_image/182615/7/182615-7-89f44600eebfa2b05e39452bea784f75-1424x752.png?width=536…"
-  },
-  {
-   "title": "岐阜高専の20歳が起業した学校サイネージ「キミテラス」が正式提供を開始 ─ 工業高校の教室テレビで企業を紹介、実証を経て地元企業の有料掲載が11月から始まる",
-   "link": "https://prtimes.jp/main/html/rd/p/000000001.000192797.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-30T09:40:02+09:00",
-   "summary": "[株式会社Rebounder] 株式会社Rebounder（岐阜県を拠点に活動、本店：東京都文京区、代表取締役：奥村魁斗）は、学校向けサイネージ「キミテラス」の正式提供を始めました。キミテラスは、教室や進路指導室前のテレビに、先生からの連..."
   },
   {
    "title": "【レビュー】走っている場所を教えられる　ガーミン「fēnix 9 Pro inReach」が便利&安心！",
@@ -1574,36 +1927,6 @@
    "summary": "[氏家物産株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/169264/48/169264-48-f250291957f566ea48e82e6e5773cd0a-1672x941.png?width=536&…"
   },
   {
-   "title": "アトラシアン、AIネイティブなソフトウェア開発ライフサイクル（SDLC）を実現する新機能群を日本市場向けに展開",
-   "link": "https://prtimes.jp/main/html/rd/p/000000082.000028142.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-29T09:00:00+09:00",
-   "summary": "[アトラシアン株式会社] 要点： - ソフトウェア開発ライフサイクル全体をAIネイティブ化し、開発速度を向上従来の局所的なコーディング支援を超え、コンテキスト・計画・デザイン・開発・レビュー・保守・測定といったライフサイクルをAI..."
-  },
-  {
-   "title": "住宅・不動産営業DXのhomie、過去反響顧客の検討状況と失注理由を可視化する「HOTLEAD INSIGHT」を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000020.000073886.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-29T09:00:00+09:00",
-   "summary": "[homie株式会社] 住宅・不動産営業DXおよび分業化支援事業を展開するhomie株式会社（本社：東京都渋谷区、代表取締役：村上 靖知、以下「homie」）は、反響対応コンシェルジュサービス「HOTLEAD」の新サービスラインとして、過去..."
-  },
-  {
-   "title": "グリーングロース、ドーガンMGXファンドからの出資引受および業務提携契約を締結",
-   "link": "https://prtimes.jp/main/html/rd/p/000000019.000114719.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-29T09:00:00+09:00",
-   "summary": "[株式会社グリーングロース] 株式会社グリーングロース（本社：東京都千代田区、代表取締役：河野 淳平、以下「グリーングロース」）は、株式会社ドーガン（本社：福岡県福岡市、代表取締役：森 大介）が無限責任組合員を務めるドーガンMGX投..."
-  },
-  {
    "title": "『富士通メインフレーム保守終了、移行も運用も生成AIで乗り切る』というテーマのウェビナーを開催",
    "link": "https://prtimes.jp/main/html/rd/p/000005985.000054842.html",
    "source": "PR TIMES",
@@ -1622,16 +1945,6 @@
    ],
    "published": "2026-10-29T09:00:00+09:00",
    "summary": "[株式会社エフ・ディー・シー] [画像1: https://prcdn.freetls.fastly.net/release_image/94496/112/94496-112-8fb3683f7ae0236d62c142b9dbf28bda-1680x945.png?width…"
-  },
-  {
-   "title": "QommonsAI活用研修を三重県大台町（みえけん おおだいちょう）で実施 - 「自席に戻ったらすぐ試したい」職員同士で学び合う上級編研修",
-   "link": "https://prtimes.jp/main/html/rd/p/000000792.000088829.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-29T09:00:00+09:00",
-   "summary": "[ポリミル] 生成AIの社会実装を牽引するPolimill株式会社（本社：東京都港区／代表取締役：伊藤あやめ・谷口野乃花）は2026年10月13日、三重県大台町の職員を対象に、自治体向け生成AI「QommonsAI（コモンズAI）」の活用研修..."
   },
   {
    "title": "「コンビニビジ文字プリント」に新機能登場！最大7色のグラデーションで彩る「レインボーカラー（多色塗り）」＆ 立体感を盛れる「ぷっくり加工」で、推し活うちわをもっと華やかに！",
@@ -2361,16 +2674,6 @@
    "summary": "Anduril IndustriesとQualcommは、米国製コンピュータ製造基盤の再構築を目指す製品ライン「BlueChip」を共同発表した。第1弾として「Snapdragon X」シリーズ搭載ノートPCを開発し、2027年に受注を開始する。筐体や基板組み立てを国内で行い、海…"
   },
   {
-   "title": "「このPC、感染してない？」をAIエージェントに日本語で聞ける。cccskills、PCの安全点検スキル「pc-security-checkup」を無料公開",
-   "link": "https://prtimes.jp/main/html/rd/p/000000088.000041726.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-28T09:40:49+09:00",
-   "summary": "[株式会社ウォーカー] 株式会社ウォーカー（本社：東京都文京区、代表取締役：伊東 雄歩）は、AI エージェント向けの「Agent Skills」を日本語で探せるマーケット「cccskills（シーシーシースキルズ）」の公式 GitHub で、PC の安全点..."
-  },
-  {
    "title": "新作スマートフォンゲーム「BLEACH Mirrors High」久保帯人先生が手掛ける新人隊士10名が解禁！さらに、オープニングアニメ＆オープニングテーマも公開！10月28日にサービス開始予定！",
    "link": "https://prtimes.jp/main/html/rd/p/000002374.000051316.html",
    "source": "PR TIMES",
@@ -2419,17 +2722,6 @@
    ],
    "published": "2026-10-28T09:21:00+09:00",
    "summary": "富士通は10月27日、顧客が自社のサイバーリスクを把握し、限られたリソースの中で優先すべき対策を明確にして実行につなげられるよう、サイバー防衛能力の向上を支援するソリューションの提供を開始すると発表した。8月に発表したサイバーセキュリティ戦略の一環として提供する。"
-  },
-  {
-   "title": "あなたのAI顧問株式会社、経営者向け「Muse」活用ノウハウの無料提供を開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000056.000175627.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai",
-    "biz"
-   ],
-   "published": "2026-10-28T09:10:02+09:00",
-   "summary": "[あなたのAI顧問株式会社] あなたのAI顧問株式会社（代表取締役：黒山 結音）は、経営者を対象に、MetaのパーソナルAIエージェント「Muse」を仕事に活かすノウハウの無料提供を開始しました。 本企画では、代表・黒山が自身のAI活用経験を..."
   },
   {
    "title": "360度カメラの映像から高精細な3Dモデルを生成、東電PGの建物保全業務に導入",
@@ -7950,126 +8242,6 @@
    ],
    "published": "2026-10-18T10:15:18+09:00",
    "summary": "[GotoAI株式会社] GotoAI株式会社（本社：東京都港区、代表取締役：党 聡維）は、Claude・ChatGPTのサブスクリプションで使えるデスクトップAIエージェント「Kari（かり）」に、手元のCSVやExcelの分析を自動化する機能を追加しま..."
-  },
-  {
-   "title": "USGFX合同会社とEワラントFX合同会社がFXキャッシュバックサイト「トクバク」の設計・構築からローンチまでを一貫して担当！",
-   "link": "https://prtimes.jp/main/html/rd/p/000000007.000158719.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-18T09:10:02+09:00",
-   "summary": "[USGFX合同会社] USGFX合同会社とEワラントFX合同会社(https://ewarrant.co.jp/)は、FX取引におけるキャッシュバックサービス「トクバク」のWebサイト開発プロジェクトに参画し、サービス全体の設計、サイト構築、公開に至るまで..."
-  },
-  {
-   "title": "「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
-   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-18T08:00:00+09:00",
-   "summary": "AIコーディングエージェントの自律性が高まる一方、本番データベースの削除といった事故も起こっています。では、「人間の承認」を増やせば事故は防げるのでしょうか。事例と対策から、事故を起こさないAIエージェントの設計について考えます。"
-  },
-  {
-   "title": "Meta removes language that raised scraping and AI training concerns",
-   "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-18T06:31:32+09:00",
-   "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
-  },
-  {
-   "title": "中国、AI技術23項目を輸出規制へ　その中身とは",
-   "link": "https://japan.cnet.com/article/35253670/",
-   "source": "CNET Japan",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-18T05:40:00+09:00",
-   "summary": "中国の商務部と科学技術部は10月16日、大規模AIモデルや、自律的に作業を進めるAIエージェントなどに関する23項目の技術を、輸出の禁止・制限の対象に加える案を公表した。ただし、大規模モデルの機能をAPIやアプリで海外向けに提供する場合は、技術輸出管理の対象外とする方針だ。"
-  },
-  {
-   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-   "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-18T05:21:19+09:00",
-   "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
-  },
-  {
-   "title": "領収書を撮るだけで仕訳ができ、請求書の発行から決算書まで完結するクラウド会計「キャピタル会計」　個人事業主は無料、法人は月額1,000円(1年間無料)で提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000002.000189087.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-18T05:10:03+09:00",
-   "summary": "[キャピタルメディア株式会社] キャピタルメディア株式会社(本社:東京都大田区、代表:成重鉄二)は、個人事業主・ひとり社長・小規模法人向けのクラウド会計サービス「キャピタル会計」(https://capital-kaikei.com/)の提供を開始いたします。個..."
-  },
-  {
-   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-   "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-   "source": "TechCrunch AI",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-18T03:48:08+09:00",
-   "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, bu…"
-  },
-  {
-   "title": "ラベル・パッケージの校正・検査を一元化する ＡＩクラウドサービス「emba エンバ」― TOKYO PACK 2026で新機能を初公開 ―",
-   "link": "https://prtimes.jp/main/html/rd/p/000000002.000001352.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-18T03:10:02+09:00",
-   "summary": "[株式会社ジーティービー] [画像1: https://prcdn.freetls.fastly.net/release_image/1352/2/1352-2-1ca4184fcab480f9edd16cf10d4c2078-1200x630.png?width=536&amp…"
-  },
-  {
-   "title": "『荒野行動』9周年！話題の「モナキ」コラボ、賞品総額1,000万円のキャンペーンなど豪華イベントが続々登場！",
-   "link": "https://prtimes.jp/main/html/rd/p/000000684.000071247.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-18T00:10:02+09:00",
-   "summary": "[NetEase Interactive Entertainment Pte. Ltd] NetEase Gamesが開発・運営する大人気バトルロワイヤルゲーム『荒野行動』は、2026年10月より、サービス開始9周年を記念したさまざまなイベントを開催いたします。人気歌謡コーラスグ…"
-  },
-  {
-   "title": "生成AIが選ぶ「弁護士事務所」、1位はベリーベスト法律事務所（言及率44.4%）【2026年9月調査】",
-   "link": "https://prtimes.jp/main/html/rd/p/000000015.000155520.html",
-   "source": "PR TIMES",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-18T00:10:02+09:00",
-   "summary": "[株式会社ブランディングワークス] 株式会社ブランディングワークス（本社: 千葉県柏市、代表取締役: 根谷泰順、以下「当社」）は、生成AIが「弁護士事務所のおすすめは？」という質問にどの企業の名前を挙げるかを継続的に記録する定点調査を実施..."
-  },
-  {
-   "title": "獲得した名刺を営業資産へ　AI営業支援CRM「ProSales」が名刺スキャン機能を提供開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000000047.000159668.html",
-   "source": "PR TIMES",
-   "genres": [
-    "biz"
-   ],
-   "published": "2026-10-17T22:10:02+09:00",
-   "summary": "[ワンダフルフライ株式会社] 営業活動の起点となる名刺情報。しかし、多くの企業では入力作業や情報共有に課題があり、営業資産として十分に活用できていません。 ワンダフルフライは、AI営業支援CRM「ProSales」において、新たに名刺スキャ..."
-  },
-  {
-   "title": "「そもそも親にAIなんて必要ない」　65歳以上の生成AI利用、子世代の7割が拒否する理由",
-   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html",
-   "source": "ITmedia AI+",
-   "genres": [
-    "ai"
-   ],
-   "published": "2026-10-17T17:00:00+09:00",
-   "summary": "SHIFT AIが65歳以上の親を持つ全国の30～50代男女723人を対象とした「シニア×AIの意識調査」の結果を発表。親に生成AIを使ってほしくない子世代が69.3％に達したという結果とともに、その理由や自身の利用頻度、親に教える際の障壁などを示した。"
   }
  ]
 }
